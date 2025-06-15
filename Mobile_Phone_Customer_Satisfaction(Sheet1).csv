@@ -1,0 +1,1001 @@
+Customer ID,Total Cutomer,Brand,Age,Average Age,Age Group,Gender,Location,Rating,Average Satisfaction,Customer Satisfaction,Feedback Text,Customer Sentiment,Complaint Tag,Sentiment Score,Review Date,Month and Year,Monthly Satisfaction,High Risk Flag,High Risk Customer,Churn Risk%
+CUST1000,1000,Apple,56,39,47-60,Female,Rangpur,5,3,Very Satisfied,Lags frequently,Negative,Slow System,-1,"2 April, 2024",Apr-2024,,0,411,41%
+CUST1001,1000,Samsung,46,39,46-55,Male,Khulna,4,3,Satisfied,Amazing camera quality,Positive,General,1,"5 March, 2023",Mar-2023,,0,411,41%
+CUST1002,1000,Xiaomi,32,39,26-35,Male,Rangpur,4,3,Satisfied,Excellent battery life,Positive,Battery Problem,1,"17 September, 2023",Sep-2023,,0,411,41%
+CUST1003,1000,Oppo,25,39,18-25,Male,Sylhet,5,3,Very Satisfied,Too expensive for features,Negative,Pricing Issue,-1,"12 July, 2023",Jul-2023,,0,411,41%
+CUST1004,1000,Oneplus,38,39,36-45,Female,Rajshahi,2,3,Dissatisfied,Affordable and reliable,Positive,General,1,"16 October, 2024",Oct-2024,,1,411,41%
+CUST1005,1000,Samsung,56,39,47-60,Male,Chittagong,3,3,Neutral,Great performance under heavy use,Positive,General,1,"7 September, 2024",Sep-2024,,0,410,41%
+CUST1006,1000,Xiaomi,36,39,36-45,Male,Sylhet,3,3,Neutral,Great performance under heavy use,Positive,General,1,"10 February, 2024",Feb-2024,,0,410,41%
+CUST1007,1000,Oneplus,40,39,36-45,Male,Chittagong,3,3,Neutral,Stylish design,Neutral,General,0,"26 December, 2024",Dec-2024,,0,410,41%
+CUST1008,1000,Oneplus,28,39,26-35,Female,Rajshahi,4,3,Satisfied,Too expensive for features,Negative,Pricing Issue,-1,"21 December, 2024",Dec-2024,,0,410,41%
+CUST1009,1000,Samsung,28,39,26-35,Other,Khulna,4,3,Satisfied,Amazing camera quality,Positive,General,1,"3 April, 2023",Apr-2023,,0,410,41%
+CUST1010,1000,Apple,41,39,36-45,Male,Chittagong,2,3,Dissatisfied,Lags frequently,Negative,Slow System,-1,"5 March, 2024",Mar-2024,,1,410,41%
+CUST1011,1000,Samsung,53,39,46-55,Other,Dhaka,3,3,Neutral,Too expensive for features,Negative,Pricing Issue,-1,"15 October, 2024",Oct-2024,,0,409,41%
+CUST1012,1000,Xiaomi,57,39,47-60,Male,Dhaka,3,3,Neutral,Poor camera resolution,Negative,General,-1,"9 March, 2024",Mar-2024,,0,409,41%
+CUST1013,1000,Oneplus,41,39,36-45,Other,Rangpur,5,3,Very Satisfied,Amazing camera quality,Positive,General,1,"8 February, 2024",Feb-2024,,0,409,41%
+CUST1014,1000,Samsung,20,39,18-25,Female,Sylhet,4,3,Satisfied,Design feels outdated,Negative,General,-1,"9 March, 2024",Mar-2024,,0,409,41%
+CUST1015,1000,Apple,39,39,36-45,Female,Rajshahi,3,3,Neutral,Very durable,Positive,General,1,"22 April, 2023",Apr-2023,,0,409,41%
+CUST1016,1000,Samsung,19,39,18-25,Male,Rangpur,2,3,Dissatisfied,Excellent battery life,Positive,Battery Problem,1,"10 January, 2024",Jan-2024,,1,409,41%
+CUST1017,1000,Oppo,41,39,36-45,Other,Sylhet,2,3,Dissatisfied,Excellent battery life,Positive,Battery Problem,1,"28 February, 2023",Feb-2023,,1,408,41%
+CUST1018,1000,Apple,47,39,46-55,Female,Sylhet,3,3,Neutral,Amazing camera quality,Positive,General,1,"12 February, 2023",Feb-2023,,0,407,41%
+CUST1019,1000,Xiaomi,55,39,46-55,Male,Rangpur,4,3,Satisfied,Great performance under heavy use,Positive,General,1,"26 July, 2023",Jul-2023,,0,407,41%
+CUST1020,1000,Oneplus,19,39,18-25,Male,Barisal,2,3,Dissatisfied,Great performance under heavy use,Positive,General,1,"23 October, 2023",Oct-2023,,1,407,41%
+CUST1021,1000,Samsung,38,39,36-45,Female,Sylhet,5,3,Very Satisfied,Poor camera resolution,Negative,General,-1,"28 April, 2023",Apr-2023,,0,406,41%
+CUST1022,1000,Apple,50,39,46-55,Female,Barisal,2,3,Dissatisfied,Design feels outdated,Negative,General,-1,"15 June, 2024",Jun-2024,,1,406,41%
+CUST1023,1000,Oppo,29,39,26-35,Male,Dhaka,1,3,Very Dissatisfied,Excellent battery life,Positive,Battery Problem,1,"10 August, 2023",Aug-2023,,1,405,41%
+CUST1024,1000,Apple,39,39,36-45,Other,Dhaka,1,3,Very Dissatisfied,Poor camera resolution,Negative,General,-1,"15 June, 2023",Jun-2023,,1,404,40%
+CUST1025,1000,Vivo,42,39,36-45,Other,Sylhet,4,3,Satisfied,Great performance under heavy use,Positive,General,1,"4 October, 2024",Oct-2024,,0,403,40%
+CUST1026,1000,Oppo,44,39,36-45,Other,Dhaka,3,3,Neutral,Too expensive for features,Negative,Pricing Issue,-1,"5 June, 2023",Jun-2023,,0,403,40%
+CUST1027,1000,Xiaomi,59,39,47-60,Male,Rajshahi,4,3,Satisfied,Lags frequently,Negative,Slow System,-1,"3 July, 2023",Jul-2023,,0,403,40%
+CUST1028,1000,Oneplus,45,39,36-45,Female,Barisal,4,3,Satisfied,Too expensive for features,Negative,Pricing Issue,-1,"31 March, 2023",Mar-2023,,0,403,40%
+CUST1029,1000,Xiaomi,33,39,26-35,Male,Barisal,4,3,Satisfied,Poor camera resolution,Negative,General,-1,"4 April, 2023",Apr-2023,,0,403,40%
+CUST1030,1000,Samsung,32,39,26-35,Female,Sylhet,4,3,Satisfied,Very durable,Positive,General,1,"13 January, 2023",Jan-2023,,0,403,40%
+CUST1031,1000,Apple,20,39,18-25,Other,Dhaka,5,3,Very Satisfied,Great performance under heavy use,Positive,General,1,"13 March, 2024",Mar-2024,,0,403,40%
+CUST1032,1000,Vivo,54,39,46-55,Other,Chittagong,5,3,Very Satisfied,Battery drains quickly,Negative,Battery Problem,-1,"21 June, 2024",Jun-2024,,0,403,40%
+CUST1033,1000,Oppo,24,39,18-25,Female,Rangpur,2,3,Dissatisfied,Design feels outdated,Negative,General,-1,"9 August, 2024",Aug-2024,,1,403,40%
+CUST1034,1000,Oppo,38,39,36-45,Female,Rangpur,1,3,Very Dissatisfied,Affordable and reliable,Positive,General,1,"30 May, 2023",May-2023,,1,402,40%
+CUST1035,1000,Apple,26,39,26-35,Male,Barisal,4,3,Satisfied,Customer service is slow,Negative,Slow System,-1,"21 October, 2024",Oct-2024,,0,401,40%
+CUST1036,1000,Vivo,56,39,47-60,Other,Sylhet,2,3,Dissatisfied,Breaks easily,Negative,General,-1,"8 January, 2023",Jan-2023,,1,401,40%
+CUST1037,1000,Apple,35,39,26-35,Male,Sylhet,1,3,Very Dissatisfied,Excellent battery life,Positive,Battery Problem,1,"29 January, 2023",Jan-2023,,1,400,40%
+CUST1038,1000,Samsung,21,39,18-25,Male,Rajshahi,3,3,Neutral,Customer service is slow,Negative,Slow System,-1,"23 October, 2023",Oct-2023,,0,399,40%
+CUST1039,1000,Xiaomi,42,39,36-45,Male,Khulna,5,3,Very Satisfied,Customer service is slow,Negative,Slow System,-1,"21 December, 2024",Dec-2024,,0,399,40%
+CUST1040,1000,Oppo,31,39,26-35,Other,Khulna,1,3,Very Dissatisfied,Stylish design,Neutral,General,0,"1 October, 2024",Oct-2024,,1,399,40%
+CUST1041,1000,Samsung,26,39,26-35,Male,Barisal,3,3,Neutral,Too expensive for features,Negative,Pricing Issue,-1,"6 December, 2023",Dec-2023,,0,398,40%
+CUST1042,1000,Xiaomi,43,39,36-45,Male,Rangpur,1,3,Very Dissatisfied,Very durable,Positive,General,1,"19 September, 2024",Sep-2024,,1,398,40%
+CUST1043,1000,Samsung,19,39,18-25,Male,Rajshahi,5,3,Very Satisfied,Excellent customer support,Positive,Service Complaint,1,"14 March, 2024",Mar-2024,,0,397,40%
+CUST1044,1000,Vivo,37,39,36-45,Male,Rajshahi,5,3,Very Satisfied,Affordable and reliable,Positive,General,1,"24 May, 2023",May-2023,,0,397,40%
+CUST1045,1000,Oppo,45,39,36-45,Male,Rajshahi,2,3,Dissatisfied,Stylish design,Neutral,General,0,"2 June, 2024",Jun-2024,,1,397,40%
+CUST1046,1000,Apple,24,39,18-25,Male,Barisal,4,3,Satisfied,Great performance under heavy use,Positive,General,1,"14 February, 2023",Feb-2023,,0,396,40%
+CUST1047,1000,Apple,25,39,18-25,Other,Khulna,1,3,Very Dissatisfied,Customer service is slow,Negative,Slow System,-1,"27 August, 2023",Aug-2023,,1,396,40%
+CUST1048,1000,Xiaomi,52,39,46-55,Male,Rangpur,1,3,Very Dissatisfied,Excellent customer support,Positive,Service Complaint,1,"4 June, 2023",Jun-2023,,1,395,40%
+CUST1049,1000,Oneplus,31,39,26-35,Female,Rajshahi,3,3,Neutral,Amazing camera quality,Positive,General,1,"30 June, 2023",Jun-2023,,0,394,39%
+CUST1050,1000,Vivo,34,39,26-35,Male,Rangpur,5,3,Very Satisfied,Amazing camera quality,Positive,General,1,"3 August, 2023",Aug-2023,,0,394,39%
+CUST1051,1000,Xiaomi,53,39,46-55,Male,Dhaka,1,3,Very Dissatisfied,Very durable,Positive,General,1,"29 March, 2023",Mar-2023,,1,394,39%
+CUST1052,1000,Oneplus,57,39,47-60,Other,Sylhet,5,3,Very Satisfied,Amazing camera quality,Positive,General,1,"13 September, 2023",Sep-2023,,0,393,39%
+CUST1053,1000,Samsung,21,39,18-25,Other,Sylhet,1,3,Very Dissatisfied,Excellent customer support,Positive,Service Complaint,1,"25 May, 2024",May-2024,,1,393,39%
+CUST1054,1000,Vivo,19,39,18-25,Female,Rangpur,2,3,Dissatisfied,Breaks easily,Negative,General,-1,"14 March, 2023",Mar-2023,,1,392,39%
+CUST1055,1000,Samsung,23,39,18-25,Female,Chittagong,4,3,Satisfied,Excellent customer support,Positive,Service Complaint,1,"28 June, 2023",Jun-2023,,0,391,39%
+CUST1056,1000,Oppo,59,39,47-60,Other,Chittagong,1,3,Very Dissatisfied,Design feels outdated,Negative,General,-1,"31 July, 2023",Jul-2023,,1,391,39%
+CUST1057,1000,Vivo,21,39,18-25,Other,Barisal,5,3,Very Satisfied,Affordable and reliable,Positive,General,1,"22 August, 2023",Aug-2023,,0,390,39%
+CUST1058,1000,Oneplus,46,39,46-55,Male,Barisal,2,3,Dissatisfied,Customer service is slow,Negative,Slow System,-1,"9 April, 2024",Apr-2024,,1,390,39%
+CUST1059,1000,Oppo,35,39,26-35,Other,Sylhet,1,3,Very Dissatisfied,Excellent battery life,Positive,Battery Problem,1,"11 August, 2023",Aug-2023,,1,389,39%
+CUST1060,1000,Apple,43,39,36-45,Female,Dhaka,3,3,Neutral,Too expensive for features,Negative,Pricing Issue,-1,"22 September, 2024",Sep-2024,,0,388,39%
+CUST1061,1000,Oneplus,51,39,46-55,Male,Khulna,4,3,Satisfied,Battery drains quickly,Negative,Battery Problem,-1,"21 September, 2023",Sep-2023,,0,388,39%
+CUST1062,1000,Xiaomi,27,39,26-35,Female,Khulna,1,3,Very Dissatisfied,Poor camera resolution,Negative,General,-1,"26 July, 2023",Jul-2023,,1,388,39%
+CUST1063,1000,Apple,53,39,46-55,Male,Barisal,2,3,Dissatisfied,Amazing camera quality,Positive,General,1,"29 August, 2024",Aug-2024,,1,387,39%
+CUST1064,1000,Apple,31,39,26-35,Other,Dhaka,3,3,Neutral,Very durable,Positive,General,1,"1 January, 2024",Jan-2024,,0,386,39%
+CUST1065,1000,Xiaomi,48,39,46-55,Female,Barisal,2,3,Dissatisfied,Amazing camera quality,Positive,General,1,"3 October, 2023",Oct-2023,,1,386,39%
+CUST1066,1000,Vivo,32,39,26-35,Male,Khulna,2,3,Dissatisfied,Poor camera resolution,Negative,General,-1,"15 January, 2024",Jan-2024,,1,385,39%
+CUST1067,1000,Apple,25,39,18-25,Male,Rangpur,3,3,Neutral,Affordable and reliable,Positive,General,1,"5 November, 2023",Nov-2023,,0,384,38%
+CUST1068,1000,Oneplus,31,39,26-35,Other,Barisal,2,3,Dissatisfied,Breaks easily,Negative,General,-1,"22 September, 2024",Sep-2024,,1,384,38%
+CUST1069,1000,Oppo,40,39,36-45,Other,Rajshahi,3,3,Neutral,Lags frequently,Negative,Slow System,-1,"25 September, 2023",Sep-2023,,0,383,38%
+CUST1070,1000,Apple,57,39,47-60,Other,Rangpur,1,3,Very Dissatisfied,Design feels outdated,Negative,General,-1,"5 March, 2023",Mar-2023,,1,383,38%
+CUST1071,1000,Oneplus,38,39,36-45,Female,Barisal,3,3,Neutral,Breaks easily,Negative,General,-1,"16 December, 2023",Dec-2023,,0,382,38%
+CUST1072,1000,Samsung,33,39,26-35,Male,Sylhet,3,3,Neutral,Excellent customer support,Positive,Service Complaint,1,"8 May, 2024",May-2024,,0,382,38%
+CUST1073,1000,Oneplus,35,39,26-35,Other,Barisal,4,3,Satisfied,Design feels outdated,Negative,General,-1,"6 June, 2024",Jun-2024,,0,382,38%
+CUST1074,1000,Oppo,41,39,36-45,Female,Sylhet,3,3,Neutral,Great performance under heavy use,Positive,General,1,"8 April, 2023",Apr-2023,,0,382,38%
+CUST1075,1000,Oneplus,43,39,36-45,Female,Dhaka,3,3,Neutral,Too expensive for features,Negative,Pricing Issue,-1,"12 March, 2023",Mar-2023,,0,382,38%
+CUST1076,1000,Xiaomi,42,39,36-45,Female,Khulna,1,3,Very Dissatisfied,Amazing camera quality,Positive,General,1,"30 December, 2023",Dec-2023,,1,382,38%
+CUST1077,1000,Oppo,58,39,47-60,Other,Rangpur,4,3,Satisfied,Excellent battery life,Positive,Battery Problem,1,"23 July, 2024",Jul-2024,,0,381,38%
+CUST1078,1000,Vivo,46,39,46-55,Other,Rangpur,5,3,Very Satisfied,Lags frequently,Negative,Slow System,-1,"3 October, 2023",Oct-2023,,0,381,38%
+CUST1079,1000,Samsung,32,39,26-35,Male,Chittagong,1,3,Very Dissatisfied,Great performance under heavy use,Positive,General,1,"19 February, 2023",Feb-2023,,1,381,38%
+CUST1080,1000,Xiaomi,18,39,18-25,Male,Chittagong,1,3,Very Dissatisfied,Customer service is slow,Negative,Slow System,-1,"24 December, 2023",Dec-2023,,1,380,38%
+CUST1081,1000,Vivo,42,39,36-45,Other,Khulna,5,3,Very Satisfied,Affordable and reliable,Positive,General,1,"28 December, 2024",Dec-2024,,0,379,38%
+CUST1082,1000,Oneplus,24,39,18-25,Female,Chittagong,3,3,Neutral,Amazing camera quality,Positive,General,1,"17 July, 2024",Jul-2024,,0,379,38%
+CUST1083,1000,Oppo,26,39,26-35,Female,Rangpur,2,3,Dissatisfied,Breaks easily,Negative,General,-1,"29 April, 2024",Apr-2024,,1,379,38%
+CUST1084,1000,Samsung,41,39,36-45,Female,Barisal,4,3,Satisfied,Great performance under heavy use,Positive,General,1,"25 March, 2023",Mar-2023,,0,378,38%
+CUST1085,1000,Xiaomi,18,39,18-25,Male,Dhaka,2,3,Dissatisfied,Breaks easily,Negative,General,-1,"29 September, 2024",Sep-2024,,1,378,38%
+CUST1086,1000,Vivo,25,39,18-25,Female,Dhaka,5,3,Very Satisfied,Amazing camera quality,Positive,General,1,"6 August, 2024",Aug-2024,,0,377,38%
+CUST1087,1000,Vivo,41,39,36-45,Male,Khulna,1,3,Very Dissatisfied,Very durable,Positive,General,1,"23 October, 2023",Oct-2023,,1,377,38%
+CUST1088,1000,Samsung,28,39,26-35,Male,Chittagong,1,3,Very Dissatisfied,Affordable and reliable,Positive,General,1,"24 August, 2023",Aug-2023,,1,376,38%
+CUST1089,1000,Oneplus,34,39,26-35,Female,Barisal,4,3,Satisfied,Battery drains quickly,Negative,Battery Problem,-1,"25 February, 2023",Feb-2023,,0,375,38%
+CUST1090,1000,Samsung,25,39,18-25,Female,Dhaka,1,3,Very Dissatisfied,Lags frequently,Negative,Slow System,-1,"26 December, 2023",Dec-2023,,1,375,38%
+CUST1091,1000,Vivo,52,39,46-55,Other,Dhaka,1,3,Very Dissatisfied,Breaks easily,Negative,General,-1,"20 April, 2023",Apr-2023,,1,374,37%
+CUST1092,1000,Apple,52,39,46-55,Other,Rajshahi,4,3,Satisfied,Excellent customer support,Positive,Service Complaint,1,"11 July, 2023",Jul-2023,,0,373,37%
+CUST1093,1000,Xiaomi,50,39,46-55,Female,Rajshahi,4,3,Satisfied,Stylish design,Neutral,General,0,"3 April, 2023",Apr-2023,,0,373,37%
+CUST1094,1000,Samsung,22,39,18-25,Male,Rangpur,5,3,Very Satisfied,Excellent customer support,Positive,Service Complaint,1,"21 July, 2024",Jul-2024,,0,373,37%
+CUST1095,1000,Vivo,59,39,47-60,Male,Dhaka,1,3,Very Dissatisfied,Excellent customer support,Positive,Service Complaint,1,"1 March, 2023",Mar-2023,,1,373,37%
+CUST1096,1000,Oneplus,56,39,47-60,Male,Khulna,1,3,Very Dissatisfied,Great performance under heavy use,Positive,General,1,"11 October, 2024",Oct-2024,,1,372,37%
+CUST1097,1000,Vivo,58,39,47-60,Male,Sylhet,5,3,Very Satisfied,Lags frequently,Negative,Slow System,-1,"8 February, 2023",Feb-2023,,0,371,37%
+CUST1098,1000,Oneplus,45,39,36-45,Male,Sylhet,3,3,Neutral,Affordable and reliable,Positive,General,1,"23 June, 2024",Jun-2024,,0,371,37%
+CUST1099,1000,Samsung,24,39,18-25,Other,Barisal,3,3,Neutral,Too expensive for features,Negative,Pricing Issue,-1,"18 February, 2023",Feb-2023,,0,371,37%
+CUST1100,1000,Oneplus,26,39,26-35,Female,Dhaka,3,3,Neutral,Lags frequently,Negative,Slow System,-1,"24 February, 2024",Feb-2024,,0,371,37%
+CUST1101,1000,Oppo,25,39,18-25,Other,Dhaka,5,3,Very Satisfied,Lags frequently,Negative,Slow System,-1,"28 September, 2024",Sep-2024,,0,371,37%
+CUST1102,1000,Oppo,29,39,26-35,Male,Rangpur,1,3,Very Dissatisfied,Amazing camera quality,Positive,General,1,"13 January, 2023",Jan-2023,,1,371,37%
+CUST1103,1000,Oppo,51,39,46-55,Male,Dhaka,5,3,Very Satisfied,Design feels outdated,Negative,General,-1,"5 February, 2023",Feb-2023,,0,370,37%
+CUST1104,1000,Apple,50,39,46-55,Male,Khulna,5,3,Very Satisfied,Lags frequently,Negative,Slow System,-1,"11 April, 2023",Apr-2023,,0,370,37%
+CUST1105,1000,Samsung,40,39,36-45,Male,Rajshahi,3,3,Neutral,Stylish design,Neutral,General,0,"27 March, 2023",Mar-2023,,0,370,37%
+CUST1106,1000,Vivo,41,39,36-45,Female,Dhaka,2,3,Dissatisfied,Poor camera resolution,Negative,General,-1,"30 May, 2024",May-2024,,1,370,37%
+CUST1107,1000,Vivo,54,39,46-55,Male,Dhaka,1,3,Very Dissatisfied,Too expensive for features,Negative,Pricing Issue,-1,"11 August, 2023",Aug-2023,,1,369,37%
+CUST1108,1000,Apple,52,39,46-55,Female,Rangpur,3,3,Neutral,Great performance under heavy use,Positive,General,1,"4 December, 2023",Dec-2023,,0,368,37%
+CUST1109,1000,Oneplus,57,39,47-60,Male,Chittagong,2,3,Dissatisfied,Stylish design,Neutral,General,0,"15 June, 2023",Jun-2023,,1,368,37%
+CUST1110,1000,Apple,39,39,36-45,Female,Rangpur,2,3,Dissatisfied,Battery drains quickly,Negative,Battery Problem,-1,"18 January, 2024",Jan-2024,,1,367,37%
+CUST1111,1000,Oneplus,44,39,36-45,Other,Rangpur,4,3,Satisfied,Very durable,Positive,General,1,"11 January, 2024",Jan-2024,,0,366,37%
+CUST1112,1000,Oneplus,52,39,46-55,Male,Khulna,1,3,Very Dissatisfied,Affordable and reliable,Positive,General,1,"15 April, 2024",Apr-2024,,1,366,37%
+CUST1113,1000,Xiaomi,18,39,18-25,Female,Barisal,2,3,Dissatisfied,Lags frequently,Negative,Slow System,-1,"3 October, 2024",Oct-2024,,1,365,37%
+CUST1114,1000,Vivo,52,39,46-55,Other,Dhaka,3,3,Neutral,Too expensive for features,Negative,Pricing Issue,-1,"31 January, 2023",Jan-2023,,0,364,36%
+CUST1115,1000,Oppo,54,39,46-55,Male,Rangpur,4,3,Satisfied,Poor camera resolution,Negative,General,-1,"10 January, 2024",Jan-2024,,0,364,36%
+CUST1116,1000,Oneplus,31,39,26-35,Male,Rangpur,1,3,Very Dissatisfied,Great performance under heavy use,Positive,General,1,"11 January, 2023",Jan-2023,,1,364,36%
+CUST1117,1000,Xiaomi,20,39,18-25,Male,Chittagong,5,3,Very Satisfied,Lags frequently,Negative,Slow System,-1,"29 October, 2023",Oct-2023,,0,363,36%
+CUST1118,1000,Vivo,18,39,18-25,Female,Rangpur,3,3,Neutral,Excellent customer support,Positive,Service Complaint,1,"6 April, 2023",Apr-2023,,0,363,36%
+CUST1119,1000,Oppo,22,39,18-25,Female,Sylhet,2,3,Dissatisfied,Breaks easily,Negative,General,-1,"9 July, 2023",Jul-2023,,1,363,36%
+CUST1120,1000,Oneplus,43,39,36-45,Other,Barisal,2,3,Dissatisfied,Customer service is slow,Negative,Slow System,-1,"28 March, 2024",Mar-2024,,1,362,36%
+CUST1121,1000,Oneplus,31,39,26-35,Female,Dhaka,3,3,Neutral,Customer service is slow,Negative,Slow System,-1,"11 July, 2023",Jul-2023,,0,361,36%
+CUST1122,1000,Apple,56,39,47-60,Female,Dhaka,2,3,Dissatisfied,Excellent battery life,Positive,Battery Problem,1,"30 April, 2024",Apr-2024,,1,361,36%
+CUST1123,1000,Apple,44,39,36-45,Male,Chittagong,4,3,Satisfied,Great performance under heavy use,Positive,General,1,"23 September, 2023",Sep-2023,,0,360,36%
+CUST1124,1000,Vivo,26,39,26-35,Male,Khulna,1,3,Very Dissatisfied,Breaks easily,Negative,General,-1,"28 February, 2024",Feb-2024,,1,360,36%
+CUST1125,1000,Oppo,32,39,26-35,Male,Dhaka,4,3,Satisfied,Excellent battery life,Positive,Battery Problem,1,"8 May, 2023",May-2023,,0,359,36%
+CUST1126,1000,Oneplus,32,39,26-35,Male,Sylhet,2,3,Dissatisfied,Customer service is slow,Negative,Slow System,-1,"26 August, 2023",Aug-2023,,1,359,36%
+CUST1127,1000,Vivo,43,39,36-45,Male,Dhaka,5,3,Very Satisfied,Excellent customer support,Positive,Service Complaint,1,"21 December, 2023",Dec-2023,,0,358,36%
+CUST1128,1000,Vivo,59,39,47-60,Male,Sylhet,1,3,Very Dissatisfied,Very durable,Positive,General,1,"22 April, 2023",Apr-2023,,1,358,36%
+CUST1129,1000,Samsung,30,39,26-35,Male,Barisal,1,3,Very Dissatisfied,Affordable and reliable,Positive,General,1,"21 March, 2024",Mar-2024,,1,357,36%
+CUST1130,1000,Apple,49,39,46-55,Other,Barisal,3,3,Neutral,Amazing camera quality,Positive,General,1,"9 December, 2023",Dec-2023,,0,356,36%
+CUST1131,1000,Oppo,56,39,47-60,Other,Rajshahi,3,3,Neutral,Great performance under heavy use,Positive,General,1,"25 May, 2023",May-2023,,0,356,36%
+CUST1132,1000,Oneplus,49,39,46-55,Other,Rajshahi,5,3,Very Satisfied,Design feels outdated,Negative,General,-1,"6 March, 2023",Mar-2023,,0,356,36%
+CUST1133,1000,Vivo,21,39,18-25,Other,Sylhet,1,3,Very Dissatisfied,Too expensive for features,Negative,Pricing Issue,-1,"4 September, 2023",Sep-2023,,1,356,36%
+CUST1134,1000,Oneplus,47,39,46-55,Male,Khulna,5,3,Very Satisfied,Excellent customer support,Positive,Service Complaint,1,"4 May, 2024",May-2024,,0,355,36%
+CUST1135,1000,Samsung,54,39,46-55,Other,Dhaka,3,3,Neutral,Great performance under heavy use,Positive,General,1,"14 March, 2024",Mar-2024,,0,355,36%
+CUST1136,1000,Oppo,40,39,36-45,Male,Rangpur,3,3,Neutral,Lags frequently,Negative,Slow System,-1,"16 April, 2023",Apr-2023,,0,355,36%
+CUST1137,1000,Vivo,56,39,47-60,Other,Dhaka,1,3,Very Dissatisfied,Battery drains quickly,Negative,Battery Problem,-1,"30 June, 2023",Jun-2023,,1,355,36%
+CUST1138,1000,Oneplus,32,39,26-35,Female,Rajshahi,4,3,Satisfied,Very durable,Positive,General,1,"3 July, 2023",Jul-2023,,0,354,35%
+CUST1139,1000,Apple,46,39,46-55,Other,Rangpur,2,3,Dissatisfied,Lags frequently,Negative,Slow System,-1,"14 August, 2023",Aug-2023,,1,354,35%
+CUST1140,1000,Samsung,53,39,46-55,Other,Sylhet,3,3,Neutral,Battery drains quickly,Negative,Battery Problem,-1,"30 March, 2023",Mar-2023,,0,353,35%
+CUST1141,1000,Oppo,30,39,26-35,Male,Rangpur,3,3,Neutral,Stylish design,Neutral,General,0,"18 November, 2024",Nov-2024,,0,353,35%
+CUST1142,1000,Samsung,49,39,46-55,Other,Dhaka,4,3,Satisfied,Affordable and reliable,Positive,General,1,"13 June, 2024",Jun-2024,,0,353,35%
+CUST1143,1000,Apple,24,39,18-25,Female,Dhaka,4,3,Satisfied,Stylish design,Neutral,General,0,"6 January, 2024",Jan-2024,,0,353,35%
+CUST1144,1000,Oppo,39,39,36-45,Male,Khulna,5,3,Very Satisfied,Great performance under heavy use,Positive,General,1,"3 February, 2024",Feb-2024,,0,353,35%
+CUST1145,1000,Samsung,45,39,36-45,Male,Chittagong,5,3,Very Satisfied,Too expensive for features,Negative,Pricing Issue,-1,"16 April, 2023",Apr-2023,,0,353,35%
+CUST1146,1000,Xiaomi,19,39,18-25,Other,Rangpur,2,3,Dissatisfied,Poor camera resolution,Negative,General,-1,"28 September, 2023",Sep-2023,,1,353,35%
+CUST1147,1000,Apple,59,39,47-60,Male,Rajshahi,2,3,Dissatisfied,Poor camera resolution,Negative,General,-1,"17 May, 2024",May-2024,,1,352,35%
+CUST1148,1000,Apple,23,39,18-25,Male,Rajshahi,1,3,Very Dissatisfied,Affordable and reliable,Positive,General,1,"9 November, 2024",Nov-2024,,1,351,35%
+CUST1149,1000,Apple,45,39,36-45,Male,Chittagong,5,3,Very Satisfied,Too expensive for features,Negative,Pricing Issue,-1,"8 June, 2024",Jun-2024,,0,350,35%
+CUST1150,1000,Xiaomi,45,39,36-45,Male,Dhaka,3,3,Neutral,Design feels outdated,Negative,General,-1,"1 February, 2023",Feb-2023,,0,350,35%
+CUST1151,1000,Xiaomi,37,39,36-45,Male,Khulna,5,3,Very Satisfied,Very durable,Positive,General,1,"28 January, 2024",Jan-2024,,0,350,35%
+CUST1152,1000,Oneplus,47,39,46-55,Male,Khulna,3,3,Neutral,Design feels outdated,Negative,General,-1,"9 February, 2023",Feb-2023,,0,350,35%
+CUST1153,1000,Vivo,28,39,26-35,Female,Rajshahi,4,3,Satisfied,Very durable,Positive,General,1,"21 October, 2024",Oct-2024,,0,350,35%
+CUST1154,1000,Samsung,45,39,36-45,Other,Khulna,5,3,Very Satisfied,Excellent customer support,Positive,Service Complaint,1,"6 August, 2023",Aug-2023,,0,350,35%
+CUST1155,1000,Oneplus,42,39,36-45,Female,Barisal,4,3,Satisfied,Great performance under heavy use,Positive,General,1,"31 December, 2024",Dec-2024,,0,350,35%
+CUST1156,1000,Samsung,56,39,47-60,Male,Chittagong,2,3,Dissatisfied,Stylish design,Neutral,General,0,"23 March, 2023",Mar-2023,,1,350,35%
+CUST1157,1000,Vivo,50,39,46-55,Male,Dhaka,2,3,Dissatisfied,Poor camera resolution,Negative,General,-1,"20 December, 2024",Dec-2024,,1,349,35%
+CUST1158,1000,Xiaomi,18,39,18-25,Other,Barisal,1,3,Very Dissatisfied,Battery drains quickly,Negative,Battery Problem,-1,"20 July, 2023",Jul-2023,,1,348,35%
+CUST1159,1000,Vivo,44,39,36-45,Female,Chittagong,5,3,Very Satisfied,Amazing camera quality,Positive,General,1,"22 March, 2024",Mar-2024,,0,347,35%
+CUST1160,1000,Xiaomi,30,39,26-35,Other,Sylhet,4,3,Satisfied,Customer service is slow,Negative,Slow System,-1,"3 March, 2024",Mar-2024,,0,347,35%
+CUST1161,1000,Vivo,58,39,47-60,Female,Rangpur,3,3,Neutral,Excellent battery life,Positive,Battery Problem,1,"7 February, 2023",Feb-2023,,0,347,35%
+CUST1162,1000,Oneplus,20,39,18-25,Male,Rajshahi,2,3,Dissatisfied,Breaks easily,Negative,General,-1,"30 July, 2023",Jul-2023,,1,347,35%
+CUST1163,1000,Oppo,56,39,47-60,Other,Khulna,2,3,Dissatisfied,Amazing camera quality,Positive,General,1,"19 March, 2024",Mar-2024,,1,346,35%
+CUST1164,1000,Oneplus,23,39,18-25,Other,Sylhet,3,3,Neutral,Stylish design,Neutral,General,0,"23 November, 2023",Nov-2023,,0,345,35%
+CUST1165,1000,Samsung,25,39,18-25,Male,Khulna,4,3,Satisfied,Lags frequently,Negative,Slow System,-1,"15 August, 2023",Aug-2023,,0,345,35%
+CUST1166,1000,Oneplus,44,39,36-45,Other,Barisal,4,3,Satisfied,Stylish design,Neutral,General,0,"17 February, 2023",Feb-2023,,0,345,35%
+CUST1167,1000,Apple,26,39,26-35,Female,Dhaka,5,3,Very Satisfied,Customer service is slow,Negative,Slow System,-1,"18 January, 2023",Jan-2023,,0,345,35%
+CUST1168,1000,Samsung,54,39,46-55,Female,Dhaka,5,3,Very Satisfied,Lags frequently,Negative,Slow System,-1,"14 March, 2024",Mar-2024,,0,345,35%
+CUST1169,1000,Vivo,50,39,46-55,Female,Dhaka,1,3,Very Dissatisfied,Very durable,Positive,General,1,"8 December, 2024",Dec-2024,,1,345,35%
+CUST1170,1000,Samsung,59,39,47-60,Female,Khulna,2,3,Dissatisfied,Design feels outdated,Negative,General,-1,"6 July, 2023",Jul-2023,,1,344,34%
+CUST1171,1000,Oppo,41,39,36-45,Male,Sylhet,5,3,Very Satisfied,Amazing camera quality,Positive,General,1,"11 December, 2023",Dec-2023,,0,343,34%
+CUST1172,1000,Xiaomi,32,39,26-35,Other,Dhaka,4,3,Satisfied,Very durable,Positive,General,1,"12 August, 2023",Aug-2023,,0,343,34%
+CUST1173,1000,Vivo,49,39,46-55,Female,Sylhet,3,3,Neutral,Very durable,Positive,General,1,"2 May, 2024",May-2024,,0,343,34%
+CUST1174,1000,Samsung,49,39,46-55,Male,Khulna,4,3,Satisfied,Design feels outdated,Negative,General,-1,"17 August, 2023",Aug-2023,,0,343,34%
+CUST1175,1000,Vivo,41,39,36-45,Other,Barisal,2,3,Dissatisfied,Battery drains quickly,Negative,Battery Problem,-1,"25 January, 2024",Jan-2024,,1,343,34%
+CUST1176,1000,Vivo,58,39,47-60,Other,Sylhet,4,3,Satisfied,Poor camera resolution,Negative,General,-1,"11 August, 2024",Aug-2024,,0,342,34%
+CUST1177,1000,Vivo,29,39,26-35,Male,Barisal,1,3,Very Dissatisfied,Affordable and reliable,Positive,General,1,"7 July, 2023",Jul-2023,,1,342,34%
+CUST1178,1000,Xiaomi,56,39,47-60,Male,Khulna,2,3,Dissatisfied,Poor camera resolution,Negative,General,-1,"27 September, 2023",Sep-2023,,1,341,34%
+CUST1179,1000,Oneplus,19,39,18-25,Female,Khulna,3,3,Neutral,Breaks easily,Negative,General,-1,"29 August, 2024",Aug-2024,,0,340,34%
+CUST1180,1000,Vivo,20,39,18-25,Other,Rajshahi,1,3,Very Dissatisfied,Excellent battery life,Positive,Battery Problem,1,"6 November, 2023",Nov-2023,,1,340,34%
+CUST1181,1000,Apple,54,39,46-55,Other,Khulna,2,3,Dissatisfied,Lags frequently,Negative,Slow System,-1,"12 May, 2023",May-2023,,1,339,34%
+CUST1182,1000,Oppo,34,39,26-35,Male,Khulna,3,3,Neutral,Too expensive for features,Negative,Pricing Issue,-1,"4 July, 2024",Jul-2024,,0,338,34%
+CUST1183,1000,Xiaomi,19,39,18-25,Other,Chittagong,1,3,Very Dissatisfied,Amazing camera quality,Positive,General,1,"13 March, 2023",Mar-2023,,1,338,34%
+CUST1184,1000,Samsung,19,39,18-25,Female,Dhaka,1,3,Very Dissatisfied,Lags frequently,Negative,Slow System,-1,"2 November, 2024",Nov-2024,,1,337,34%
+CUST1185,1000,Xiaomi,45,39,36-45,Other,Rajshahi,2,3,Dissatisfied,Poor camera resolution,Negative,General,-1,"6 July, 2023",Jul-2023,,1,336,34%
+CUST1186,1000,Samsung,40,39,36-45,Male,Rangpur,5,3,Very Satisfied,Customer service is slow,Negative,Slow System,-1,"30 April, 2024",Apr-2024,,0,335,34%
+CUST1187,1000,Xiaomi,54,39,46-55,Male,Rajshahi,1,3,Very Dissatisfied,Affordable and reliable,Positive,General,1,"10 July, 2023",Jul-2023,,1,335,34%
+CUST1188,1000,Samsung,49,39,46-55,Female,Rajshahi,1,3,Very Dissatisfied,Customer service is slow,Negative,Slow System,-1,"26 February, 2024",Feb-2024,,1,334,33%
+CUST1189,1000,Vivo,50,39,46-55,Female,Rangpur,3,3,Neutral,Lags frequently,Negative,Slow System,-1,"30 April, 2023",Apr-2023,,0,333,33%
+CUST1190,1000,Oneplus,18,39,18-25,Other,Chittagong,4,3,Satisfied,Excellent customer support,Positive,Service Complaint,1,"8 August, 2023",Aug-2023,,0,333,33%
+CUST1191,1000,Samsung,36,39,36-45,Other,Barisal,2,3,Dissatisfied,Amazing camera quality,Positive,General,1,"22 February, 2023",Feb-2023,,1,333,33%
+CUST1192,1000,Samsung,19,39,18-25,Male,Khulna,2,3,Dissatisfied,Affordable and reliable,Positive,General,1,"26 March, 2024",Mar-2024,,1,332,33%
+CUST1193,1000,Apple,43,39,36-45,Female,Dhaka,5,3,Very Satisfied,Very durable,Positive,General,1,"16 February, 2024",Feb-2024,,0,331,33%
+CUST1194,1000,Samsung,49,39,46-55,Female,Sylhet,5,3,Very Satisfied,Stylish design,Neutral,General,0,"4 October, 2024",Oct-2024,,0,331,33%
+CUST1195,1000,Apple,23,39,18-25,Female,Rangpur,2,3,Dissatisfied,Battery drains quickly,Negative,Battery Problem,-1,"25 August, 2023",Aug-2023,,1,331,33%
+CUST1196,1000,Oppo,49,39,46-55,Other,Barisal,5,3,Very Satisfied,Excellent battery life,Positive,Battery Problem,1,"20 December, 2024",Dec-2024,,0,330,33%
+CUST1197,1000,Vivo,21,39,18-25,Female,Rangpur,3,3,Neutral,Too expensive for features,Negative,Pricing Issue,-1,"10 February, 2024",Feb-2024,,0,330,33%
+CUST1198,1000,Apple,28,39,26-35,Male,Khulna,2,3,Dissatisfied,Too expensive for features,Negative,Pricing Issue,-1,"30 August, 2024",Aug-2024,,1,330,33%
+CUST1199,1000,Oneplus,34,39,26-35,Male,Chittagong,5,3,Very Satisfied,Affordable and reliable,Positive,General,1,"26 February, 2024",Feb-2024,,0,329,33%
+CUST1200,1000,Vivo,55,39,46-55,Other,Rangpur,2,3,Dissatisfied,Poor camera resolution,Negative,General,-1,"12 December, 2024",Dec-2024,,1,329,33%
+CUST1201,1000,Apple,41,39,36-45,Other,Khulna,4,3,Satisfied,Customer service is slow,Negative,Slow System,-1,"4 September, 2023",Sep-2023,,0,328,33%
+CUST1202,1000,Vivo,22,39,18-25,Female,Khulna,1,3,Very Dissatisfied,Stylish design,Neutral,General,0,"13 March, 2023",Mar-2023,,1,328,33%
+CUST1203,1000,Vivo,51,39,46-55,Other,Chittagong,2,3,Dissatisfied,Poor camera resolution,Negative,General,-1,"4 July, 2023",Jul-2023,,1,327,33%
+CUST1204,1000,Vivo,23,39,18-25,Male,Rajshahi,1,3,Very Dissatisfied,Amazing camera quality,Positive,General,1,"6 January, 2023",Jan-2023,,1,326,33%
+CUST1205,1000,Oppo,39,39,36-45,Female,Rajshahi,5,3,Very Satisfied,Breaks easily,Negative,General,-1,"25 July, 2023",Jul-2023,,0,325,33%
+CUST1206,1000,Oneplus,28,39,26-35,Male,Dhaka,1,3,Very Dissatisfied,Lags frequently,Negative,Slow System,-1,"27 June, 2024",Jun-2024,,1,325,33%
+CUST1207,1000,Xiaomi,33,39,26-35,Female,Dhaka,2,3,Dissatisfied,Affordable and reliable,Positive,General,1,"2 September, 2024",Sep-2024,,1,324,32%
+CUST1208,1000,Xiaomi,50,39,46-55,Other,Rajshahi,4,3,Satisfied,Breaks easily,Negative,General,-1,"22 January, 2024",Jan-2024,,0,323,32%
+CUST1209,1000,Apple,26,39,26-35,Female,Barisal,5,3,Very Satisfied,Lags frequently,Negative,Slow System,-1,"29 November, 2024",Nov-2024,,0,323,32%
+CUST1210,1000,Vivo,23,39,18-25,Female,Sylhet,2,3,Dissatisfied,Poor camera resolution,Negative,General,-1,"17 March, 2023",Mar-2023,,1,323,32%
+CUST1211,1000,Apple,33,39,26-35,Male,Khulna,5,3,Very Satisfied,Design feels outdated,Negative,General,-1,"26 June, 2023",Jun-2023,,0,322,32%
+CUST1212,1000,Oppo,46,39,46-55,Male,Sylhet,3,3,Neutral,Great performance under heavy use,Positive,General,1,"15 December, 2023",Dec-2023,,0,322,32%
+CUST1213,1000,Oppo,20,39,18-25,Female,Khulna,1,3,Very Dissatisfied,Stylish design,Neutral,General,0,"12 September, 2023",Sep-2023,,1,322,32%
+CUST1214,1000,Samsung,37,39,36-45,Other,Rajshahi,3,3,Neutral,Excellent customer support,Positive,Service Complaint,1,"2 December, 2024",Dec-2024,,0,321,32%
+CUST1215,1000,Oppo,53,39,46-55,Other,Dhaka,2,3,Dissatisfied,Customer service is slow,Negative,Slow System,-1,"4 November, 2023",Nov-2023,,1,321,32%
+CUST1216,1000,Samsung,36,39,36-45,Male,Barisal,4,3,Satisfied,Stylish design,Neutral,General,0,"11 December, 2023",Dec-2023,,0,320,32%
+CUST1217,1000,Oneplus,43,39,36-45,Other,Dhaka,5,3,Very Satisfied,Poor camera resolution,Negative,General,-1,"7 May, 2023",May-2023,,0,320,32%
+CUST1218,1000,Apple,20,39,18-25,Male,Sylhet,1,3,Very Dissatisfied,Customer service is slow,Negative,Slow System,-1,"14 October, 2023",Oct-2023,,1,320,32%
+CUST1219,1000,Oneplus,36,39,36-45,Other,Dhaka,5,3,Very Satisfied,Poor camera resolution,Negative,General,-1,"25 December, 2024",Dec-2024,,0,319,32%
+CUST1220,1000,Oppo,37,39,36-45,Female,Rajshahi,2,3,Dissatisfied,Excellent battery life,Positive,Battery Problem,1,"18 August, 2024",Aug-2024,,1,319,32%
+CUST1221,1000,Oneplus,49,39,46-55,Male,Barisal,5,3,Very Satisfied,Design feels outdated,Negative,General,-1,"1 May, 2024",May-2024,,0,318,32%
+CUST1222,1000,Oneplus,24,39,18-25,Male,Sylhet,1,3,Very Dissatisfied,Excellent customer support,Positive,Service Complaint,1,"18 January, 2024",Jan-2024,,1,318,32%
+CUST1223,1000,Oneplus,58,39,47-60,Female,Barisal,2,3,Dissatisfied,Battery drains quickly,Negative,Battery Problem,-1,"10 February, 2024",Feb-2024,,1,317,32%
+CUST1224,1000,Oppo,50,39,46-55,Male,Khulna,5,3,Very Satisfied,Excellent battery life,Positive,Battery Problem,1,"23 January, 2024",Jan-2024,,0,316,32%
+CUST1225,1000,Vivo,57,39,47-60,Other,Dhaka,4,3,Satisfied,Amazing camera quality,Positive,General,1,"8 June, 2024",Jun-2024,,0,316,32%
+CUST1226,1000,Oneplus,56,39,47-60,Other,Barisal,2,3,Dissatisfied,Excellent customer support,Positive,Service Complaint,1,"10 July, 2024",Jul-2024,,1,316,32%
+CUST1227,1000,Samsung,35,39,26-35,Male,Chittagong,2,3,Dissatisfied,Breaks easily,Negative,General,-1,"30 September, 2024",Sep-2024,,1,315,32%
+CUST1228,1000,Oppo,57,39,47-60,Other,Dhaka,4,3,Satisfied,Customer service is slow,Negative,Slow System,-1,"17 September, 2024",Sep-2024,,0,314,31%
+CUST1229,1000,Oneplus,18,39,18-25,Male,Khulna,3,3,Neutral,Affordable and reliable,Positive,General,1,"3 October, 2023",Oct-2023,,0,314,31%
+CUST1230,1000,Vivo,28,39,26-35,Female,Barisal,1,3,Very Dissatisfied,Great performance under heavy use,Positive,General,1,"14 May, 2024",May-2024,,1,314,31%
+CUST1231,1000,Oppo,45,39,36-45,Male,Sylhet,3,3,Neutral,Excellent battery life,Positive,Battery Problem,1,"17 December, 2024",Dec-2024,,0,313,31%
+CUST1232,1000,Xiaomi,42,39,36-45,Female,Khulna,5,3,Very Satisfied,Great performance under heavy use,Positive,General,1,"3 December, 2023",Dec-2023,,0,313,31%
+CUST1233,1000,Vivo,40,39,36-45,Other,Chittagong,4,3,Satisfied,Design feels outdated,Negative,General,-1,"25 April, 2024",Apr-2024,,0,313,31%
+CUST1234,1000,Samsung,48,39,46-55,Female,Barisal,3,3,Neutral,Amazing camera quality,Positive,General,1,"30 September, 2023",Sep-2023,,0,313,31%
+CUST1235,1000,Oneplus,47,39,46-55,Other,Rangpur,2,3,Dissatisfied,Amazing camera quality,Positive,General,1,"27 February, 2023",Feb-2023,,1,313,31%
+CUST1236,1000,Xiaomi,59,39,47-60,Male,Rangpur,5,3,Very Satisfied,Too expensive for features,Negative,Pricing Issue,-1,"24 November, 2023",Nov-2023,,0,312,31%
+CUST1237,1000,Xiaomi,52,39,46-55,Other,Rajshahi,5,3,Very Satisfied,Battery drains quickly,Negative,Battery Problem,-1,"31 December, 2024",Dec-2024,,0,312,31%
+CUST1238,1000,Oppo,24,39,18-25,Male,Dhaka,3,3,Neutral,Breaks easily,Negative,General,-1,"19 April, 2023",Apr-2023,,0,312,31%
+CUST1239,1000,Xiaomi,33,39,26-35,Male,Sylhet,3,3,Neutral,Amazing camera quality,Positive,General,1,"6 October, 2023",Oct-2023,,0,312,31%
+CUST1240,1000,Samsung,43,39,36-45,Female,Rajshahi,4,3,Satisfied,Customer service is slow,Negative,Slow System,-1,"16 November, 2024",Nov-2024,,0,312,31%
+CUST1241,1000,Samsung,19,39,18-25,Female,Barisal,1,3,Very Dissatisfied,Poor camera resolution,Negative,General,-1,"24 November, 2023",Nov-2023,,1,312,31%
+CUST1242,1000,Apple,18,39,18-25,Female,Rangpur,3,3,Neutral,Customer service is slow,Negative,Slow System,-1,"11 November, 2023",Nov-2023,,0,311,31%
+CUST1243,1000,Samsung,29,39,26-35,Female,Rangpur,3,3,Neutral,Stylish design,Neutral,General,0,"18 April, 2024",Apr-2024,,0,311,31%
+CUST1244,1000,Vivo,22,39,18-25,Other,Rangpur,2,3,Dissatisfied,Stylish design,Neutral,General,0,"21 April, 2023",Apr-2023,,1,311,31%
+CUST1245,1000,Xiaomi,54,39,46-55,Other,Barisal,5,3,Very Satisfied,Lags frequently,Negative,Slow System,-1,"29 November, 2024",Nov-2024,,0,310,31%
+CUST1246,1000,Samsung,49,39,46-55,Other,Rangpur,1,3,Very Dissatisfied,Battery drains quickly,Negative,Battery Problem,-1,"17 August, 2023",Aug-2023,,1,310,31%
+CUST1247,1000,Oppo,26,39,26-35,Male,Khulna,2,3,Dissatisfied,Poor camera resolution,Negative,General,-1,"11 May, 2024",May-2024,,1,309,31%
+CUST1248,1000,Apple,58,39,47-60,Other,Barisal,4,3,Satisfied,Stylish design,Neutral,General,0,"5 June, 2023",Jun-2023,,0,308,31%
+CUST1249,1000,Xiaomi,52,39,46-55,Other,Sylhet,4,3,Satisfied,Affordable and reliable,Positive,General,1,"17 April, 2024",Apr-2024,,0,308,31%
+CUST1250,1000,Apple,36,39,36-45,Other,Rajshahi,3,3,Neutral,Poor camera resolution,Negative,General,-1,"1 December, 2024",Dec-2024,,0,308,31%
+CUST1251,1000,Xiaomi,33,39,26-35,Female,Sylhet,3,3,Neutral,Breaks easily,Negative,General,-1,"29 September, 2023",Sep-2023,,0,308,31%
+CUST1252,1000,Oppo,20,39,18-25,Other,Chittagong,4,3,Satisfied,Design feels outdated,Negative,General,-1,"2 January, 2023",Jan-2023,,0,308,31%
+CUST1253,1000,Apple,37,39,36-45,Male,Rangpur,3,3,Neutral,Very durable,Positive,General,1,"22 December, 2024",Dec-2024,,0,308,31%
+CUST1254,1000,Oneplus,41,39,36-45,Female,Chittagong,1,3,Very Dissatisfied,Great performance under heavy use,Positive,General,1,"25 May, 2024",May-2024,,1,308,31%
+CUST1255,1000,Vivo,50,39,46-55,Male,Dhaka,3,3,Neutral,Poor camera resolution,Negative,General,-1,"13 October, 2023",Oct-2023,,0,307,31%
+CUST1256,1000,Vivo,41,39,36-45,Other,Dhaka,5,3,Very Satisfied,Customer service is slow,Negative,Slow System,-1,"13 January, 2023",Jan-2023,,0,307,31%
+CUST1257,1000,Xiaomi,28,39,26-35,Female,Chittagong,3,3,Neutral,Too expensive for features,Negative,Pricing Issue,-1,"30 August, 2024",Aug-2024,,0,307,31%
+CUST1258,1000,Oneplus,25,39,18-25,Male,Barisal,2,3,Dissatisfied,Too expensive for features,Negative,Pricing Issue,-1,"12 May, 2024",May-2024,,1,307,31%
+CUST1259,1000,Apple,53,39,46-55,Other,Sylhet,1,3,Very Dissatisfied,Great performance under heavy use,Positive,General,1,"26 August, 2023",Aug-2023,,1,306,31%
+CUST1260,1000,Oneplus,55,39,46-55,Male,Chittagong,2,3,Dissatisfied,Too expensive for features,Negative,Pricing Issue,-1,"4 April, 2023",Apr-2023,,1,305,31%
+CUST1261,1000,Oneplus,57,39,47-60,Male,Dhaka,2,3,Dissatisfied,Affordable and reliable,Positive,General,1,"4 December, 2023",Dec-2023,,1,304,30%
+CUST1262,1000,Apple,37,39,36-45,Male,Chittagong,5,3,Very Satisfied,Very durable,Positive,General,1,"20 June, 2023",Jun-2023,,0,303,30%
+CUST1263,1000,Oppo,52,39,46-55,Other,Barisal,1,3,Very Dissatisfied,Lags frequently,Negative,Slow System,-1,"28 August, 2024",Aug-2024,,1,303,30%
+CUST1264,1000,Oneplus,42,39,36-45,Other,Chittagong,1,3,Very Dissatisfied,Lags frequently,Negative,Slow System,-1,"22 October, 2024",Oct-2024,,1,302,30%
+CUST1265,1000,Oneplus,52,39,46-55,Male,Sylhet,1,3,Very Dissatisfied,Excellent customer support,Positive,Service Complaint,1,"15 September, 2024",Sep-2024,,1,301,30%
+CUST1266,1000,Oppo,42,39,36-45,Female,Rajshahi,1,3,Very Dissatisfied,Battery drains quickly,Negative,Battery Problem,-1,"20 July, 2024",Jul-2024,,1,300,30%
+CUST1267,1000,Oneplus,46,39,46-55,Female,Barisal,1,3,Very Dissatisfied,Poor camera resolution,Negative,General,-1,"11 April, 2024",Apr-2024,,1,299,30%
+CUST1268,1000,Oneplus,35,39,26-35,Other,Dhaka,5,3,Very Satisfied,Battery drains quickly,Negative,Battery Problem,-1,"19 September, 2024",Sep-2024,,0,298,30%
+CUST1269,1000,Oneplus,35,39,26-35,Other,Sylhet,3,3,Neutral,Amazing camera quality,Positive,General,1,"23 May, 2023",May-2023,,0,298,30%
+CUST1270,1000,Vivo,19,39,18-25,Other,Chittagong,2,3,Dissatisfied,Great performance under heavy use,Positive,General,1,"20 July, 2023",Jul-2023,,1,298,30%
+CUST1271,1000,Samsung,52,39,46-55,Other,Chittagong,1,3,Very Dissatisfied,Great performance under heavy use,Positive,General,1,"29 June, 2023",Jun-2023,,1,297,30%
+CUST1272,1000,Oppo,33,39,26-35,Other,Rajshahi,3,3,Neutral,Amazing camera quality,Positive,General,1,"14 December, 2024",Dec-2024,,0,296,30%
+CUST1273,1000,Oneplus,58,39,47-60,Female,Dhaka,3,3,Neutral,Excellent customer support,Positive,Service Complaint,1,"30 December, 2023",Dec-2023,,0,296,30%
+CUST1274,1000,Vivo,53,39,46-55,Other,Dhaka,2,3,Dissatisfied,Excellent battery life,Positive,Battery Problem,1,"23 April, 2024",Apr-2024,,1,296,30%
+CUST1275,1000,Oppo,50,39,46-55,Male,Khulna,5,3,Very Satisfied,Design feels outdated,Negative,General,-1,"18 July, 2024",Jul-2024,,0,295,30%
+CUST1276,1000,Xiaomi,21,39,18-25,Male,Dhaka,4,3,Satisfied,Poor camera resolution,Negative,General,-1,"15 April, 2024",Apr-2024,,0,295,30%
+CUST1277,1000,Xiaomi,50,39,46-55,Female,Rajshahi,4,3,Satisfied,Great performance under heavy use,Positive,General,1,"19 January, 2024",Jan-2024,,0,295,30%
+CUST1278,1000,Oneplus,31,39,26-35,Male,Rangpur,3,3,Neutral,Design feels outdated,Negative,General,-1,"22 November, 2024",Nov-2024,,0,295,30%
+CUST1279,1000,Vivo,38,39,36-45,Female,Khulna,2,3,Dissatisfied,Great performance under heavy use,Positive,General,1,"21 February, 2024",Feb-2024,,1,295,30%
+CUST1280,1000,Vivo,37,39,36-45,Female,Khulna,4,3,Satisfied,Excellent battery life,Positive,Battery Problem,1,"4 November, 2023",Nov-2023,,0,294,29%
+CUST1281,1000,Oppo,25,39,18-25,Male,Chittagong,3,3,Neutral,Amazing camera quality,Positive,General,1,"10 October, 2024",Oct-2024,,0,294,29%
+CUST1282,1000,Oppo,24,39,18-25,Other,Chittagong,5,3,Very Satisfied,Too expensive for features,Negative,Pricing Issue,-1,"24 November, 2024",Nov-2024,,0,294,29%
+CUST1283,1000,Vivo,20,39,18-25,Male,Dhaka,4,3,Satisfied,Lags frequently,Negative,Slow System,-1,"2 January, 2024",Jan-2024,,0,294,29%
+CUST1284,1000,Oppo,34,39,26-35,Male,Khulna,3,3,Neutral,Excellent battery life,Positive,Battery Problem,1,"1 January, 2023",Jan-2023,,0,294,29%
+CUST1285,1000,Vivo,50,39,46-55,Female,Chittagong,3,3,Neutral,Great performance under heavy use,Positive,General,1,"13 February, 2023",Feb-2023,,0,294,29%
+CUST1286,1000,Samsung,29,39,26-35,Male,Rajshahi,1,3,Very Dissatisfied,Amazing camera quality,Positive,General,1,"8 April, 2023",Apr-2023,,1,294,29%
+CUST1287,1000,Vivo,39,39,36-45,Female,Chittagong,5,3,Very Satisfied,Excellent battery life,Positive,Battery Problem,1,"20 December, 2024",Dec-2024,,0,293,29%
+CUST1288,1000,Xiaomi,39,39,36-45,Other,Barisal,1,3,Very Dissatisfied,Breaks easily,Negative,General,-1,"22 September, 2023",Sep-2023,,1,293,29%
+CUST1289,1000,Oppo,47,39,46-55,Other,Barisal,2,3,Dissatisfied,Excellent customer support,Positive,Service Complaint,1,"20 May, 2023",May-2023,,1,292,29%
+CUST1290,1000,Vivo,55,39,46-55,Other,Chittagong,1,3,Very Dissatisfied,Amazing camera quality,Positive,General,1,"25 April, 2024",Apr-2024,,1,291,29%
+CUST1291,1000,Vivo,55,39,46-55,Male,Khulna,1,3,Very Dissatisfied,Poor camera resolution,Negative,General,-1,"25 August, 2023",Aug-2023,,1,290,29%
+CUST1292,1000,Oppo,25,39,18-25,Female,Rangpur,4,3,Satisfied,Great performance under heavy use,Positive,General,1,"13 March, 2023",Mar-2023,,0,289,29%
+CUST1293,1000,Samsung,44,39,36-45,Other,Rangpur,3,3,Neutral,Affordable and reliable,Positive,General,1,"28 October, 2024",Oct-2024,,0,289,29%
+CUST1294,1000,Samsung,44,39,36-45,Female,Khulna,5,3,Very Satisfied,Lags frequently,Negative,Slow System,-1,"9 July, 2023",Jul-2023,,0,289,29%
+CUST1295,1000,Oppo,51,39,46-55,Female,Sylhet,1,3,Very Dissatisfied,Battery drains quickly,Negative,Battery Problem,-1,"25 September, 2023",Sep-2023,,1,289,29%
+CUST1296,1000,Apple,38,39,36-45,Other,Rangpur,5,3,Very Satisfied,Great performance under heavy use,Positive,General,1,"17 November, 2023",Nov-2023,,0,288,29%
+CUST1297,1000,Oppo,47,39,46-55,Other,Barisal,1,3,Very Dissatisfied,Poor camera resolution,Negative,General,-1,"17 April, 2023",Apr-2023,,1,288,29%
+CUST1298,1000,Oppo,50,39,46-55,Female,Rajshahi,2,3,Dissatisfied,Stylish design,Neutral,General,0,"20 August, 2023",Aug-2023,,1,287,29%
+CUST1299,1000,Samsung,45,39,36-45,Other,Khulna,1,3,Very Dissatisfied,Too expensive for features,Negative,Pricing Issue,-1,"11 February, 2023",Feb-2023,,1,286,29%
+CUST1300,1000,Samsung,50,39,46-55,Female,Dhaka,4,3,Satisfied,Design feels outdated,Negative,General,-1,"2 December, 2024",Dec-2024,,0,285,29%
+CUST1301,1000,Oppo,22,39,18-25,Female,Barisal,3,3,Neutral,Design feels outdated,Negative,General,-1,"19 May, 2023",May-2023,,0,285,29%
+CUST1302,1000,Oppo,36,39,36-45,Other,Rajshahi,2,3,Dissatisfied,Battery drains quickly,Negative,Battery Problem,-1,"6 September, 2024",Sep-2024,,1,285,29%
+CUST1303,1000,Oppo,21,39,18-25,Male,Rajshahi,1,3,Very Dissatisfied,Great performance under heavy use,Positive,General,1,"13 November, 2024",Nov-2024,,1,284,28%
+CUST1304,1000,Samsung,52,39,46-55,Other,Khulna,5,3,Very Satisfied,Customer service is slow,Negative,Slow System,-1,"30 September, 2023",Sep-2023,,0,283,28%
+CUST1305,1000,Oppo,34,39,26-35,Male,Rajshahi,2,3,Dissatisfied,Battery drains quickly,Negative,Battery Problem,-1,"25 April, 2024",Apr-2024,,1,283,28%
+CUST1306,1000,Oppo,45,39,36-45,Female,Khulna,2,3,Dissatisfied,Customer service is slow,Negative,Slow System,-1,"20 February, 2024",Feb-2024,,1,282,28%
+CUST1307,1000,Oneplus,47,39,46-55,Female,Rangpur,1,3,Very Dissatisfied,Very durable,Positive,General,1,"20 May, 2024",May-2024,,1,281,28%
+CUST1308,1000,Apple,46,39,46-55,Male,Chittagong,2,3,Dissatisfied,Great performance under heavy use,Positive,General,1,"25 December, 2024",Dec-2024,,1,280,28%
+CUST1309,1000,Xiaomi,23,39,18-25,Female,Barisal,5,3,Very Satisfied,Amazing camera quality,Positive,General,1,"28 February, 2024",Feb-2024,,0,279,28%
+CUST1310,1000,Apple,52,39,46-55,Male,Sylhet,2,3,Dissatisfied,Amazing camera quality,Positive,General,1,"11 February, 2024",Feb-2024,,1,279,28%
+CUST1311,1000,Oneplus,58,39,47-60,Male,Chittagong,5,3,Very Satisfied,Lags frequently,Negative,Slow System,-1,"21 July, 2024",Jul-2024,,0,278,28%
+CUST1312,1000,Xiaomi,54,39,46-55,Female,Barisal,1,3,Very Dissatisfied,Very durable,Positive,General,1,"25 January, 2024",Jan-2024,,1,278,28%
+CUST1313,1000,Oppo,41,39,36-45,Male,Khulna,3,3,Neutral,Excellent customer support,Positive,Service Complaint,1,"8 December, 2023",Dec-2023,,0,277,28%
+CUST1314,1000,Oneplus,46,39,46-55,Other,Barisal,2,3,Dissatisfied,Very durable,Positive,General,1,"5 September, 2024",Sep-2024,,1,277,28%
+CUST1315,1000,Oppo,48,39,46-55,Other,Rangpur,3,3,Neutral,Very durable,Positive,General,1,"7 May, 2024",May-2024,,0,276,28%
+CUST1316,1000,Samsung,52,39,46-55,Female,Khulna,5,3,Very Satisfied,Battery drains quickly,Negative,Battery Problem,-1,"11 July, 2023",Jul-2023,,0,276,28%
+CUST1317,1000,Vivo,50,39,46-55,Female,Chittagong,2,3,Dissatisfied,Breaks easily,Negative,General,-1,"13 May, 2024",May-2024,,1,276,28%
+CUST1318,1000,Oneplus,38,39,36-45,Male,Dhaka,4,3,Satisfied,Too expensive for features,Negative,Pricing Issue,-1,"12 December, 2024",Dec-2024,,0,275,28%
+CUST1319,1000,Samsung,49,39,46-55,Male,Dhaka,3,3,Neutral,Excellent battery life,Positive,Battery Problem,1,"21 August, 2023",Aug-2023,,0,275,28%
+CUST1320,1000,Oneplus,40,39,36-45,Male,Barisal,2,3,Dissatisfied,Lags frequently,Negative,Slow System,-1,"15 August, 2023",Aug-2023,,1,275,28%
+CUST1321,1000,Oneplus,50,39,46-55,Male,Dhaka,3,3,Neutral,Lags frequently,Negative,Slow System,-1,"6 January, 2024",Jan-2024,,0,274,27%
+CUST1322,1000,Samsung,20,39,18-25,Other,Khulna,2,3,Dissatisfied,Lags frequently,Negative,Slow System,-1,"19 May, 2023",May-2023,,1,274,27%
+CUST1323,1000,Xiaomi,35,39,26-35,Other,Rajshahi,1,3,Very Dissatisfied,Amazing camera quality,Positive,General,1,"29 May, 2023",May-2023,,1,273,27%
+CUST1324,1000,Apple,42,39,36-45,Female,Khulna,3,3,Neutral,Excellent battery life,Positive,Battery Problem,1,"25 April, 2023",Apr-2023,,0,272,27%
+CUST1325,1000,Oppo,59,39,47-60,Male,Rajshahi,4,3,Satisfied,Very durable,Positive,General,1,"25 March, 2024",Mar-2024,,0,272,27%
+CUST1326,1000,Oneplus,48,39,46-55,Male,Chittagong,4,3,Satisfied,Too expensive for features,Negative,Pricing Issue,-1,"4 March, 2023",Mar-2023,,0,272,27%
+CUST1327,1000,Oppo,20,39,18-25,Female,Sylhet,5,3,Very Satisfied,Excellent customer support,Positive,Service Complaint,1,"14 April, 2023",Apr-2023,,0,272,27%
+CUST1328,1000,Vivo,57,39,47-60,Male,Rajshahi,2,3,Dissatisfied,Customer service is slow,Negative,Slow System,-1,"29 October, 2024",Oct-2024,,1,272,27%
+CUST1329,1000,Samsung,41,39,36-45,Male,Dhaka,3,3,Neutral,Breaks easily,Negative,General,-1,"30 September, 2023",Sep-2023,,0,271,27%
+CUST1330,1000,Oppo,49,39,46-55,Male,Khulna,5,3,Very Satisfied,Amazing camera quality,Positive,General,1,"6 January, 2023",Jan-2023,,0,271,27%
+CUST1331,1000,Samsung,39,39,36-45,Male,Chittagong,3,3,Neutral,Great performance under heavy use,Positive,General,1,"27 May, 2023",May-2023,,0,271,27%
+CUST1332,1000,Oppo,40,39,36-45,Male,Dhaka,2,3,Dissatisfied,Great performance under heavy use,Positive,General,1,"3 July, 2023",Jul-2023,,1,271,27%
+CUST1333,1000,Apple,19,39,18-25,Female,Chittagong,4,3,Satisfied,Great performance under heavy use,Positive,General,1,"28 January, 2023",Jan-2023,,0,270,27%
+CUST1334,1000,Apple,44,39,36-45,Male,Sylhet,1,3,Very Dissatisfied,Poor camera resolution,Negative,General,-1,"3 July, 2024",Jul-2024,,1,270,27%
+CUST1335,1000,Apple,59,39,47-60,Female,Rangpur,4,3,Satisfied,Battery drains quickly,Negative,Battery Problem,-1,"29 April, 2023",Apr-2023,,0,269,27%
+CUST1336,1000,Apple,19,39,18-25,Male,Khulna,5,3,Very Satisfied,Stylish design,Neutral,General,0,"20 October, 2023",Oct-2023,,0,269,27%
+CUST1337,1000,Apple,43,39,36-45,Other,Barisal,1,3,Very Dissatisfied,Very durable,Positive,General,1,"6 January, 2024",Jan-2024,,1,269,27%
+CUST1338,1000,Apple,34,39,26-35,Other,Khulna,5,3,Very Satisfied,Stylish design,Neutral,General,0,"1 September, 2023",Sep-2023,,0,268,27%
+CUST1339,1000,Samsung,57,39,47-60,Other,Sylhet,2,3,Dissatisfied,Affordable and reliable,Positive,General,1,"2 August, 2024",Aug-2024,,1,268,27%
+CUST1340,1000,Oneplus,50,39,46-55,Other,Khulna,1,3,Very Dissatisfied,Battery drains quickly,Negative,Battery Problem,-1,"26 December, 2024",Dec-2024,,1,267,27%
+CUST1341,1000,Oppo,26,39,26-35,Female,Barisal,5,3,Very Satisfied,Great performance under heavy use,Positive,General,1,"6 August, 2023",Aug-2023,,0,266,27%
+CUST1342,1000,Apple,56,39,47-60,Female,Rajshahi,2,3,Dissatisfied,Breaks easily,Negative,General,-1,"26 June, 2023",Jun-2023,,1,266,27%
+CUST1343,1000,Samsung,46,39,46-55,Male,Chittagong,4,3,Satisfied,Amazing camera quality,Positive,General,1,"26 October, 2023",Oct-2023,,0,265,27%
+CUST1344,1000,Samsung,59,39,47-60,Other,Barisal,2,3,Dissatisfied,Battery drains quickly,Negative,Battery Problem,-1,"6 November, 2024",Nov-2024,,1,265,27%
+CUST1345,1000,Samsung,43,39,36-45,Female,Dhaka,3,3,Neutral,Customer service is slow,Negative,Slow System,-1,"27 February, 2023",Feb-2023,,0,264,26%
+CUST1346,1000,Oneplus,52,39,46-55,Male,Sylhet,2,3,Dissatisfied,Breaks easily,Negative,General,-1,"26 September, 2023",Sep-2023,,1,264,26%
+CUST1347,1000,Oppo,42,39,36-45,Male,Rajshahi,2,3,Dissatisfied,Breaks easily,Negative,General,-1,"4 November, 2023",Nov-2023,,1,263,26%
+CUST1348,1000,Oneplus,41,39,36-45,Female,Dhaka,3,3,Neutral,Poor camera resolution,Negative,General,-1,"23 July, 2024",Jul-2024,,0,262,26%
+CUST1349,1000,Xiaomi,30,39,26-35,Other,Dhaka,5,3,Very Satisfied,Amazing camera quality,Positive,General,1,"15 October, 2023",Oct-2023,,0,262,26%
+CUST1350,1000,Samsung,24,39,18-25,Male,Sylhet,5,3,Very Satisfied,Excellent battery life,Positive,Battery Problem,1,"15 April, 2023",Apr-2023,,0,262,26%
+CUST1351,1000,Xiaomi,53,39,46-55,Other,Rajshahi,2,3,Dissatisfied,Lags frequently,Negative,Slow System,-1,"16 August, 2023",Aug-2023,,1,262,26%
+CUST1352,1000,Vivo,37,39,36-45,Other,Rangpur,3,3,Neutral,Poor camera resolution,Negative,General,-1,"4 September, 2023",Sep-2023,,0,261,26%
+CUST1353,1000,Apple,18,39,18-25,Other,Dhaka,3,3,Neutral,Breaks easily,Negative,General,-1,"30 November, 2024",Nov-2024,,0,261,26%
+CUST1354,1000,Apple,25,39,18-25,Male,Dhaka,4,3,Satisfied,Excellent battery life,Positive,Battery Problem,1,"8 May, 2024",May-2024,,0,261,26%
+CUST1355,1000,Oneplus,33,39,26-35,Other,Rajshahi,5,3,Very Satisfied,Amazing camera quality,Positive,General,1,"24 March, 2023",Mar-2023,,0,261,26%
+CUST1356,1000,Oppo,31,39,26-35,Male,Khulna,1,3,Very Dissatisfied,Customer service is slow,Negative,Slow System,-1,"5 July, 2023",Jul-2023,,1,261,26%
+CUST1357,1000,Xiaomi,29,39,26-35,Other,Dhaka,5,3,Very Satisfied,Breaks easily,Negative,General,-1,"9 September, 2023",Sep-2023,,0,260,26%
+CUST1358,1000,Oppo,40,39,36-45,Male,Chittagong,5,3,Very Satisfied,Great performance under heavy use,Positive,General,1,"21 December, 2023",Dec-2023,,0,260,26%
+CUST1359,1000,Oneplus,32,39,26-35,Other,Rajshahi,4,3,Satisfied,Stylish design,Neutral,General,0,"26 November, 2024",Nov-2024,,0,260,26%
+CUST1360,1000,Apple,45,39,36-45,Female,Dhaka,1,3,Very Dissatisfied,Very durable,Positive,General,1,"29 July, 2023",Jul-2023,,1,260,26%
+CUST1361,1000,Oppo,51,39,46-55,Other,Sylhet,4,3,Satisfied,Battery drains quickly,Negative,Battery Problem,-1,"31 August, 2024",Aug-2024,,0,259,26%
+CUST1362,1000,Oppo,19,39,18-25,Other,Barisal,1,3,Very Dissatisfied,Battery drains quickly,Negative,Battery Problem,-1,"22 March, 2024",Mar-2024,,1,259,26%
+CUST1363,1000,Apple,49,39,46-55,Male,Chittagong,2,3,Dissatisfied,Great performance under heavy use,Positive,General,1,"4 April, 2024",Apr-2024,,1,258,26%
+CUST1364,1000,Xiaomi,40,39,36-45,Male,Barisal,1,3,Very Dissatisfied,Breaks easily,Negative,General,-1,"16 April, 2024",Apr-2024,,1,257,26%
+CUST1365,1000,Apple,39,39,36-45,Other,Barisal,4,3,Satisfied,Very durable,Positive,General,1,"20 December, 2024",Dec-2024,,0,256,26%
+CUST1366,1000,Oppo,42,39,36-45,Female,Dhaka,5,3,Very Satisfied,Excellent battery life,Positive,Battery Problem,1,"5 January, 2024",Jan-2024,,0,256,26%
+CUST1367,1000,Xiaomi,39,39,36-45,Female,Chittagong,1,3,Very Dissatisfied,Stylish design,Neutral,General,0,"6 May, 2024",May-2024,,1,256,26%
+CUST1368,1000,Xiaomi,39,39,36-45,Male,Chittagong,1,3,Very Dissatisfied,Very durable,Positive,General,1,"17 May, 2023",May-2023,,1,255,26%
+CUST1369,1000,Apple,59,39,47-60,Female,Khulna,3,3,Neutral,Excellent battery life,Positive,Battery Problem,1,"2 January, 2024",Jan-2024,,0,254,25%
+CUST1370,1000,Oppo,23,39,18-25,Other,Barisal,5,3,Very Satisfied,Very durable,Positive,General,1,"3 July, 2023",Jul-2023,,0,254,25%
+CUST1371,1000,Oneplus,32,39,26-35,Male,Chittagong,2,3,Dissatisfied,Affordable and reliable,Positive,General,1,"10 August, 2024",Aug-2024,,1,254,25%
+CUST1372,1000,Oppo,54,39,46-55,Other,Khulna,4,3,Satisfied,Customer service is slow,Negative,Slow System,-1,"14 October, 2023",Oct-2023,,0,253,25%
+CUST1373,1000,Samsung,50,39,46-55,Male,Rajshahi,2,3,Dissatisfied,Customer service is slow,Negative,Slow System,-1,"16 April, 2024",Apr-2024,,1,253,25%
+CUST1374,1000,Vivo,25,39,18-25,Male,Khulna,5,3,Very Satisfied,Battery drains quickly,Negative,Battery Problem,-1,"10 January, 2024",Jan-2024,,0,252,25%
+CUST1375,1000,Oneplus,22,39,18-25,Male,Sylhet,1,3,Very Dissatisfied,Affordable and reliable,Positive,General,1,"15 October, 2024",Oct-2024,,1,252,25%
+CUST1376,1000,Xiaomi,56,39,47-60,Male,Rangpur,1,3,Very Dissatisfied,Very durable,Positive,General,1,"20 June, 2024",Jun-2024,,1,251,25%
+CUST1377,1000,Oneplus,21,39,18-25,Female,Dhaka,5,3,Very Satisfied,Too expensive for features,Negative,Pricing Issue,-1,"25 May, 2024",May-2024,,0,250,25%
+CUST1378,1000,Xiaomi,23,39,18-25,Other,Rajshahi,1,3,Very Dissatisfied,Too expensive for features,Negative,Pricing Issue,-1,"1 August, 2024",Aug-2024,,1,250,25%
+CUST1379,1000,Xiaomi,49,39,46-55,Other,Rangpur,1,3,Very Dissatisfied,Customer service is slow,Negative,Slow System,-1,"7 September, 2023",Sep-2023,,1,249,25%
+CUST1380,1000,Oneplus,47,39,46-55,Other,Rangpur,1,3,Very Dissatisfied,Poor camera resolution,Negative,General,-1,"24 May, 2024",May-2024,,1,248,25%
+CUST1381,1000,Xiaomi,52,39,46-55,Male,Rajshahi,4,3,Satisfied,Lags frequently,Negative,Slow System,-1,"21 September, 2024",Sep-2024,,0,247,25%
+CUST1382,1000,Xiaomi,57,39,47-60,Female,Sylhet,4,3,Satisfied,Too expensive for features,Negative,Pricing Issue,-1,"14 March, 2023",Mar-2023,,0,247,25%
+CUST1383,1000,Samsung,33,39,26-35,Other,Khulna,3,3,Neutral,Battery drains quickly,Negative,Battery Problem,-1,"9 October, 2023",Oct-2023,,0,247,25%
+CUST1384,1000,Oppo,30,39,26-35,Female,Dhaka,2,3,Dissatisfied,Stylish design,Neutral,General,0,"26 December, 2023",Dec-2023,,1,247,25%
+CUST1385,1000,Oppo,59,39,47-60,Male,Khulna,5,3,Very Satisfied,Great performance under heavy use,Positive,General,1,"10 January, 2023",Jan-2023,,0,246,25%
+CUST1386,1000,Vivo,47,39,46-55,Other,Chittagong,5,3,Very Satisfied,Affordable and reliable,Positive,General,1,"30 July, 2023",Jul-2023,,0,246,25%
+CUST1387,1000,Vivo,36,39,36-45,Female,Khulna,5,3,Very Satisfied,Great performance under heavy use,Positive,General,1,"1 June, 2023",Jun-2023,,0,246,25%
+CUST1388,1000,Samsung,34,39,26-35,Male,Rajshahi,3,3,Neutral,Excellent battery life,Positive,Battery Problem,1,"5 January, 2023",Jan-2023,,0,246,25%
+CUST1389,1000,Vivo,36,39,36-45,Female,Dhaka,4,3,Satisfied,Design feels outdated,Negative,General,-1,"14 July, 2023",Jul-2023,,0,246,25%
+CUST1390,1000,Oneplus,45,39,36-45,Other,Khulna,3,3,Neutral,Too expensive for features,Negative,Pricing Issue,-1,"10 October, 2023",Oct-2023,,0,246,25%
+CUST1391,1000,Apple,43,39,36-45,Other,Dhaka,5,3,Very Satisfied,Poor camera resolution,Negative,General,-1,"8 April, 2024",Apr-2024,,0,246,25%
+CUST1392,1000,Apple,54,39,46-55,Male,Dhaka,2,3,Dissatisfied,Excellent battery life,Positive,Battery Problem,1,"23 April, 2023",Apr-2023,,1,246,25%
+CUST1393,1000,Apple,43,39,36-45,Male,Chittagong,1,3,Very Dissatisfied,Too expensive for features,Negative,Pricing Issue,-1,"28 September, 2023",Sep-2023,,1,245,25%
+CUST1394,1000,Samsung,40,39,36-45,Male,Chittagong,4,3,Satisfied,Excellent customer support,Positive,Service Complaint,1,"12 June, 2023",Jun-2023,,0,244,24%
+CUST1395,1000,Samsung,26,39,26-35,Female,Rajshahi,4,3,Satisfied,Excellent battery life,Positive,Battery Problem,1,"4 April, 2024",Apr-2024,,0,244,24%
+CUST1396,1000,Xiaomi,29,39,26-35,Female,Sylhet,3,3,Neutral,Excellent battery life,Positive,Battery Problem,1,"15 April, 2023",Apr-2023,,0,244,24%
+CUST1397,1000,Apple,18,39,18-25,Female,Rangpur,4,3,Satisfied,Design feels outdated,Negative,General,-1,"23 November, 2024",Nov-2024,,0,244,24%
+CUST1398,1000,Oneplus,18,39,18-25,Male,Dhaka,5,3,Very Satisfied,Battery drains quickly,Negative,Battery Problem,-1,"9 July, 2024",Jul-2024,,0,244,24%
+CUST1399,1000,Vivo,51,39,46-55,Other,Sylhet,5,3,Very Satisfied,Poor camera resolution,Negative,General,-1,"9 October, 2023",Oct-2023,,0,244,24%
+CUST1400,1000,Oneplus,49,39,46-55,Other,Rangpur,3,3,Neutral,Breaks easily,Negative,General,-1,"17 November, 2024",Nov-2024,,0,244,24%
+CUST1401,1000,Vivo,42,39,36-45,Female,Rangpur,5,3,Very Satisfied,Poor camera resolution,Negative,General,-1,"11 June, 2023",Jun-2023,,0,244,24%
+CUST1402,1000,Apple,57,39,47-60,Female,Rajshahi,2,3,Dissatisfied,Stylish design,Neutral,General,0,"17 December, 2023",Dec-2023,,1,244,24%
+CUST1403,1000,Apple,18,39,18-25,Other,Rangpur,3,3,Neutral,Excellent battery life,Positive,Battery Problem,1,"9 March, 2024",Mar-2024,,0,243,24%
+CUST1404,1000,Apple,33,39,26-35,Other,Rangpur,2,3,Dissatisfied,Poor camera resolution,Negative,General,-1,"20 May, 2023",May-2023,,1,243,24%
+CUST1405,1000,Samsung,56,39,47-60,Female,Dhaka,1,3,Very Dissatisfied,Amazing camera quality,Positive,General,1,"15 April, 2024",Apr-2024,,1,242,24%
+CUST1406,1000,Vivo,22,39,18-25,Female,Dhaka,2,3,Dissatisfied,Breaks easily,Negative,General,-1,"12 May, 2023",May-2023,,1,241,24%
+CUST1407,1000,Samsung,39,39,36-45,Other,Barisal,1,3,Very Dissatisfied,Stylish design,Neutral,General,0,"28 March, 2023",Mar-2023,,1,240,24%
+CUST1408,1000,Samsung,46,39,46-55,Male,Sylhet,1,3,Very Dissatisfied,Amazing camera quality,Positive,General,1,"18 November, 2024",Nov-2024,,1,239,24%
+CUST1409,1000,Oppo,20,39,18-25,Female,Khulna,2,3,Dissatisfied,Design feels outdated,Negative,General,-1,"2 July, 2023",Jul-2023,,1,238,24%
+CUST1410,1000,Oneplus,29,39,26-35,Other,Chittagong,3,3,Neutral,Amazing camera quality,Positive,General,1,"3 January, 2024",Jan-2024,,0,237,24%
+CUST1411,1000,Oneplus,43,39,36-45,Other,Khulna,5,3,Very Satisfied,Lags frequently,Negative,Slow System,-1,"9 May, 2023",May-2023,,0,237,24%
+CUST1412,1000,Xiaomi,33,39,26-35,Other,Sylhet,5,3,Very Satisfied,Breaks easily,Negative,General,-1,"3 September, 2023",Sep-2023,,0,237,24%
+CUST1413,1000,Samsung,54,39,46-55,Other,Chittagong,1,3,Very Dissatisfied,Great performance under heavy use,Positive,General,1,"23 August, 2024",Aug-2024,,1,237,24%
+CUST1414,1000,Vivo,39,39,36-45,Male,Khulna,1,3,Very Dissatisfied,Very durable,Positive,General,1,"31 July, 2024",Jul-2024,,1,236,24%
+CUST1415,1000,Oppo,46,39,46-55,Other,Barisal,3,3,Neutral,Amazing camera quality,Positive,General,1,"31 October, 2024",Oct-2024,,0,235,24%
+CUST1416,1000,Oppo,31,39,26-35,Female,Chittagong,4,3,Satisfied,Design feels outdated,Negative,General,-1,"13 January, 2024",Jan-2024,,0,235,24%
+CUST1417,1000,Oneplus,45,39,36-45,Male,Dhaka,2,3,Dissatisfied,Great performance under heavy use,Positive,General,1,"29 May, 2023",May-2023,,1,235,24%
+CUST1418,1000,Samsung,22,39,18-25,Other,Khulna,1,3,Very Dissatisfied,Design feels outdated,Negative,General,-1,"8 March, 2024",Mar-2024,,1,234,23%
+CUST1419,1000,Xiaomi,47,39,46-55,Male,Chittagong,5,3,Very Satisfied,Design feels outdated,Negative,General,-1,"19 September, 2024",Sep-2024,,0,233,23%
+CUST1420,1000,Samsung,22,39,18-25,Female,Barisal,3,3,Neutral,Excellent battery life,Positive,Battery Problem,1,"26 December, 2024",Dec-2024,,0,233,23%
+CUST1421,1000,Apple,29,39,26-35,Other,Rangpur,2,3,Dissatisfied,Design feels outdated,Negative,General,-1,"13 April, 2024",Apr-2024,,1,233,23%
+CUST1422,1000,Samsung,33,39,26-35,Female,Chittagong,3,3,Neutral,Amazing camera quality,Positive,General,1,"21 March, 2024",Mar-2024,,0,232,23%
+CUST1423,1000,Apple,43,39,36-45,Other,Chittagong,2,3,Dissatisfied,Very durable,Positive,General,1,"25 April, 2024",Apr-2024,,1,232,23%
+CUST1424,1000,Apple,43,39,36-45,Other,Barisal,2,3,Dissatisfied,Lags frequently,Negative,Slow System,-1,"21 October, 2023",Oct-2023,,1,231,23%
+CUST1425,1000,Xiaomi,38,39,36-45,Other,Rangpur,1,3,Very Dissatisfied,Design feels outdated,Negative,General,-1,"23 May, 2023",May-2023,,1,230,23%
+CUST1426,1000,Vivo,56,39,47-60,Other,Khulna,3,3,Neutral,Design feels outdated,Negative,General,-1,"7 September, 2023",Sep-2023,,0,229,23%
+CUST1427,1000,Oneplus,53,39,46-55,Other,Rajshahi,3,3,Neutral,Poor camera resolution,Negative,General,-1,"29 October, 2023",Oct-2023,,0,229,23%
+CUST1428,1000,Samsung,50,39,46-55,Male,Khulna,5,3,Very Satisfied,Excellent customer support,Positive,Service Complaint,1,"25 January, 2023",Jan-2023,,0,229,23%
+CUST1429,1000,Apple,47,39,46-55,Other,Rangpur,5,3,Very Satisfied,Affordable and reliable,Positive,General,1,"11 March, 2023",Mar-2023,,0,229,23%
+CUST1430,1000,Samsung,54,39,46-55,Other,Sylhet,1,3,Very Dissatisfied,Great performance under heavy use,Positive,General,1,"16 September, 2024",Sep-2024,,1,229,23%
+CUST1431,1000,Vivo,40,39,36-45,Male,Barisal,1,3,Very Dissatisfied,Lags frequently,Negative,Slow System,-1,"22 April, 2023",Apr-2023,,1,228,23%
+CUST1432,1000,Oneplus,27,39,26-35,Male,Khulna,4,3,Satisfied,Too expensive for features,Negative,Pricing Issue,-1,"30 December, 2023",Dec-2023,,0,227,23%
+CUST1433,1000,Vivo,22,39,18-25,Male,Chittagong,5,3,Very Satisfied,Excellent customer support,Positive,Service Complaint,1,"30 October, 2023",Oct-2023,,0,227,23%
+CUST1434,1000,Oneplus,53,39,46-55,Male,Barisal,2,3,Dissatisfied,Great performance under heavy use,Positive,General,1,"15 April, 2024",Apr-2024,,1,227,23%
+CUST1435,1000,Oppo,51,39,46-55,Male,Dhaka,3,3,Neutral,Affordable and reliable,Positive,General,1,"1 April, 2023",Apr-2023,,0,226,23%
+CUST1436,1000,Oneplus,48,39,46-55,Male,Rangpur,1,3,Very Dissatisfied,Very durable,Positive,General,1,"13 June, 2024",Jun-2024,,1,226,23%
+CUST1437,1000,Xiaomi,27,39,26-35,Other,Khulna,3,3,Neutral,Stylish design,Neutral,General,0,"22 October, 2024",Oct-2024,,0,225,23%
+CUST1438,1000,Vivo,36,39,36-45,Other,Barisal,3,3,Neutral,Lags frequently,Negative,Slow System,-1,"26 December, 2024",Dec-2024,,0,225,23%
+CUST1439,1000,Apple,49,39,46-55,Female,Khulna,4,3,Satisfied,Lags frequently,Negative,Slow System,-1,"24 October, 2024",Oct-2024,,0,225,23%
+CUST1440,1000,Oppo,18,39,18-25,Other,Barisal,5,3,Very Satisfied,Affordable and reliable,Positive,General,1,"11 July, 2023",Jul-2023,,0,225,23%
+CUST1441,1000,Xiaomi,22,39,18-25,Other,Chittagong,1,3,Very Dissatisfied,Battery drains quickly,Negative,Battery Problem,-1,"5 July, 2024",Jul-2024,,1,225,23%
+CUST1442,1000,Samsung,21,39,18-25,Male,Dhaka,3,3,Neutral,Excellent customer support,Positive,Service Complaint,1,"30 August, 2023",Aug-2023,,0,224,22%
+CUST1443,1000,Vivo,33,39,26-35,Male,Dhaka,1,3,Very Dissatisfied,Customer service is slow,Negative,Slow System,-1,"18 May, 2023",May-2023,,1,224,22%
+CUST1444,1000,Apple,41,39,36-45,Other,Sylhet,2,3,Dissatisfied,Amazing camera quality,Positive,General,1,"11 December, 2023",Dec-2023,,1,223,22%
+CUST1445,1000,Oneplus,33,39,26-35,Female,Barisal,4,3,Satisfied,Excellent battery life,Positive,Battery Problem,1,"29 June, 2023",Jun-2023,,0,222,22%
+CUST1446,1000,Apple,19,39,18-25,Male,Khulna,2,3,Dissatisfied,Battery drains quickly,Negative,Battery Problem,-1,"12 December, 2024",Dec-2024,,1,222,22%
+CUST1447,1000,Samsung,45,39,36-45,Other,Dhaka,1,3,Very Dissatisfied,Design feels outdated,Negative,General,-1,"17 May, 2024",May-2024,,1,221,22%
+CUST1448,1000,Oppo,49,39,46-55,Other,Rangpur,1,3,Very Dissatisfied,Design feels outdated,Negative,General,-1,"22 July, 2023",Jul-2023,,1,220,22%
+CUST1449,1000,Oppo,44,39,36-45,Female,Dhaka,5,3,Very Satisfied,Amazing camera quality,Positive,General,1,"26 July, 2024",Jul-2024,,0,219,22%
+CUST1450,1000,Vivo,37,39,36-45,Female,Rajshahi,3,3,Neutral,Amazing camera quality,Positive,General,1,"11 July, 2023",Jul-2023,,0,219,22%
+CUST1451,1000,Oppo,41,39,36-45,Male,Rajshahi,3,3,Neutral,Poor camera resolution,Negative,General,-1,"5 January, 2023",Jan-2023,,0,219,22%
+CUST1452,1000,Vivo,29,39,26-35,Female,Dhaka,2,3,Dissatisfied,Great performance under heavy use,Positive,General,1,"25 August, 2023",Aug-2023,,1,219,22%
+CUST1453,1000,Vivo,52,39,46-55,Other,Barisal,4,3,Satisfied,Poor camera resolution,Negative,General,-1,"23 November, 2024",Nov-2024,,0,218,22%
+CUST1454,1000,Vivo,50,39,46-55,Other,Sylhet,3,3,Neutral,Affordable and reliable,Positive,General,1,"7 November, 2023",Nov-2023,,0,218,22%
+CUST1455,1000,Oneplus,50,39,46-55,Female,Dhaka,5,3,Very Satisfied,Stylish design,Neutral,General,0,"2 July, 2024",Jul-2024,,0,218,22%
+CUST1456,1000,Xiaomi,54,39,46-55,Female,Chittagong,2,3,Dissatisfied,Excellent customer support,Positive,Service Complaint,1,"25 February, 2023",Feb-2023,,1,218,22%
+CUST1457,1000,Vivo,29,39,26-35,Female,Khulna,2,3,Dissatisfied,Amazing camera quality,Positive,General,1,"18 March, 2024",Mar-2024,,1,217,22%
+CUST1458,1000,Vivo,20,39,18-25,Female,Sylhet,5,3,Very Satisfied,Great performance under heavy use,Positive,General,1,"25 August, 2023",Aug-2023,,0,216,22%
+CUST1459,1000,Xiaomi,18,39,18-25,Male,Chittagong,4,3,Satisfied,Excellent customer support,Positive,Service Complaint,1,"16 July, 2023",Jul-2023,,0,216,22%
+CUST1460,1000,Apple,50,39,46-55,Female,Sylhet,5,3,Very Satisfied,Affordable and reliable,Positive,General,1,"7 August, 2024",Aug-2024,,0,216,22%
+CUST1461,1000,Vivo,57,39,47-60,Male,Chittagong,4,3,Satisfied,Stylish design,Neutral,General,0,"24 July, 2024",Jul-2024,,0,216,22%
+CUST1462,1000,Oneplus,27,39,26-35,Other,Khulna,5,3,Very Satisfied,Battery drains quickly,Negative,Battery Problem,-1,"28 May, 2024",May-2024,,0,216,22%
+CUST1463,1000,Oppo,46,39,46-55,Female,Khulna,5,3,Very Satisfied,Breaks easily,Negative,General,-1,"24 March, 2024",Mar-2024,,0,216,22%
+CUST1464,1000,Oppo,30,39,26-35,Male,Rajshahi,1,3,Very Dissatisfied,Poor camera resolution,Negative,General,-1,"26 December, 2023",Dec-2023,,1,216,22%
+CUST1465,1000,Samsung,29,39,26-35,Female,Barisal,2,3,Dissatisfied,Too expensive for features,Negative,Pricing Issue,-1,"30 November, 2024",Nov-2024,,1,215,22%
+CUST1466,1000,Samsung,48,39,46-55,Other,Chittagong,5,3,Very Satisfied,Affordable and reliable,Positive,General,1,"30 January, 2023",Jan-2023,,0,214,21%
+CUST1467,1000,Oppo,19,39,18-25,Other,Rajshahi,5,3,Very Satisfied,Design feels outdated,Negative,General,-1,"18 April, 2023",Apr-2023,,0,214,21%
+CUST1468,1000,Oppo,52,39,46-55,Other,Chittagong,3,3,Neutral,Customer service is slow,Negative,Slow System,-1,"24 August, 2024",Aug-2024,,0,214,21%
+CUST1469,1000,Oneplus,40,39,36-45,Female,Rajshahi,2,3,Dissatisfied,Lags frequently,Negative,Slow System,-1,"17 December, 2024",Dec-2024,,1,214,21%
+CUST1470,1000,Xiaomi,34,39,26-35,Female,Khulna,3,3,Neutral,Poor camera resolution,Negative,General,-1,"20 March, 2024",Mar-2024,,0,213,21%
+CUST1471,1000,Samsung,43,39,36-45,Male,Sylhet,2,3,Dissatisfied,Excellent battery life,Positive,Battery Problem,1,"13 March, 2024",Mar-2024,,1,213,21%
+CUST1472,1000,Xiaomi,25,39,18-25,Other,Rangpur,3,3,Neutral,Lags frequently,Negative,Slow System,-1,"28 August, 2024",Aug-2024,,0,212,21%
+CUST1473,1000,Oneplus,46,39,46-55,Female,Rajshahi,5,3,Very Satisfied,Breaks easily,Negative,General,-1,"1 April, 2024",Apr-2024,,0,212,21%
+CUST1474,1000,Oppo,43,39,36-45,Other,Chittagong,5,3,Very Satisfied,Poor camera resolution,Negative,General,-1,"6 September, 2024",Sep-2024,,0,212,21%
+CUST1475,1000,Vivo,27,39,26-35,Other,Chittagong,1,3,Very Dissatisfied,Affordable and reliable,Positive,General,1,"28 November, 2024",Nov-2024,,1,212,21%
+CUST1476,1000,Xiaomi,43,39,36-45,Male,Rangpur,3,3,Neutral,Lags frequently,Negative,Slow System,-1,"26 November, 2024",Nov-2024,,0,211,21%
+CUST1477,1000,Oppo,51,39,46-55,Male,Barisal,4,3,Satisfied,Amazing camera quality,Positive,General,1,"9 May, 2024",May-2024,,0,211,21%
+CUST1478,1000,Oppo,58,39,47-60,Male,Khulna,1,3,Very Dissatisfied,Stylish design,Neutral,General,0,"4 November, 2024",Nov-2024,,1,211,21%
+CUST1479,1000,Apple,24,39,18-25,Male,Chittagong,3,3,Neutral,Affordable and reliable,Positive,General,1,"4 September, 2023",Sep-2023,,0,210,21%
+CUST1480,1000,Xiaomi,21,39,18-25,Other,Dhaka,3,3,Neutral,Amazing camera quality,Positive,General,1,"26 June, 2024",Jun-2024,,0,210,21%
+CUST1481,1000,Vivo,28,39,26-35,Male,Sylhet,1,3,Very Dissatisfied,Amazing camera quality,Positive,General,1,"17 July, 2024",Jul-2024,,1,210,21%
+CUST1482,1000,Xiaomi,46,39,46-55,Male,Rajshahi,5,3,Very Satisfied,Too expensive for features,Negative,Pricing Issue,-1,"10 August, 2024",Aug-2024,,0,209,21%
+CUST1483,1000,Oppo,53,39,46-55,Male,Barisal,3,3,Neutral,Poor camera resolution,Negative,General,-1,"14 March, 2024",Mar-2024,,0,209,21%
+CUST1484,1000,Vivo,42,39,36-45,Male,Rangpur,5,3,Very Satisfied,Stylish design,Neutral,General,0,"5 October, 2023",Oct-2023,,0,209,21%
+CUST1485,1000,Oneplus,38,39,36-45,Other,Sylhet,1,3,Very Dissatisfied,Affordable and reliable,Positive,General,1,"5 July, 2024",Jul-2024,,1,209,21%
+CUST1486,1000,Apple,53,39,46-55,Male,Khulna,5,3,Very Satisfied,Affordable and reliable,Positive,General,1,"4 September, 2024",Sep-2024,,0,208,21%
+CUST1487,1000,Oppo,27,39,26-35,Other,Barisal,2,3,Dissatisfied,Design feels outdated,Negative,General,-1,"21 April, 2023",Apr-2023,,1,208,21%
+CUST1488,1000,Samsung,54,39,46-55,Female,Rajshahi,4,3,Satisfied,Great performance under heavy use,Positive,General,1,"20 January, 2024",Jan-2024,,0,207,21%
+CUST1489,1000,Samsung,26,39,26-35,Other,Rajshahi,3,3,Neutral,Too expensive for features,Negative,Pricing Issue,-1,"10 July, 2023",Jul-2023,,0,207,21%
+CUST1490,1000,Apple,41,39,36-45,Other,Rangpur,4,3,Satisfied,Excellent customer support,Positive,Service Complaint,1,"4 May, 2024",May-2024,,0,207,21%
+CUST1491,1000,Oneplus,52,39,46-55,Male,Dhaka,5,3,Very Satisfied,Great performance under heavy use,Positive,General,1,"24 November, 2024",Nov-2024,,0,207,21%
+CUST1492,1000,Oppo,52,39,46-55,Female,Rangpur,3,3,Neutral,Lags frequently,Negative,Slow System,-1,"1 March, 2024",Mar-2024,,0,207,21%
+CUST1493,1000,Xiaomi,53,39,46-55,Female,Khulna,5,3,Very Satisfied,Lags frequently,Negative,Slow System,-1,"9 February, 2024",Feb-2024,,0,207,21%
+CUST1494,1000,Apple,35,39,26-35,Female,Barisal,2,3,Dissatisfied,Breaks easily,Negative,General,-1,"1 December, 2023",Dec-2023,,1,207,21%
+CUST1495,1000,Oneplus,56,39,47-60,Female,Barisal,1,3,Very Dissatisfied,Affordable and reliable,Positive,General,1,"28 July, 2023",Jul-2023,,1,206,21%
+CUST1496,1000,Xiaomi,49,39,46-55,Other,Chittagong,3,3,Neutral,Poor camera resolution,Negative,General,-1,"22 January, 2023",Jan-2023,,0,205,21%
+CUST1497,1000,Samsung,41,39,36-45,Female,Dhaka,2,3,Dissatisfied,Battery drains quickly,Negative,Battery Problem,-1,"8 November, 2024",Nov-2024,,1,205,21%
+CUST1498,1000,Samsung,40,39,36-45,Other,Dhaka,2,3,Dissatisfied,Affordable and reliable,Positive,General,1,"2 September, 2024",Sep-2024,,1,204,20%
+CUST1499,1000,Xiaomi,49,39,46-55,Other,Barisal,3,3,Neutral,Breaks easily,Negative,General,-1,"27 July, 2023",Jul-2023,,0,203,20%
+CUST1500,1000,Apple,54,39,46-55,Other,Barisal,5,3,Very Satisfied,Excellent battery life,Positive,Battery Problem,1,"8 January, 2023",Jan-2023,,0,203,20%
+CUST1501,1000,Samsung,29,39,26-35,Female,Sylhet,2,3,Dissatisfied,Amazing camera quality,Positive,General,1,"2 December, 2024",Dec-2024,,1,203,20%
+CUST1502,1000,Oppo,30,39,26-35,Male,Sylhet,4,3,Satisfied,Lags frequently,Negative,Slow System,-1,"17 November, 2024",Nov-2024,,0,202,20%
+CUST1503,1000,Vivo,40,39,36-45,Male,Sylhet,2,3,Dissatisfied,Very durable,Positive,General,1,"12 June, 2024",Jun-2024,,1,202,20%
+CUST1504,1000,Xiaomi,42,39,36-45,Female,Dhaka,5,3,Very Satisfied,Breaks easily,Negative,General,-1,"24 August, 2024",Aug-2024,,0,201,20%
+CUST1505,1000,Xiaomi,52,39,46-55,Male,Chittagong,5,3,Very Satisfied,Affordable and reliable,Positive,General,1,"14 October, 2024",Oct-2024,,0,201,20%
+CUST1506,1000,Samsung,58,39,47-60,Male,Rajshahi,4,3,Satisfied,Excellent battery life,Positive,Battery Problem,1,"18 October, 2024",Oct-2024,,0,201,20%
+CUST1507,1000,Apple,47,39,46-55,Other,Sylhet,2,3,Dissatisfied,Excellent battery life,Positive,Battery Problem,1,"15 June, 2023",Jun-2023,,1,201,20%
+CUST1508,1000,Oppo,34,39,26-35,Other,Chittagong,5,3,Very Satisfied,Excellent customer support,Positive,Service Complaint,1,"10 May, 2024",May-2024,,0,200,20%
+CUST1509,1000,Apple,37,39,36-45,Female,Rangpur,3,3,Neutral,Customer service is slow,Negative,Slow System,-1,"12 August, 2024",Aug-2024,,0,200,20%
+CUST1510,1000,Oneplus,42,39,36-45,Female,Khulna,1,3,Very Dissatisfied,Stylish design,Neutral,General,0,"4 March, 2024",Mar-2024,,1,200,20%
+CUST1511,1000,Oneplus,39,39,36-45,Male,Sylhet,1,3,Very Dissatisfied,Lags frequently,Negative,Slow System,-1,"12 June, 2023",Jun-2023,,1,199,20%
+CUST1512,1000,Vivo,30,39,26-35,Other,Rangpur,1,3,Very Dissatisfied,Affordable and reliable,Positive,General,1,"1 January, 2024",Jan-2024,,1,198,20%
+CUST1513,1000,Samsung,36,39,36-45,Female,Rajshahi,2,3,Dissatisfied,Stylish design,Neutral,General,0,"9 June, 2024",Jun-2024,,1,197,20%
+CUST1514,1000,Samsung,53,39,46-55,Female,Khulna,4,3,Satisfied,Too expensive for features,Negative,Pricing Issue,-1,"27 August, 2023",Aug-2023,,0,196,20%
+CUST1515,1000,Samsung,29,39,26-35,Female,Khulna,5,3,Very Satisfied,Battery drains quickly,Negative,Battery Problem,-1,"13 March, 2023",Mar-2023,,0,196,20%
+CUST1516,1000,Vivo,58,39,47-60,Female,Rajshahi,3,3,Neutral,Poor camera resolution,Negative,General,-1,"20 March, 2024",Mar-2024,,0,196,20%
+CUST1517,1000,Oneplus,36,39,36-45,Female,Sylhet,3,3,Neutral,Too expensive for features,Negative,Pricing Issue,-1,"16 October, 2024",Oct-2024,,0,196,20%
+CUST1518,1000,Apple,29,39,26-35,Female,Dhaka,2,3,Dissatisfied,Very durable,Positive,General,1,"23 May, 2024",May-2024,,1,196,20%
+CUST1519,1000,Vivo,26,39,26-35,Male,Rajshahi,1,3,Very Dissatisfied,Poor camera resolution,Negative,General,-1,"26 September, 2023",Sep-2023,,1,195,20%
+CUST1520,1000,Vivo,24,39,18-25,Other,Rajshahi,2,3,Dissatisfied,Excellent battery life,Positive,Battery Problem,1,"19 February, 2024",Feb-2024,,1,194,19%
+CUST1521,1000,Apple,45,39,36-45,Other,Rajshahi,4,3,Satisfied,Amazing camera quality,Positive,General,1,"2 September, 2023",Sep-2023,,0,193,19%
+CUST1522,1000,Samsung,31,39,26-35,Female,Khulna,4,3,Satisfied,Amazing camera quality,Positive,General,1,"5 November, 2024",Nov-2024,,0,193,19%
+CUST1523,1000,Oppo,48,39,46-55,Other,Chittagong,5,3,Very Satisfied,Too expensive for features,Negative,Pricing Issue,-1,"1 March, 2023",Mar-2023,,0,193,19%
+CUST1524,1000,Apple,36,39,36-45,Other,Rangpur,5,3,Very Satisfied,Stylish design,Neutral,General,0,"6 January, 2023",Jan-2023,,0,193,19%
+CUST1525,1000,Oneplus,33,39,26-35,Other,Dhaka,4,3,Satisfied,Poor camera resolution,Negative,General,-1,"9 December, 2024",Dec-2024,,0,193,19%
+CUST1526,1000,Xiaomi,22,39,18-25,Female,Sylhet,4,3,Satisfied,Excellent battery life,Positive,Battery Problem,1,"23 July, 2024",Jul-2024,,0,193,19%
+CUST1527,1000,Xiaomi,52,39,46-55,Female,Sylhet,4,3,Satisfied,Breaks easily,Negative,General,-1,"11 February, 2024",Feb-2024,,0,193,19%
+CUST1528,1000,Vivo,29,39,26-35,Other,Rangpur,2,3,Dissatisfied,Excellent customer support,Positive,Service Complaint,1,"5 August, 2023",Aug-2023,,1,193,19%
+CUST1529,1000,Xiaomi,42,39,36-45,Other,Chittagong,4,3,Satisfied,Design feels outdated,Negative,General,-1,"26 January, 2023",Jan-2023,,0,192,19%
+CUST1530,1000,Oppo,38,39,36-45,Female,Rajshahi,3,3,Neutral,Poor camera resolution,Negative,General,-1,"5 January, 2023",Jan-2023,,0,192,19%
+CUST1531,1000,Samsung,53,39,46-55,Male,Dhaka,1,3,Very Dissatisfied,Stylish design,Neutral,General,0,"15 June, 2024",Jun-2024,,1,192,19%
+CUST1532,1000,Oneplus,40,39,36-45,Other,Sylhet,4,3,Satisfied,Very durable,Positive,General,1,"25 January, 2024",Jan-2024,,0,191,19%
+CUST1533,1000,Oppo,33,39,26-35,Male,Rangpur,1,3,Very Dissatisfied,Stylish design,Neutral,General,0,"10 December, 2024",Dec-2024,,1,191,19%
+CUST1534,1000,Oneplus,56,39,47-60,Other,Barisal,2,3,Dissatisfied,Excellent battery life,Positive,Battery Problem,1,"24 July, 2024",Jul-2024,,1,190,19%
+CUST1535,1000,Oneplus,59,39,47-60,Male,Rangpur,1,3,Very Dissatisfied,Affordable and reliable,Positive,General,1,"23 March, 2024",Mar-2024,,1,189,19%
+CUST1536,1000,Samsung,56,39,47-60,Male,Sylhet,2,3,Dissatisfied,Excellent customer support,Positive,Service Complaint,1,"26 May, 2023",May-2023,,1,188,19%
+CUST1537,1000,Vivo,31,39,26-35,Male,Rajshahi,3,3,Neutral,Customer service is slow,Negative,Slow System,-1,"23 January, 2024",Jan-2024,,0,187,19%
+CUST1538,1000,Xiaomi,48,39,46-55,Female,Barisal,2,3,Dissatisfied,Breaks easily,Negative,General,-1,"6 September, 2023",Sep-2023,,1,187,19%
+CUST1539,1000,Samsung,22,39,18-25,Male,Chittagong,2,3,Dissatisfied,Excellent battery life,Positive,Battery Problem,1,"9 June, 2024",Jun-2024,,1,186,19%
+CUST1540,1000,Oppo,52,39,46-55,Male,Dhaka,5,3,Very Satisfied,Excellent customer support,Positive,Service Complaint,1,"6 April, 2024",Apr-2024,,0,185,19%
+CUST1541,1000,Vivo,40,39,36-45,Male,Chittagong,4,3,Satisfied,Great performance under heavy use,Positive,General,1,"13 January, 2023",Jan-2023,,0,185,19%
+CUST1542,1000,Oppo,46,39,46-55,Other,Chittagong,4,3,Satisfied,Lags frequently,Negative,Slow System,-1,"19 January, 2024",Jan-2024,,0,185,19%
+CUST1543,1000,Vivo,28,39,26-35,Male,Rangpur,3,3,Neutral,Great performance under heavy use,Positive,General,1,"9 July, 2024",Jul-2024,,0,185,19%
+CUST1544,1000,Oppo,35,39,26-35,Other,Dhaka,3,3,Neutral,Lags frequently,Negative,Slow System,-1,"3 February, 2024",Feb-2024,,0,185,19%
+CUST1545,1000,Samsung,29,39,26-35,Male,Dhaka,4,3,Satisfied,Amazing camera quality,Positive,General,1,"19 January, 2023",Jan-2023,,0,185,19%
+CUST1546,1000,Vivo,26,39,26-35,Male,Sylhet,5,3,Very Satisfied,Excellent customer support,Positive,Service Complaint,1,"28 July, 2024",Jul-2024,,0,185,19%
+CUST1547,1000,Vivo,27,39,26-35,Female,Sylhet,4,3,Satisfied,Customer service is slow,Negative,Slow System,-1,"5 May, 2024",May-2024,,0,185,19%
+CUST1548,1000,Oneplus,34,39,26-35,Other,Dhaka,5,3,Very Satisfied,Poor camera resolution,Negative,General,-1,"23 February, 2024",Feb-2024,,0,185,19%
+CUST1549,1000,Oneplus,55,39,46-55,Male,Barisal,3,3,Neutral,Breaks easily,Negative,General,-1,"3 December, 2023",Dec-2023,,0,185,19%
+CUST1550,1000,Apple,24,39,18-25,Other,Khulna,1,3,Very Dissatisfied,Very durable,Positive,General,1,"23 February, 2024",Feb-2024,,1,185,19%
+CUST1551,1000,Oppo,30,39,26-35,Other,Sylhet,3,3,Neutral,Design feels outdated,Negative,General,-1,"3 September, 2024",Sep-2024,,0,184,18%
+CUST1552,1000,Oneplus,57,39,47-60,Female,Khulna,3,3,Neutral,Too expensive for features,Negative,Pricing Issue,-1,"5 November, 2024",Nov-2024,,0,184,18%
+CUST1553,1000,Apple,59,39,47-60,Female,Rangpur,2,3,Dissatisfied,Stylish design,Neutral,General,0,"2 May, 2023",May-2023,,1,184,18%
+CUST1554,1000,Oneplus,26,39,26-35,Female,Barisal,2,3,Dissatisfied,Great performance under heavy use,Positive,General,1,"7 March, 2024",Mar-2024,,1,183,18%
+CUST1555,1000,Oppo,44,39,36-45,Female,Dhaka,2,3,Dissatisfied,Breaks easily,Negative,General,-1,"13 February, 2023",Feb-2023,,1,182,18%
+CUST1556,1000,Vivo,19,39,18-25,Female,Barisal,2,3,Dissatisfied,Stylish design,Neutral,General,0,"13 November, 2023",Nov-2023,,1,181,18%
+CUST1557,1000,Xiaomi,22,39,18-25,Female,Sylhet,5,3,Very Satisfied,Customer service is slow,Negative,Slow System,-1,"16 January, 2024",Jan-2024,,0,180,18%
+CUST1558,1000,Oppo,46,39,46-55,Female,Chittagong,4,3,Satisfied,Customer service is slow,Negative,Slow System,-1,"25 May, 2023",May-2023,,0,180,18%
+CUST1559,1000,Samsung,54,39,46-55,Female,Rangpur,1,3,Very Dissatisfied,Stylish design,Neutral,General,0,"23 November, 2023",Nov-2023,,1,180,18%
+CUST1560,1000,Oneplus,55,39,46-55,Male,Dhaka,3,3,Neutral,Very durable,Positive,General,1,"29 December, 2023",Dec-2023,,0,179,18%
+CUST1561,1000,Oneplus,36,39,36-45,Other,Rajshahi,5,3,Very Satisfied,Excellent battery life,Positive,Battery Problem,1,"19 February, 2023",Feb-2023,,0,179,18%
+CUST1562,1000,Vivo,25,39,18-25,Female,Rangpur,1,3,Very Dissatisfied,Stylish design,Neutral,General,0,"6 March, 2023",Mar-2023,,1,179,18%
+CUST1563,1000,Samsung,18,39,18-25,Female,Khulna,5,3,Very Satisfied,Too expensive for features,Negative,Pricing Issue,-1,"21 December, 2023",Dec-2023,,0,178,18%
+CUST1564,1000,Vivo,39,39,36-45,Other,Barisal,5,3,Very Satisfied,Excellent customer support,Positive,Service Complaint,1,"13 June, 2023",Jun-2023,,0,178,18%
+CUST1565,1000,Samsung,34,39,26-35,Male,Dhaka,3,3,Neutral,Customer service is slow,Negative,Slow System,-1,"21 May, 2023",May-2023,,0,178,18%
+CUST1566,1000,Xiaomi,24,39,18-25,Other,Rangpur,4,3,Satisfied,Very durable,Positive,General,1,"8 May, 2023",May-2023,,0,178,18%
+CUST1567,1000,Oneplus,42,39,36-45,Other,Barisal,2,3,Dissatisfied,Customer service is slow,Negative,Slow System,-1,"2 February, 2024",Feb-2024,,1,178,18%
+CUST1568,1000,Oneplus,21,39,18-25,Female,Dhaka,4,3,Satisfied,Lags frequently,Negative,Slow System,-1,"7 April, 2024",Apr-2024,,0,177,18%
+CUST1569,1000,Xiaomi,53,39,46-55,Other,Sylhet,3,3,Neutral,Breaks easily,Negative,General,-1,"6 July, 2023",Jul-2023,,0,177,18%
+CUST1570,1000,Apple,23,39,18-25,Other,Rangpur,3,3,Neutral,Too expensive for features,Negative,Pricing Issue,-1,"20 December, 2024",Dec-2024,,0,177,18%
+CUST1571,1000,Vivo,48,39,46-55,Female,Sylhet,3,3,Neutral,Customer service is slow,Negative,Slow System,-1,"9 July, 2023",Jul-2023,,0,177,18%
+CUST1572,1000,Xiaomi,36,39,36-45,Female,Rangpur,1,3,Very Dissatisfied,Great performance under heavy use,Positive,General,1,"23 January, 2024",Jan-2024,,1,177,18%
+CUST1573,1000,Vivo,56,39,47-60,Female,Sylhet,4,3,Satisfied,Affordable and reliable,Positive,General,1,"4 March, 2024",Mar-2024,,0,176,18%
+CUST1574,1000,Oppo,44,39,36-45,Female,Barisal,4,3,Satisfied,Stylish design,Neutral,General,0,"11 October, 2023",Oct-2023,,0,176,18%
+CUST1575,1000,Oneplus,27,39,26-35,Other,Rajshahi,5,3,Very Satisfied,Customer service is slow,Negative,Slow System,-1,"25 August, 2023",Aug-2023,,0,176,18%
+CUST1576,1000,Vivo,43,39,36-45,Other,Rangpur,5,3,Very Satisfied,Too expensive for features,Negative,Pricing Issue,-1,"13 July, 2023",Jul-2023,,0,176,18%
+CUST1577,1000,Samsung,36,39,36-45,Male,Rangpur,5,3,Very Satisfied,Amazing camera quality,Positive,General,1,"14 October, 2023",Oct-2023,,0,176,18%
+CUST1578,1000,Vivo,56,39,47-60,Male,Sylhet,3,3,Neutral,Very durable,Positive,General,1,"16 May, 2023",May-2023,,0,176,18%
+CUST1579,1000,Oppo,20,39,18-25,Other,Dhaka,4,3,Satisfied,Breaks easily,Negative,General,-1,"20 June, 2023",Jun-2023,,0,176,18%
+CUST1580,1000,Oneplus,30,39,26-35,Male,Rangpur,3,3,Neutral,Excellent battery life,Positive,Battery Problem,1,"8 June, 2023",Jun-2023,,0,176,18%
+CUST1581,1000,Xiaomi,45,39,36-45,Other,Sylhet,1,3,Very Dissatisfied,Breaks easily,Negative,General,-1,"20 July, 2023",Jul-2023,,1,176,18%
+CUST1582,1000,Oppo,37,39,36-45,Male,Chittagong,5,3,Very Satisfied,Battery drains quickly,Negative,Battery Problem,-1,"1 May, 2024",May-2024,,0,175,18%
+CUST1583,1000,Oneplus,45,39,36-45,Female,Sylhet,3,3,Neutral,Great performance under heavy use,Positive,General,1,"10 July, 2024",Jul-2024,,0,175,18%
+CUST1584,1000,Vivo,25,39,18-25,Male,Barisal,3,3,Neutral,Great performance under heavy use,Positive,General,1,"5 August, 2024",Aug-2024,,0,175,18%
+CUST1585,1000,Apple,58,39,47-60,Female,Rajshahi,1,3,Very Dissatisfied,Breaks easily,Negative,General,-1,"18 May, 2024",May-2024,,1,175,18%
+CUST1586,1000,Apple,56,39,47-60,Female,Chittagong,2,3,Dissatisfied,Battery drains quickly,Negative,Battery Problem,-1,"6 January, 2024",Jan-2024,,1,174,17%
+CUST1587,1000,Samsung,18,39,18-25,Female,Barisal,4,3,Satisfied,Excellent customer support,Positive,Service Complaint,1,"13 April, 2023",Apr-2023,,0,173,17%
+CUST1588,1000,Oneplus,20,39,18-25,Female,Barisal,2,3,Dissatisfied,Affordable and reliable,Positive,General,1,"5 May, 2023",May-2023,,1,173,17%
+CUST1589,1000,Apple,30,39,26-35,Male,Barisal,5,3,Very Satisfied,Breaks easily,Negative,General,-1,"9 November, 2023",Nov-2023,,0,172,17%
+CUST1590,1000,Xiaomi,45,39,36-45,Other,Dhaka,3,3,Neutral,Customer service is slow,Negative,Slow System,-1,"2 April, 2024",Apr-2024,,0,172,17%
+CUST1591,1000,Oneplus,42,39,36-45,Female,Barisal,1,3,Very Dissatisfied,Breaks easily,Negative,General,-1,"18 August, 2023",Aug-2023,,1,172,17%
+CUST1592,1000,Xiaomi,50,39,46-55,Male,Dhaka,1,3,Very Dissatisfied,Great performance under heavy use,Positive,General,1,"19 October, 2024",Oct-2024,,1,171,17%
+CUST1593,1000,Xiaomi,55,39,46-55,Female,Barisal,4,3,Satisfied,Great performance under heavy use,Positive,General,1,"16 July, 2023",Jul-2023,,0,170,17%
+CUST1594,1000,Apple,23,39,18-25,Male,Khulna,2,3,Dissatisfied,Excellent battery life,Positive,Battery Problem,1,"27 February, 2024",Feb-2024,,1,170,17%
+CUST1595,1000,Oneplus,49,39,46-55,Male,Chittagong,4,3,Satisfied,Lags frequently,Negative,Slow System,-1,"25 July, 2024",Jul-2024,,0,169,17%
+CUST1596,1000,Vivo,38,39,36-45,Male,Khulna,3,3,Neutral,Great performance under heavy use,Positive,General,1,"1 September, 2024",Sep-2024,,0,169,17%
+CUST1597,1000,Oppo,33,39,26-35,Other,Barisal,4,3,Satisfied,Very durable,Positive,General,1,"20 June, 2023",Jun-2023,,0,169,17%
+CUST1598,1000,Apple,38,39,36-45,Male,Chittagong,1,3,Very Dissatisfied,Excellent customer support,Positive,Service Complaint,1,"17 January, 2024",Jan-2024,,1,169,17%
+CUST1599,1000,Apple,28,39,26-35,Male,Chittagong,1,3,Very Dissatisfied,Affordable and reliable,Positive,General,1,"22 June, 2023",Jun-2023,,1,168,17%
+CUST1600,1000,Vivo,54,39,46-55,Other,Rangpur,5,3,Very Satisfied,Breaks easily,Negative,General,-1,"24 October, 2024",Oct-2024,,0,167,17%
+CUST1601,1000,Oneplus,53,39,46-55,Other,Rajshahi,5,3,Very Satisfied,Amazing camera quality,Positive,General,1,"28 March, 2024",Mar-2024,,0,167,17%
+CUST1602,1000,Oneplus,52,39,46-55,Male,Khulna,3,3,Neutral,Customer service is slow,Negative,Slow System,-1,"16 December, 2023",Dec-2023,,0,167,17%
+CUST1603,1000,Xiaomi,36,39,36-45,Other,Rajshahi,2,3,Dissatisfied,Affordable and reliable,Positive,General,1,"25 September, 2024",Sep-2024,,1,167,17%
+CUST1604,1000,Vivo,37,39,36-45,Female,Chittagong,4,3,Satisfied,Excellent customer support,Positive,Service Complaint,1,"8 May, 2024",May-2024,,0,166,17%
+CUST1605,1000,Vivo,35,39,26-35,Female,Dhaka,3,3,Neutral,Lags frequently,Negative,Slow System,-1,"11 September, 2024",Sep-2024,,0,166,17%
+CUST1606,1000,Oneplus,58,39,47-60,Other,Chittagong,5,3,Very Satisfied,Poor camera resolution,Negative,General,-1,"4 January, 2023",Jan-2023,,0,166,17%
+CUST1607,1000,Xiaomi,31,39,26-35,Other,Rajshahi,4,3,Satisfied,Very durable,Positive,General,1,"3 April, 2023",Apr-2023,,0,166,17%
+CUST1608,1000,Apple,32,39,26-35,Male,Khulna,5,3,Very Satisfied,Lags frequently,Negative,Slow System,-1,"6 January, 2023",Jan-2023,,0,166,17%
+CUST1609,1000,Samsung,48,39,46-55,Other,Barisal,4,3,Satisfied,Breaks easily,Negative,General,-1,"15 October, 2023",Oct-2023,,0,166,17%
+CUST1610,1000,Oppo,18,39,18-25,Male,Rangpur,2,3,Dissatisfied,Poor camera resolution,Negative,General,-1,"9 September, 2024",Sep-2024,,1,166,17%
+CUST1611,1000,Apple,20,39,18-25,Female,Rangpur,3,3,Neutral,Excellent customer support,Positive,Service Complaint,1,"26 May, 2023",May-2023,,0,165,17%
+CUST1612,1000,Oneplus,33,39,26-35,Other,Rangpur,4,3,Satisfied,Excellent battery life,Positive,Battery Problem,1,"28 February, 2024",Feb-2024,,0,165,17%
+CUST1613,1000,Oppo,40,39,36-45,Male,Barisal,1,3,Very Dissatisfied,Amazing camera quality,Positive,General,1,"30 August, 2024",Aug-2024,,1,165,17%
+CUST1614,1000,Samsung,28,39,26-35,Male,Rangpur,1,3,Very Dissatisfied,Affordable and reliable,Positive,General,1,"1 April, 2024",Apr-2024,,1,164,16%
+CUST1615,1000,Samsung,29,39,26-35,Female,Khulna,4,3,Satisfied,Stylish design,Neutral,General,0,"21 July, 2023",Jul-2023,,0,163,16%
+CUST1616,1000,Xiaomi,27,39,26-35,Other,Barisal,4,3,Satisfied,Design feels outdated,Negative,General,-1,"31 July, 2023",Jul-2023,,0,163,16%
+CUST1617,1000,Oppo,49,39,46-55,Female,Rangpur,4,3,Satisfied,Affordable and reliable,Positive,General,1,"6 January, 2023",Jan-2023,,0,163,16%
+CUST1618,1000,Xiaomi,33,39,26-35,Male,Barisal,1,3,Very Dissatisfied,Excellent battery life,Positive,Battery Problem,1,"15 September, 2024",Sep-2024,,1,163,16%
+CUST1619,1000,Apple,25,39,18-25,Male,Rajshahi,1,3,Very Dissatisfied,Amazing camera quality,Positive,General,1,"11 January, 2024",Jan-2024,,1,162,16%
+CUST1620,1000,Vivo,55,39,46-55,Other,Khulna,4,3,Satisfied,Design feels outdated,Negative,General,-1,"22 March, 2024",Mar-2024,,0,161,16%
+CUST1621,1000,Vivo,29,39,26-35,Male,Sylhet,5,3,Very Satisfied,Very durable,Positive,General,1,"16 April, 2023",Apr-2023,,0,161,16%
+CUST1622,1000,Vivo,41,39,36-45,Other,Dhaka,5,3,Very Satisfied,Excellent customer support,Positive,Service Complaint,1,"12 October, 2024",Oct-2024,,0,161,16%
+CUST1623,1000,Oppo,45,39,36-45,Female,Rangpur,2,3,Dissatisfied,Too expensive for features,Negative,Pricing Issue,-1,"5 February, 2024",Feb-2024,,1,161,16%
+CUST1624,1000,Vivo,25,39,18-25,Other,Dhaka,3,3,Neutral,Customer service is slow,Negative,Slow System,-1,"6 April, 2023",Apr-2023,,0,160,16%
+CUST1625,1000,Apple,45,39,36-45,Other,Barisal,5,3,Very Satisfied,Excellent customer support,Positive,Service Complaint,1,"23 January, 2024",Jan-2024,,0,160,16%
+CUST1626,1000,Xiaomi,53,39,46-55,Male,Dhaka,1,3,Very Dissatisfied,Very durable,Positive,General,1,"27 March, 2024",Mar-2024,,1,160,16%
+CUST1627,1000,Oppo,43,39,36-45,Male,Khulna,5,3,Very Satisfied,Design feels outdated,Negative,General,-1,"20 February, 2024",Feb-2024,,0,159,16%
+CUST1628,1000,Xiaomi,25,39,18-25,Other,Khulna,2,3,Dissatisfied,Poor camera resolution,Negative,General,-1,"26 December, 2024",Dec-2024,,1,159,16%
+CUST1629,1000,Oppo,45,39,36-45,Male,Chittagong,2,3,Dissatisfied,Amazing camera quality,Positive,General,1,"18 May, 2024",May-2024,,1,158,16%
+CUST1630,1000,Xiaomi,45,39,36-45,Male,Rangpur,3,3,Neutral,Very durable,Positive,General,1,"29 March, 2024",Mar-2024,,0,157,16%
+CUST1631,1000,Samsung,54,39,46-55,Male,Chittagong,5,3,Very Satisfied,Design feels outdated,Negative,General,-1,"18 October, 2023",Oct-2023,,0,157,16%
+CUST1632,1000,Xiaomi,58,39,47-60,Other,Dhaka,1,3,Very Dissatisfied,Great performance under heavy use,Positive,General,1,"17 June, 2024",Jun-2024,,1,157,16%
+CUST1633,1000,Vivo,53,39,46-55,Male,Sylhet,1,3,Very Dissatisfied,Affordable and reliable,Positive,General,1,"12 July, 2023",Jul-2023,,1,156,16%
+CUST1634,1000,Samsung,44,39,36-45,Other,Chittagong,4,3,Satisfied,Excellent battery life,Positive,Battery Problem,1,"30 May, 2023",May-2023,,0,155,16%
+CUST1635,1000,Xiaomi,34,39,26-35,Male,Chittagong,1,3,Very Dissatisfied,Too expensive for features,Negative,Pricing Issue,-1,"29 May, 2024",May-2024,,1,155,16%
+CUST1636,1000,Oppo,26,39,26-35,Female,Khulna,3,3,Neutral,Very durable,Positive,General,1,"28 January, 2024",Jan-2024,,0,154,15%
+CUST1637,1000,Oppo,50,39,46-55,Male,Sylhet,3,3,Neutral,Excellent battery life,Positive,Battery Problem,1,"12 November, 2023",Nov-2023,,0,154,15%
+CUST1638,1000,Oppo,37,39,36-45,Male,Barisal,1,3,Very Dissatisfied,Poor camera resolution,Negative,General,-1,"17 March, 2023",Mar-2023,,1,154,15%
+CUST1639,1000,Oneplus,30,39,26-35,Other,Dhaka,1,3,Very Dissatisfied,Customer service is slow,Negative,Slow System,-1,"21 August, 2024",Aug-2024,,1,153,15%
+CUST1640,1000,Apple,45,39,36-45,Other,Chittagong,4,3,Satisfied,Poor camera resolution,Negative,General,-1,"27 September, 2023",Sep-2023,,0,152,15%
+CUST1641,1000,Oppo,46,39,46-55,Male,Sylhet,1,3,Very Dissatisfied,Lags frequently,Negative,Slow System,-1,"13 August, 2023",Aug-2023,,1,152,15%
+CUST1642,1000,Samsung,30,39,26-35,Female,Rangpur,4,3,Satisfied,Too expensive for features,Negative,Pricing Issue,-1,"13 June, 2024",Jun-2024,,0,151,15%
+CUST1643,1000,Oppo,52,39,46-55,Male,Sylhet,4,3,Satisfied,Too expensive for features,Negative,Pricing Issue,-1,"23 April, 2023",Apr-2023,,0,151,15%
+CUST1644,1000,Oneplus,23,39,18-25,Male,Dhaka,1,3,Very Dissatisfied,Too expensive for features,Negative,Pricing Issue,-1,"8 September, 2023",Sep-2023,,1,151,15%
+CUST1645,1000,Vivo,35,39,26-35,Female,Sylhet,2,3,Dissatisfied,Lags frequently,Negative,Slow System,-1,"21 August, 2023",Aug-2023,,1,150,15%
+CUST1646,1000,Samsung,22,39,18-25,Other,Sylhet,2,3,Dissatisfied,Great performance under heavy use,Positive,General,1,"14 December, 2024",Dec-2024,,1,149,15%
+CUST1647,1000,Oneplus,42,39,36-45,Male,Sylhet,4,3,Satisfied,Excellent customer support,Positive,Service Complaint,1,"24 March, 2023",Mar-2023,,0,148,15%
+CUST1648,1000,Vivo,19,39,18-25,Other,Rangpur,1,3,Very Dissatisfied,Very durable,Positive,General,1,"5 May, 2023",May-2023,,1,148,15%
+CUST1649,1000,Samsung,27,39,26-35,Other,Chittagong,2,3,Dissatisfied,Amazing camera quality,Positive,General,1,"24 June, 2023",Jun-2023,,1,147,15%
+CUST1650,1000,Xiaomi,47,39,46-55,Female,Dhaka,1,3,Very Dissatisfied,Lags frequently,Negative,Slow System,-1,"10 March, 2023",Mar-2023,,1,146,15%
+CUST1651,1000,Apple,22,39,18-25,Female,Rangpur,1,3,Very Dissatisfied,Excellent customer support,Positive,Service Complaint,1,"16 February, 2023",Feb-2023,,1,145,15%
+CUST1652,1000,Apple,50,39,46-55,Other,Sylhet,1,3,Very Dissatisfied,Design feels outdated,Negative,General,-1,"13 September, 2023",Sep-2023,,1,144,14%
+CUST1653,1000,Oneplus,18,39,18-25,Male,Sylhet,5,3,Very Satisfied,Excellent customer support,Positive,Service Complaint,1,"27 December, 2024",Dec-2024,,0,143,14%
+CUST1654,1000,Vivo,35,39,26-35,Other,Chittagong,1,3,Very Dissatisfied,Lags frequently,Negative,Slow System,-1,"30 January, 2023",Jan-2023,,1,143,14%
+CUST1655,1000,Apple,49,39,46-55,Male,Dhaka,5,3,Very Satisfied,Breaks easily,Negative,General,-1,"8 October, 2023",Oct-2023,,0,142,14%
+CUST1656,1000,Vivo,28,39,26-35,Male,Khulna,4,3,Satisfied,Amazing camera quality,Positive,General,1,"25 August, 2023",Aug-2023,,0,142,14%
+CUST1657,1000,Vivo,38,39,36-45,Female,Rangpur,2,3,Dissatisfied,Too expensive for features,Negative,Pricing Issue,-1,"5 September, 2023",Sep-2023,,1,142,14%
+CUST1658,1000,Oneplus,43,39,36-45,Male,Chittagong,2,3,Dissatisfied,Affordable and reliable,Positive,General,1,"3 January, 2024",Jan-2024,,1,141,14%
+CUST1659,1000,Oneplus,42,39,36-45,Male,Dhaka,2,3,Dissatisfied,Poor camera resolution,Negative,General,-1,"9 May, 2024",May-2024,,1,140,14%
+CUST1660,1000,Oneplus,39,39,36-45,Other,Rangpur,2,3,Dissatisfied,Affordable and reliable,Positive,General,1,"25 January, 2023",Jan-2023,,1,139,14%
+CUST1661,1000,Apple,44,39,36-45,Female,Sylhet,2,3,Dissatisfied,Lags frequently,Negative,Slow System,-1,"8 August, 2024",Aug-2024,,1,138,14%
+CUST1662,1000,Oneplus,30,39,26-35,Male,Dhaka,2,3,Dissatisfied,Very durable,Positive,General,1,"18 December, 2024",Dec-2024,,1,137,14%
+CUST1663,1000,Apple,50,39,46-55,Male,Dhaka,2,3,Dissatisfied,Excellent customer support,Positive,Service Complaint,1,"4 May, 2024",May-2024,,1,136,14%
+CUST1664,1000,Oneplus,51,39,46-55,Female,Barisal,4,3,Satisfied,Very durable,Positive,General,1,"8 May, 2024",May-2024,,0,135,14%
+CUST1665,1000,Oppo,58,39,47-60,Other,Dhaka,1,3,Very Dissatisfied,Too expensive for features,Negative,Pricing Issue,-1,"10 November, 2023",Nov-2023,,1,135,14%
+CUST1666,1000,Vivo,52,39,46-55,Female,Khulna,3,3,Neutral,Affordable and reliable,Positive,General,1,"28 August, 2024",Aug-2024,,0,134,13%
+CUST1667,1000,Oneplus,18,39,18-25,Female,Dhaka,5,3,Very Satisfied,Poor camera resolution,Negative,General,-1,"10 January, 2024",Jan-2024,,0,134,13%
+CUST1668,1000,Samsung,38,39,36-45,Male,Khulna,3,3,Neutral,Stylish design,Neutral,General,0,"30 September, 2024",Sep-2024,,0,134,13%
+CUST1669,1000,Vivo,23,39,18-25,Male,Sylhet,3,3,Neutral,Great performance under heavy use,Positive,General,1,"25 January, 2023",Jan-2023,,0,134,13%
+CUST1670,1000,Vivo,45,39,36-45,Other,Khulna,1,3,Very Dissatisfied,Very durable,Positive,General,1,"30 November, 2023",Nov-2023,,1,134,13%
+CUST1671,1000,Oneplus,34,39,26-35,Male,Rangpur,1,3,Very Dissatisfied,Lags frequently,Negative,Slow System,-1,"21 December, 2023",Dec-2023,,1,133,13%
+CUST1672,1000,Xiaomi,22,39,18-25,Male,Sylhet,1,3,Very Dissatisfied,Very durable,Positive,General,1,"26 April, 2023",Apr-2023,,1,132,13%
+CUST1673,1000,Oneplus,48,39,46-55,Female,Sylhet,2,3,Dissatisfied,Lags frequently,Negative,Slow System,-1,"17 February, 2023",Feb-2023,,1,131,13%
+CUST1674,1000,Vivo,22,39,18-25,Male,Khulna,4,3,Satisfied,Too expensive for features,Negative,Pricing Issue,-1,"9 April, 2023",Apr-2023,,0,130,13%
+CUST1675,1000,Samsung,55,39,46-55,Other,Chittagong,2,3,Dissatisfied,Stylish design,Neutral,General,0,"3 April, 2024",Apr-2024,,1,130,13%
+CUST1676,1000,Vivo,20,39,18-25,Female,Rajshahi,4,3,Satisfied,Design feels outdated,Negative,General,-1,"6 June, 2024",Jun-2024,,0,129,13%
+CUST1677,1000,Samsung,40,39,36-45,Other,Dhaka,4,3,Satisfied,Design feels outdated,Negative,General,-1,"19 August, 2024",Aug-2024,,0,129,13%
+CUST1678,1000,Apple,54,39,46-55,Female,Barisal,3,3,Neutral,Affordable and reliable,Positive,General,1,"9 February, 2024",Feb-2024,,0,129,13%
+CUST1679,1000,Oppo,54,39,46-55,Male,Rajshahi,3,3,Neutral,Very durable,Positive,General,1,"2 August, 2023",Aug-2023,,0,129,13%
+CUST1680,1000,Vivo,27,39,26-35,Female,Dhaka,4,3,Satisfied,Poor camera resolution,Negative,General,-1,"15 November, 2024",Nov-2024,,0,129,13%
+CUST1681,1000,Oneplus,27,39,26-35,Female,Dhaka,4,3,Satisfied,Breaks easily,Negative,General,-1,"17 May, 2024",May-2024,,0,129,13%
+CUST1682,1000,Apple,36,39,36-45,Male,Sylhet,2,3,Dissatisfied,Excellent battery life,Positive,Battery Problem,1,"21 December, 2024",Dec-2024,,1,129,13%
+CUST1683,1000,Oppo,34,39,26-35,Male,Dhaka,2,3,Dissatisfied,Affordable and reliable,Positive,General,1,"23 March, 2024",Mar-2024,,1,128,13%
+CUST1684,1000,Oneplus,38,39,36-45,Other,Barisal,3,3,Neutral,Affordable and reliable,Positive,General,1,"29 July, 2024",Jul-2024,,0,127,13%
+CUST1685,1000,Xiaomi,31,39,26-35,Other,Dhaka,1,3,Very Dissatisfied,Great performance under heavy use,Positive,General,1,"15 September, 2023",Sep-2023,,1,127,13%
+CUST1686,1000,Oneplus,26,39,26-35,Male,Khulna,4,3,Satisfied,Very durable,Positive,General,1,"1 May, 2023",May-2023,,0,126,13%
+CUST1687,1000,Samsung,18,39,18-25,Male,Rajshahi,2,3,Dissatisfied,Customer service is slow,Negative,Slow System,-1,"23 February, 2023",Feb-2023,,1,126,13%
+CUST1688,1000,Samsung,30,39,26-35,Male,Khulna,3,3,Neutral,Design feels outdated,Negative,General,-1,"27 November, 2023",Nov-2023,,0,125,13%
+CUST1689,1000,Xiaomi,21,39,18-25,Female,Barisal,2,3,Dissatisfied,Design feels outdated,Negative,General,-1,"29 August, 2023",Aug-2023,,1,125,13%
+CUST1690,1000,Apple,18,39,18-25,Female,Dhaka,4,3,Satisfied,Lags frequently,Negative,Slow System,-1,"13 June, 2024",Jun-2024,,0,124,12%
+CUST1691,1000,Oppo,57,39,47-60,Female,Rangpur,4,3,Satisfied,Excellent customer support,Positive,Service Complaint,1,"27 April, 2024",Apr-2024,,0,124,12%
+CUST1692,1000,Oneplus,49,39,46-55,Male,Barisal,5,3,Very Satisfied,Battery drains quickly,Negative,Battery Problem,-1,"6 July, 2023",Jul-2023,,0,124,12%
+CUST1693,1000,Samsung,51,39,46-55,Other,Sylhet,1,3,Very Dissatisfied,Battery drains quickly,Negative,Battery Problem,-1,"17 October, 2024",Oct-2024,,1,124,12%
+CUST1694,1000,Apple,45,39,36-45,Male,Khulna,5,3,Very Satisfied,Battery drains quickly,Negative,Battery Problem,-1,"19 September, 2023",Sep-2023,,0,123,12%
+CUST1695,1000,Xiaomi,48,39,46-55,Female,Khulna,3,3,Neutral,Lags frequently,Negative,Slow System,-1,"30 December, 2023",Dec-2023,,0,123,12%
+CUST1696,1000,Vivo,25,39,18-25,Female,Chittagong,2,3,Dissatisfied,Great performance under heavy use,Positive,General,1,"5 May, 2024",May-2024,,1,123,12%
+CUST1697,1000,Samsung,56,39,47-60,Male,Dhaka,3,3,Neutral,Poor camera resolution,Negative,General,-1,"6 March, 2024",Mar-2024,,0,122,12%
+CUST1698,1000,Xiaomi,43,39,36-45,Male,Sylhet,4,3,Satisfied,Battery drains quickly,Negative,Battery Problem,-1,"27 August, 2023",Aug-2023,,0,122,12%
+CUST1699,1000,Oneplus,51,39,46-55,Female,Rangpur,5,3,Very Satisfied,Customer service is slow,Negative,Slow System,-1,"31 October, 2023",Oct-2023,,0,122,12%
+CUST1700,1000,Oppo,20,39,18-25,Female,Khulna,5,3,Very Satisfied,Customer service is slow,Negative,Slow System,-1,"25 October, 2023",Oct-2023,,0,122,12%
+CUST1701,1000,Samsung,29,39,26-35,Female,Khulna,5,3,Very Satisfied,Too expensive for features,Negative,Pricing Issue,-1,"17 March, 2023",Mar-2023,,0,122,12%
+CUST1702,1000,Samsung,18,39,18-25,Male,Sylhet,3,3,Neutral,Stylish design,Neutral,General,0,"30 November, 2024",Nov-2024,,0,122,12%
+CUST1703,1000,Oneplus,22,39,18-25,Female,Barisal,4,3,Satisfied,Lags frequently,Negative,Slow System,-1,"29 November, 2023",Nov-2023,,0,122,12%
+CUST1704,1000,Vivo,47,39,46-55,Female,Barisal,2,3,Dissatisfied,Amazing camera quality,Positive,General,1,"3 October, 2024",Oct-2024,,1,122,12%
+CUST1705,1000,Apple,47,39,46-55,Other,Dhaka,2,3,Dissatisfied,Affordable and reliable,Positive,General,1,"18 April, 2024",Apr-2024,,1,121,12%
+CUST1706,1000,Oppo,34,39,26-35,Male,Chittagong,3,3,Neutral,Poor camera resolution,Negative,General,-1,"10 October, 2023",Oct-2023,,0,120,12%
+CUST1707,1000,Samsung,40,39,36-45,Other,Khulna,5,3,Very Satisfied,Lags frequently,Negative,Slow System,-1,"13 August, 2024",Aug-2024,,0,120,12%
+CUST1708,1000,Oppo,32,39,26-35,Other,Chittagong,1,3,Very Dissatisfied,Lags frequently,Negative,Slow System,-1,"13 March, 2023",Mar-2023,,1,120,12%
+CUST1709,1000,Samsung,54,39,46-55,Female,Barisal,3,3,Neutral,Design feels outdated,Negative,General,-1,"20 September, 2023",Sep-2023,,0,119,12%
+CUST1710,1000,Oppo,38,39,36-45,Male,Barisal,3,3,Neutral,Excellent customer support,Positive,Service Complaint,1,"3 December, 2024",Dec-2024,,0,119,12%
+CUST1711,1000,Xiaomi,31,39,26-35,Female,Rajshahi,4,3,Satisfied,Amazing camera quality,Positive,General,1,"28 July, 2024",Jul-2024,,0,119,12%
+CUST1712,1000,Samsung,19,39,18-25,Male,Rangpur,2,3,Dissatisfied,Breaks easily,Negative,General,-1,"12 January, 2023",Jan-2023,,1,119,12%
+CUST1713,1000,Oppo,28,39,26-35,Other,Dhaka,3,3,Neutral,Customer service is slow,Negative,Slow System,-1,"21 May, 2023",May-2023,,0,118,12%
+CUST1714,1000,Apple,56,39,47-60,Male,Rajshahi,3,3,Neutral,Great performance under heavy use,Positive,General,1,"8 July, 2024",Jul-2024,,0,118,12%
+CUST1715,1000,Xiaomi,55,39,46-55,Female,Rangpur,5,3,Very Satisfied,Lags frequently,Negative,Slow System,-1,"17 January, 2023",Jan-2023,,0,118,12%
+CUST1716,1000,Xiaomi,51,39,46-55,Female,Rajshahi,5,3,Very Satisfied,Affordable and reliable,Positive,General,1,"4 March, 2023",Mar-2023,,0,118,12%
+CUST1717,1000,Apple,55,39,46-55,Female,Rajshahi,1,3,Very Dissatisfied,Great performance under heavy use,Positive,General,1,"10 September, 2023",Sep-2023,,1,118,12%
+CUST1718,1000,Oppo,51,39,46-55,Male,Dhaka,4,3,Satisfied,Customer service is slow,Negative,Slow System,-1,"9 April, 2024",Apr-2024,,0,117,12%
+CUST1719,1000,Oneplus,35,39,26-35,Other,Dhaka,1,3,Very Dissatisfied,Great performance under heavy use,Positive,General,1,"11 January, 2024",Jan-2024,,1,117,12%
+CUST1720,1000,Apple,47,39,46-55,Other,Sylhet,5,3,Very Satisfied,Stylish design,Neutral,General,0,"3 June, 2024",Jun-2024,,0,116,12%
+CUST1721,1000,Oppo,32,39,26-35,Male,Chittagong,2,3,Dissatisfied,Excellent battery life,Positive,Battery Problem,1,"31 March, 2023",Mar-2023,,1,116,12%
+CUST1722,1000,Apple,44,39,36-45,Female,Chittagong,5,3,Very Satisfied,Excellent battery life,Positive,Battery Problem,1,"20 December, 2024",Dec-2024,,0,115,12%
+CUST1723,1000,Apple,51,39,46-55,Other,Sylhet,4,3,Satisfied,Great performance under heavy use,Positive,General,1,"21 September, 2024",Sep-2024,,0,115,12%
+CUST1724,1000,Samsung,55,39,46-55,Female,Sylhet,5,3,Very Satisfied,Battery drains quickly,Negative,Battery Problem,-1,"24 June, 2023",Jun-2023,,0,115,12%
+CUST1725,1000,Oppo,50,39,46-55,Male,Barisal,4,3,Satisfied,Design feels outdated,Negative,General,-1,"17 March, 2023",Mar-2023,,0,115,12%
+CUST1726,1000,Oneplus,41,39,36-45,Female,Rangpur,4,3,Satisfied,Breaks easily,Negative,General,-1,"4 September, 2024",Sep-2024,,0,115,12%
+CUST1727,1000,Samsung,32,39,26-35,Other,Rajshahi,4,3,Satisfied,Customer service is slow,Negative,Slow System,-1,"24 October, 2024",Oct-2024,,0,115,12%
+CUST1728,1000,Apple,47,39,46-55,Other,Sylhet,4,3,Satisfied,Amazing camera quality,Positive,General,1,"4 February, 2024",Feb-2024,,0,115,12%
+CUST1729,1000,Vivo,59,39,47-60,Female,Khulna,4,3,Satisfied,Battery drains quickly,Negative,Battery Problem,-1,"12 March, 2023",Mar-2023,,0,115,12%
+CUST1730,1000,Apple,34,39,26-35,Male,Chittagong,2,3,Dissatisfied,Very durable,Positive,General,1,"29 June, 2023",Jun-2023,,1,115,12%
+CUST1731,1000,Apple,22,39,18-25,Female,Sylhet,1,3,Very Dissatisfied,Lags frequently,Negative,Slow System,-1,"4 May, 2023",May-2023,,1,114,11%
+CUST1732,1000,Oppo,46,39,46-55,Male,Khulna,3,3,Neutral,Design feels outdated,Negative,General,-1,"16 January, 2024",Jan-2024,,0,113,11%
+CUST1733,1000,Oppo,21,39,18-25,Female,Khulna,1,3,Very Dissatisfied,Great performance under heavy use,Positive,General,1,"20 October, 2023",Oct-2023,,1,113,11%
+CUST1734,1000,Samsung,27,39,26-35,Other,Khulna,4,3,Satisfied,Too expensive for features,Negative,Pricing Issue,-1,"14 July, 2023",Jul-2023,,0,112,11%
+CUST1735,1000,Oneplus,34,39,26-35,Male,Barisal,2,3,Dissatisfied,Too expensive for features,Negative,Pricing Issue,-1,"16 August, 2023",Aug-2023,,1,112,11%
+CUST1736,1000,Samsung,27,39,26-35,Male,Barisal,5,3,Very Satisfied,Very durable,Positive,General,1,"6 March, 2024",Mar-2024,,0,111,11%
+CUST1737,1000,Xiaomi,34,39,26-35,Male,Khulna,2,3,Dissatisfied,Battery drains quickly,Negative,Battery Problem,-1,"11 March, 2024",Mar-2024,,1,111,11%
+CUST1738,1000,Apple,37,39,36-45,Other,Rangpur,4,3,Satisfied,Very durable,Positive,General,1,"5 April, 2024",Apr-2024,,0,110,11%
+CUST1739,1000,Vivo,41,39,36-45,Female,Barisal,2,3,Dissatisfied,Great performance under heavy use,Positive,General,1,"9 September, 2024",Sep-2024,,1,110,11%
+CUST1740,1000,Apple,22,39,18-25,Other,Rajshahi,2,3,Dissatisfied,Stylish design,Neutral,General,0,"21 January, 2023",Jan-2023,,1,109,11%
+CUST1741,1000,Apple,51,39,46-55,Male,Khulna,4,3,Satisfied,Lags frequently,Negative,Slow System,-1,"5 March, 2023",Mar-2023,,0,108,11%
+CUST1742,1000,Samsung,23,39,18-25,Female,Rajshahi,2,3,Dissatisfied,Too expensive for features,Negative,Pricing Issue,-1,"14 June, 2023",Jun-2023,,1,108,11%
+CUST1743,1000,Vivo,19,39,18-25,Other,Rajshahi,3,3,Neutral,Excellent battery life,Positive,Battery Problem,1,"27 January, 2023",Jan-2023,,0,107,11%
+CUST1744,1000,Vivo,30,39,26-35,Male,Khulna,3,3,Neutral,Customer service is slow,Negative,Slow System,-1,"7 November, 2023",Nov-2023,,0,107,11%
+CUST1745,1000,Vivo,28,39,26-35,Male,Chittagong,2,3,Dissatisfied,Breaks easily,Negative,General,-1,"12 October, 2023",Oct-2023,,1,107,11%
+CUST1746,1000,Samsung,40,39,36-45,Other,Rangpur,5,3,Very Satisfied,Customer service is slow,Negative,Slow System,-1,"21 October, 2024",Oct-2024,,0,106,11%
+CUST1747,1000,Apple,33,39,26-35,Other,Khulna,4,3,Satisfied,Amazing camera quality,Positive,General,1,"8 October, 2023",Oct-2023,,0,106,11%
+CUST1748,1000,Samsung,48,39,46-55,Other,Khulna,3,3,Neutral,Customer service is slow,Negative,Slow System,-1,"13 June, 2023",Jun-2023,,0,106,11%
+CUST1749,1000,Oppo,28,39,26-35,Male,Barisal,5,3,Very Satisfied,Very durable,Positive,General,1,"12 August, 2023",Aug-2023,,0,106,11%
+CUST1750,1000,Oppo,33,39,26-35,Other,Khulna,2,3,Dissatisfied,Great performance under heavy use,Positive,General,1,"26 May, 2023",May-2023,,1,106,11%
+CUST1751,1000,Samsung,25,39,18-25,Male,Chittagong,5,3,Very Satisfied,Stylish design,Neutral,General,0,"30 January, 2023",Jan-2023,,0,105,11%
+CUST1752,1000,Vivo,21,39,18-25,Other,Barisal,1,3,Very Dissatisfied,Customer service is slow,Negative,Slow System,-1,"14 February, 2023",Feb-2023,,1,105,11%
+CUST1753,1000,Apple,57,39,47-60,Male,Dhaka,3,3,Neutral,Too expensive for features,Negative,Pricing Issue,-1,"15 April, 2024",Apr-2024,,0,104,10%
+CUST1754,1000,Samsung,21,39,18-25,Male,Dhaka,2,3,Dissatisfied,Poor camera resolution,Negative,General,-1,"3 February, 2023",Feb-2023,,1,104,10%
+CUST1755,1000,Samsung,42,39,36-45,Female,Rajshahi,4,3,Satisfied,Battery drains quickly,Negative,Battery Problem,-1,"14 October, 2024",Oct-2024,,0,103,10%
+CUST1756,1000,Samsung,20,39,18-25,Other,Rangpur,2,3,Dissatisfied,Excellent battery life,Positive,Battery Problem,1,"2 March, 2024",Mar-2024,,1,103,10%
+CUST1757,1000,Xiaomi,49,39,46-55,Other,Rajshahi,4,3,Satisfied,Poor camera resolution,Negative,General,-1,"9 August, 2023",Aug-2023,,0,102,10%
+CUST1758,1000,Oppo,20,39,18-25,Male,Chittagong,2,3,Dissatisfied,Great performance under heavy use,Positive,General,1,"17 June, 2024",Jun-2024,,1,102,10%
+CUST1759,1000,Vivo,44,39,36-45,Male,Sylhet,5,3,Very Satisfied,Breaks easily,Negative,General,-1,"22 November, 2024",Nov-2024,,0,101,10%
+CUST1760,1000,Oneplus,46,39,46-55,Male,Rangpur,5,3,Very Satisfied,Amazing camera quality,Positive,General,1,"2 January, 2024",Jan-2024,,0,101,10%
+CUST1761,1000,Vivo,49,39,46-55,Female,Dhaka,5,3,Very Satisfied,Battery drains quickly,Negative,Battery Problem,-1,"3 July, 2024",Jul-2024,,0,101,10%
+CUST1762,1000,Oneplus,36,39,36-45,Female,Rajshahi,1,3,Very Dissatisfied,Stylish design,Neutral,General,0,"4 August, 2024",Aug-2024,,1,101,10%
+CUST1763,1000,Xiaomi,38,39,36-45,Male,Dhaka,4,3,Satisfied,Customer service is slow,Negative,Slow System,-1,"26 April, 2023",Apr-2023,,0,100,10%
+CUST1764,1000,Samsung,22,39,18-25,Other,Chittagong,5,3,Very Satisfied,Battery drains quickly,Negative,Battery Problem,-1,"27 August, 2023",Aug-2023,,0,100,10%
+CUST1765,1000,Xiaomi,35,39,26-35,Other,Chittagong,1,3,Very Dissatisfied,Lags frequently,Negative,Slow System,-1,"1 December, 2023",Dec-2023,,1,100,10%
+CUST1766,1000,Xiaomi,45,39,36-45,Female,Sylhet,4,3,Satisfied,Poor camera resolution,Negative,General,-1,"16 March, 2024",Mar-2024,,0,99,10%
+CUST1767,1000,Apple,59,39,47-60,Female,Sylhet,2,3,Dissatisfied,Poor camera resolution,Negative,General,-1,"28 May, 2023",May-2023,,1,99,10%
+CUST1768,1000,Oppo,39,39,36-45,Male,Barisal,1,3,Very Dissatisfied,Design feels outdated,Negative,General,-1,"9 January, 2023",Jan-2023,,1,98,10%
+CUST1769,1000,Oneplus,38,39,36-45,Other,Rangpur,3,3,Neutral,Excellent customer support,Positive,Service Complaint,1,"15 October, 2023",Oct-2023,,0,97,10%
+CUST1770,1000,Samsung,23,39,18-25,Male,Chittagong,1,3,Very Dissatisfied,Customer service is slow,Negative,Slow System,-1,"23 January, 2024",Jan-2024,,1,97,10%
+CUST1771,1000,Oneplus,18,39,18-25,Female,Rajshahi,1,3,Very Dissatisfied,Battery drains quickly,Negative,Battery Problem,-1,"19 February, 2023",Feb-2023,,1,96,10%
+CUST1772,1000,Vivo,22,39,18-25,Other,Dhaka,4,3,Satisfied,Design feels outdated,Negative,General,-1,"31 May, 2024",May-2024,,0,95,10%
+CUST1773,1000,Oneplus,58,39,47-60,Other,Khulna,2,3,Dissatisfied,Breaks easily,Negative,General,-1,"29 September, 2024",Sep-2024,,1,95,10%
+CUST1774,1000,Vivo,29,39,26-35,Female,Sylhet,3,3,Neutral,Too expensive for features,Negative,Pricing Issue,-1,"9 August, 2024",Aug-2024,,0,94,9%
+CUST1775,1000,Oppo,43,39,36-45,Male,Khulna,5,3,Very Satisfied,Poor camera resolution,Negative,General,-1,"7 November, 2024",Nov-2024,,0,94,9%
+CUST1776,1000,Vivo,51,39,46-55,Male,Rajshahi,5,3,Very Satisfied,Very durable,Positive,General,1,"5 October, 2023",Oct-2023,,0,94,9%
+CUST1777,1000,Oneplus,31,39,26-35,Other,Sylhet,1,3,Very Dissatisfied,Breaks easily,Negative,General,-1,"27 October, 2023",Oct-2023,,1,94,9%
+CUST1778,1000,Oneplus,43,39,36-45,Female,Khulna,4,3,Satisfied,Poor camera resolution,Negative,General,-1,"11 August, 2024",Aug-2024,,0,93,9%
+CUST1779,1000,Vivo,44,39,36-45,Other,Rangpur,4,3,Satisfied,Battery drains quickly,Negative,Battery Problem,-1,"10 October, 2024",Oct-2024,,0,93,9%
+CUST1780,1000,Xiaomi,26,39,26-35,Female,Rajshahi,5,3,Very Satisfied,Stylish design,Neutral,General,0,"9 September, 2024",Sep-2024,,0,93,9%
+CUST1781,1000,Oppo,43,39,36-45,Male,Dhaka,3,3,Neutral,Too expensive for features,Negative,Pricing Issue,-1,"29 August, 2024",Aug-2024,,0,93,9%
+CUST1782,1000,Apple,39,39,36-45,Female,Rangpur,2,3,Dissatisfied,Breaks easily,Negative,General,-1,"15 May, 2023",May-2023,,1,93,9%
+CUST1783,1000,Samsung,47,39,46-55,Male,Rajshahi,3,3,Neutral,Battery drains quickly,Negative,Battery Problem,-1,"2 August, 2024",Aug-2024,,0,92,9%
+CUST1784,1000,Oneplus,34,39,26-35,Female,Barisal,2,3,Dissatisfied,Battery drains quickly,Negative,Battery Problem,-1,"27 May, 2023",May-2023,,1,92,9%
+CUST1785,1000,Samsung,43,39,36-45,Other,Sylhet,5,3,Very Satisfied,Affordable and reliable,Positive,General,1,"4 May, 2024",May-2024,,0,91,9%
+CUST1786,1000,Apple,53,39,46-55,Male,Chittagong,2,3,Dissatisfied,Customer service is slow,Negative,Slow System,-1,"22 April, 2024",Apr-2024,,1,91,9%
+CUST1787,1000,Samsung,18,39,18-25,Other,Dhaka,4,3,Satisfied,Great performance under heavy use,Positive,General,1,"8 June, 2023",Jun-2023,,0,90,9%
+CUST1788,1000,Apple,25,39,18-25,Other,Rangpur,1,3,Very Dissatisfied,Breaks easily,Negative,General,-1,"19 January, 2024",Jan-2024,,1,90,9%
+CUST1789,1000,Vivo,52,39,46-55,Male,Rangpur,1,3,Very Dissatisfied,Lags frequently,Negative,Slow System,-1,"12 June, 2023",Jun-2023,,1,89,9%
+CUST1790,1000,Xiaomi,32,39,26-35,Male,Khulna,5,3,Very Satisfied,Affordable and reliable,Positive,General,1,"16 March, 2024",Mar-2024,,0,88,9%
+CUST1791,1000,Oneplus,39,39,36-45,Other,Sylhet,4,3,Satisfied,Customer service is slow,Negative,Slow System,-1,"8 July, 2023",Jul-2023,,0,88,9%
+CUST1792,1000,Apple,31,39,26-35,Other,Chittagong,3,3,Neutral,Customer service is slow,Negative,Slow System,-1,"19 February, 2024",Feb-2024,,0,88,9%
+CUST1793,1000,Samsung,43,39,36-45,Other,Rajshahi,4,3,Satisfied,Poor camera resolution,Negative,General,-1,"5 December, 2023",Dec-2023,,0,88,9%
+CUST1794,1000,Oneplus,45,39,36-45,Other,Chittagong,1,3,Very Dissatisfied,Battery drains quickly,Negative,Battery Problem,-1,"29 August, 2024",Aug-2024,,1,88,9%
+CUST1795,1000,Xiaomi,40,39,36-45,Male,Sylhet,1,3,Very Dissatisfied,Lags frequently,Negative,Slow System,-1,"30 June, 2023",Jun-2023,,1,87,9%
+CUST1796,1000,Vivo,31,39,26-35,Male,Sylhet,4,3,Satisfied,Great performance under heavy use,Positive,General,1,"15 October, 2023",Oct-2023,,0,86,9%
+CUST1797,1000,Oneplus,41,39,36-45,Other,Barisal,4,3,Satisfied,Affordable and reliable,Positive,General,1,"6 July, 2023",Jul-2023,,0,86,9%
+CUST1798,1000,Apple,19,39,18-25,Female,Barisal,1,3,Very Dissatisfied,Battery drains quickly,Negative,Battery Problem,-1,"18 May, 2023",May-2023,,1,86,9%
+CUST1799,1000,Xiaomi,43,39,36-45,Female,Chittagong,3,3,Neutral,Amazing camera quality,Positive,General,1,"10 May, 2023",May-2023,,0,85,9%
+CUST1800,1000,Samsung,31,39,26-35,Male,Rajshahi,5,3,Very Satisfied,Too expensive for features,Negative,Pricing Issue,-1,"13 July, 2023",Jul-2023,,0,85,9%
+CUST1801,1000,Xiaomi,24,39,18-25,Other,Chittagong,5,3,Very Satisfied,Affordable and reliable,Positive,General,1,"12 November, 2023",Nov-2023,,0,85,9%
+CUST1802,1000,Xiaomi,20,39,18-25,Other,Sylhet,4,3,Satisfied,Great performance under heavy use,Positive,General,1,"24 May, 2023",May-2023,,0,85,9%
+CUST1803,1000,Oppo,40,39,36-45,Male,Sylhet,5,3,Very Satisfied,Affordable and reliable,Positive,General,1,"16 January, 2023",Jan-2023,,0,85,9%
+CUST1804,1000,Xiaomi,35,39,26-35,Female,Khulna,1,3,Very Dissatisfied,Excellent customer support,Positive,Service Complaint,1,"29 October, 2023",Oct-2023,,1,85,9%
+CUST1805,1000,Xiaomi,55,39,46-55,Female,Barisal,1,3,Very Dissatisfied,Excellent customer support,Positive,Service Complaint,1,"27 February, 2024",Feb-2024,,1,84,8%
+CUST1806,1000,Oneplus,52,39,46-55,Female,Khulna,4,3,Satisfied,Poor camera resolution,Negative,General,-1,"2 September, 2023",Sep-2023,,0,83,8%
+CUST1807,1000,Samsung,32,39,26-35,Male,Dhaka,4,3,Satisfied,Amazing camera quality,Positive,General,1,"17 April, 2023",Apr-2023,,0,83,8%
+CUST1808,1000,Oneplus,42,39,36-45,Female,Sylhet,4,3,Satisfied,Stylish design,Neutral,General,0,"29 March, 2023",Mar-2023,,0,83,8%
+CUST1809,1000,Oneplus,54,39,46-55,Male,Khulna,3,3,Neutral,Stylish design,Neutral,General,0,"9 May, 2023",May-2023,,0,83,8%
+CUST1810,1000,Apple,45,39,36-45,Male,Chittagong,5,3,Very Satisfied,Great performance under heavy use,Positive,General,1,"7 December, 2023",Dec-2023,,0,83,8%
+CUST1811,1000,Oneplus,27,39,26-35,Other,Barisal,4,3,Satisfied,Very durable,Positive,General,1,"4 January, 2023",Jan-2023,,0,83,8%
+CUST1812,1000,Oppo,56,39,47-60,Female,Barisal,2,3,Dissatisfied,Too expensive for features,Negative,Pricing Issue,-1,"23 November, 2023",Nov-2023,,1,83,8%
+CUST1813,1000,Oppo,34,39,26-35,Male,Rajshahi,2,3,Dissatisfied,Stylish design,Neutral,General,0,"14 February, 2024",Feb-2024,,1,82,8%
+CUST1814,1000,Apple,56,39,47-60,Female,Chittagong,1,3,Very Dissatisfied,Too expensive for features,Negative,Pricing Issue,-1,"2 November, 2023",Nov-2023,,1,81,8%
+CUST1815,1000,Vivo,39,39,36-45,Female,Rajshahi,5,3,Very Satisfied,Great performance under heavy use,Positive,General,1,"29 August, 2024",Aug-2024,,0,80,8%
+CUST1816,1000,Samsung,43,39,36-45,Other,Khulna,4,3,Satisfied,Amazing camera quality,Positive,General,1,"21 December, 2024",Dec-2024,,0,80,8%
+CUST1817,1000,Samsung,42,39,36-45,Female,Rangpur,2,3,Dissatisfied,Very durable,Positive,General,1,"13 August, 2023",Aug-2023,,1,80,8%
+CUST1818,1000,Oneplus,34,39,26-35,Other,Dhaka,5,3,Very Satisfied,Very durable,Positive,General,1,"14 December, 2023",Dec-2023,,0,79,8%
+CUST1819,1000,Oneplus,30,39,26-35,Male,Chittagong,1,3,Very Dissatisfied,Excellent customer support,Positive,Service Complaint,1,"17 November, 2023",Nov-2023,,1,79,8%
+CUST1820,1000,Vivo,37,39,36-45,Female,Chittagong,3,3,Neutral,Poor camera resolution,Negative,General,-1,"12 July, 2024",Jul-2024,,0,78,8%
+CUST1821,1000,Oneplus,42,39,36-45,Male,Chittagong,5,3,Very Satisfied,Battery drains quickly,Negative,Battery Problem,-1,"30 June, 2023",Jun-2023,,0,78,8%
+CUST1822,1000,Samsung,21,39,18-25,Female,Rajshahi,5,3,Very Satisfied,Very durable,Positive,General,1,"9 September, 2024",Sep-2024,,0,78,8%
+CUST1823,1000,Xiaomi,27,39,26-35,Male,Khulna,3,3,Neutral,Excellent battery life,Positive,Battery Problem,1,"11 December, 2024",Dec-2024,,0,78,8%
+CUST1824,1000,Oppo,20,39,18-25,Female,Chittagong,5,3,Very Satisfied,Great performance under heavy use,Positive,General,1,"21 January, 2024",Jan-2024,,0,78,8%
+CUST1825,1000,Xiaomi,58,39,47-60,Female,Rangpur,1,3,Very Dissatisfied,Breaks easily,Negative,General,-1,"9 September, 2024",Sep-2024,,1,78,8%
+CUST1826,1000,Xiaomi,35,39,26-35,Female,Chittagong,1,3,Very Dissatisfied,Very durable,Positive,General,1,"18 April, 2023",Apr-2023,,1,77,8%
+CUST1827,1000,Samsung,53,39,46-55,Female,Barisal,3,3,Neutral,Very durable,Positive,General,1,"14 June, 2024",Jun-2024,,0,76,8%
+CUST1828,1000,Xiaomi,39,39,36-45,Female,Dhaka,4,3,Satisfied,Customer service is slow,Negative,Slow System,-1,"14 February, 2024",Feb-2024,,0,76,8%
+CUST1829,1000,Vivo,51,39,46-55,Female,Barisal,2,3,Dissatisfied,Design feels outdated,Negative,General,-1,"23 October, 2023",Oct-2023,,1,76,8%
+CUST1830,1000,Apple,25,39,18-25,Female,Barisal,4,3,Satisfied,Too expensive for features,Negative,Pricing Issue,-1,"20 June, 2023",Jun-2023,,0,75,8%
+CUST1831,1000,Oneplus,57,39,47-60,Female,Dhaka,5,3,Very Satisfied,Excellent battery life,Positive,Battery Problem,1,"27 November, 2023",Nov-2023,,0,75,8%
+CUST1832,1000,Apple,36,39,36-45,Female,Rangpur,2,3,Dissatisfied,Breaks easily,Negative,General,-1,"7 May, 2024",May-2024,,1,75,8%
+CUST1833,1000,Oppo,59,39,47-60,Male,Khulna,3,3,Neutral,Customer service is slow,Negative,Slow System,-1,"14 July, 2023",Jul-2023,,0,74,7%
+CUST1834,1000,Oneplus,58,39,47-60,Other,Barisal,3,3,Neutral,Design feels outdated,Negative,General,-1,"12 January, 2023",Jan-2023,,0,74,7%
+CUST1835,1000,Xiaomi,54,39,46-55,Female,Khulna,2,3,Dissatisfied,Very durable,Positive,General,1,"14 July, 2023",Jul-2023,,1,74,7%
+CUST1836,1000,Oppo,23,39,18-25,Other,Barisal,1,3,Very Dissatisfied,Battery drains quickly,Negative,Battery Problem,-1,"4 May, 2024",May-2024,,1,73,7%
+CUST1837,1000,Oneplus,43,39,36-45,Female,Sylhet,2,3,Dissatisfied,Excellent battery life,Positive,Battery Problem,1,"1 July, 2023",Jul-2023,,1,72,7%
+CUST1838,1000,Vivo,51,39,46-55,Female,Dhaka,5,3,Very Satisfied,Excellent customer support,Positive,Service Complaint,1,"17 October, 2024",Oct-2024,,0,71,7%
+CUST1839,1000,Vivo,23,39,18-25,Male,Barisal,1,3,Very Dissatisfied,Affordable and reliable,Positive,General,1,"12 November, 2023",Nov-2023,,1,71,7%
+CUST1840,1000,Vivo,54,39,46-55,Male,Sylhet,3,3,Neutral,Customer service is slow,Negative,Slow System,-1,"24 November, 2024",Nov-2024,,0,70,7%
+CUST1841,1000,Vivo,50,39,46-55,Other,Rajshahi,2,3,Dissatisfied,Very durable,Positive,General,1,"30 January, 2023",Jan-2023,,1,70,7%
+CUST1842,1000,Xiaomi,39,39,36-45,Male,Sylhet,4,3,Satisfied,Breaks easily,Negative,General,-1,"18 August, 2024",Aug-2024,,0,69,7%
+CUST1843,1000,Apple,38,39,36-45,Male,Chittagong,4,3,Satisfied,Breaks easily,Negative,General,-1,"8 November, 2024",Nov-2024,,0,69,7%
+CUST1844,1000,Oneplus,23,39,18-25,Other,Barisal,5,3,Very Satisfied,Very durable,Positive,General,1,"6 April, 2023",Apr-2023,,0,69,7%
+CUST1845,1000,Xiaomi,23,39,18-25,Male,Sylhet,4,3,Satisfied,Poor camera resolution,Negative,General,-1,"16 January, 2024",Jan-2024,,0,69,7%
+CUST1846,1000,Vivo,21,39,18-25,Female,Khulna,2,3,Dissatisfied,Too expensive for features,Negative,Pricing Issue,-1,"19 March, 2024",Mar-2024,,1,69,7%
+CUST1847,1000,Apple,47,39,46-55,Other,Rajshahi,2,3,Dissatisfied,Too expensive for features,Negative,Pricing Issue,-1,"25 October, 2023",Oct-2023,,1,68,7%
+CUST1848,1000,Oppo,28,39,26-35,Other,Rangpur,4,3,Satisfied,Poor camera resolution,Negative,General,-1,"27 December, 2023",Dec-2023,,0,67,7%
+CUST1849,1000,Oppo,47,39,46-55,Female,Barisal,2,3,Dissatisfied,Customer service is slow,Negative,Slow System,-1,"9 January, 2024",Jan-2024,,1,67,7%
+CUST1850,1000,Oppo,48,39,46-55,Male,Chittagong,5,3,Very Satisfied,Design feels outdated,Negative,General,-1,"7 July, 2024",Jul-2024,,0,66,7%
+CUST1851,1000,Vivo,41,39,36-45,Other,Rangpur,1,3,Very Dissatisfied,Great performance under heavy use,Positive,General,1,"30 October, 2023",Oct-2023,,1,66,7%
+CUST1852,1000,Oppo,26,39,26-35,Other,Sylhet,5,3,Very Satisfied,Battery drains quickly,Negative,Battery Problem,-1,"25 February, 2024",Feb-2024,,0,65,7%
+CUST1853,1000,Samsung,20,39,18-25,Female,Rangpur,5,3,Very Satisfied,Great performance under heavy use,Positive,General,1,"3 September, 2023",Sep-2023,,0,65,7%
+CUST1854,1000,Oneplus,48,39,46-55,Female,Rangpur,2,3,Dissatisfied,Affordable and reliable,Positive,General,1,"20 December, 2024",Dec-2024,,1,65,7%
+CUST1855,1000,Oneplus,57,39,47-60,Male,Rajshahi,1,3,Very Dissatisfied,Very durable,Positive,General,1,"25 August, 2023",Aug-2023,,1,64,6%
+CUST1856,1000,Vivo,54,39,46-55,Other,Rangpur,2,3,Dissatisfied,Battery drains quickly,Negative,Battery Problem,-1,"17 June, 2024",Jun-2024,,1,63,6%
+CUST1857,1000,Samsung,53,39,46-55,Male,Rangpur,3,3,Neutral,Excellent battery life,Positive,Battery Problem,1,"4 July, 2023",Jul-2023,,0,62,6%
+CUST1858,1000,Xiaomi,41,39,36-45,Male,Barisal,2,3,Dissatisfied,Very durable,Positive,General,1,"12 April, 2024",Apr-2024,,1,62,6%
+CUST1859,1000,Xiaomi,48,39,46-55,Female,Rajshahi,2,3,Dissatisfied,Excellent customer support,Positive,Service Complaint,1,"29 December, 2023",Dec-2023,,1,61,6%
+CUST1860,1000,Oppo,23,39,18-25,Other,Chittagong,2,3,Dissatisfied,Lags frequently,Negative,Slow System,-1,"10 October, 2023",Oct-2023,,1,60,6%
+CUST1861,1000,Apple,19,39,18-25,Other,Sylhet,1,3,Very Dissatisfied,Lags frequently,Negative,Slow System,-1,"6 July, 2024",Jul-2024,,1,59,6%
+CUST1862,1000,Xiaomi,37,39,36-45,Other,Rajshahi,2,3,Dissatisfied,Customer service is slow,Negative,Slow System,-1,"2 December, 2023",Dec-2023,,1,58,6%
+CUST1863,1000,Apple,45,39,36-45,Female,Rajshahi,1,3,Very Dissatisfied,Very durable,Positive,General,1,"11 June, 2023",Jun-2023,,1,57,6%
+CUST1864,1000,Oneplus,28,39,26-35,Female,Dhaka,4,3,Satisfied,Too expensive for features,Negative,Pricing Issue,-1,"9 June, 2023",Jun-2023,,0,56,6%
+CUST1865,1000,Apple,21,39,18-25,Female,Rajshahi,3,3,Neutral,Stylish design,Neutral,General,0,"18 April, 2024",Apr-2024,,0,56,6%
+CUST1866,1000,Oneplus,32,39,26-35,Female,Dhaka,1,3,Very Dissatisfied,Breaks easily,Negative,General,-1,"23 August, 2024",Aug-2024,,1,56,6%
+CUST1867,1000,Samsung,23,39,18-25,Female,Sylhet,4,3,Satisfied,Battery drains quickly,Negative,Battery Problem,-1,"18 November, 2023",Nov-2023,,0,55,6%
+CUST1868,1000,Samsung,47,39,46-55,Other,Rangpur,1,3,Very Dissatisfied,Stylish design,Neutral,General,0,"12 January, 2023",Jan-2023,,1,55,6%
+CUST1869,1000,Vivo,55,39,46-55,Male,Barisal,1,3,Very Dissatisfied,Design feels outdated,Negative,General,-1,"28 February, 2024",Feb-2024,,1,54,5%
+CUST1870,1000,Vivo,19,39,18-25,Other,Barisal,3,3,Neutral,Poor camera resolution,Negative,General,-1,"14 March, 2023",Mar-2023,,0,53,5%
+CUST1871,1000,Oppo,32,39,26-35,Male,Sylhet,5,3,Very Satisfied,Excellent battery life,Positive,Battery Problem,1,"10 August, 2024",Aug-2024,,0,53,5%
+CUST1872,1000,Xiaomi,28,39,26-35,Female,Sylhet,5,3,Very Satisfied,Very durable,Positive,General,1,"20 July, 2023",Jul-2023,,0,53,5%
+CUST1873,1000,Oppo,25,39,18-25,Male,Khulna,1,3,Very Dissatisfied,Design feels outdated,Negative,General,-1,"5 June, 2024",Jun-2024,,1,53,5%
+CUST1874,1000,Oneplus,43,39,36-45,Other,Rangpur,2,3,Dissatisfied,Design feels outdated,Negative,General,-1,"19 May, 2024",May-2024,,1,52,5%
+CUST1875,1000,Oppo,22,39,18-25,Other,Sylhet,4,3,Satisfied,Lags frequently,Negative,Slow System,-1,"18 November, 2024",Nov-2024,,0,51,5%
+CUST1876,1000,Apple,23,39,18-25,Male,Rajshahi,2,3,Dissatisfied,Excellent battery life,Positive,Battery Problem,1,"8 February, 2023",Feb-2023,,1,51,5%
+CUST1877,1000,Oneplus,43,39,36-45,Female,Barisal,2,3,Dissatisfied,Amazing camera quality,Positive,General,1,"1 March, 2023",Mar-2023,,1,50,5%
+CUST1878,1000,Vivo,21,39,18-25,Female,Chittagong,1,3,Very Dissatisfied,Lags frequently,Negative,Slow System,-1,"31 July, 2024",Jul-2024,,1,49,5%
+CUST1879,1000,Samsung,36,39,36-45,Other,Barisal,1,3,Very Dissatisfied,Very durable,Positive,General,1,"17 November, 2023",Nov-2023,,1,48,5%
+CUST1880,1000,Vivo,37,39,36-45,Male,Dhaka,1,3,Very Dissatisfied,Stylish design,Neutral,General,0,"10 March, 2024",Mar-2024,,1,47,5%
+CUST1881,1000,Xiaomi,50,39,46-55,Female,Barisal,1,3,Very Dissatisfied,Breaks easily,Negative,General,-1,"27 September, 2024",Sep-2024,,1,46,5%
+CUST1882,1000,Oneplus,37,39,36-45,Female,Khulna,5,3,Very Satisfied,Battery drains quickly,Negative,Battery Problem,-1,"6 November, 2024",Nov-2024,,0,45,5%
+CUST1883,1000,Oneplus,29,39,26-35,Other,Rangpur,1,3,Very Dissatisfied,Stylish design,Neutral,General,0,"12 February, 2024",Feb-2024,,1,45,5%
+CUST1884,1000,Apple,18,39,18-25,Female,Sylhet,5,3,Very Satisfied,Excellent battery life,Positive,Battery Problem,1,"21 January, 2024",Jan-2024,,0,44,4%
+CUST1885,1000,Xiaomi,43,39,36-45,Male,Rangpur,5,3,Very Satisfied,Affordable and reliable,Positive,General,1,"1 November, 2024",Nov-2024,,0,44,4%
+CUST1886,1000,Samsung,31,39,26-35,Other,Sylhet,1,3,Very Dissatisfied,Very durable,Positive,General,1,"22 July, 2024",Jul-2024,,1,44,4%
+CUST1887,1000,Oneplus,55,39,46-55,Other,Barisal,3,3,Neutral,Excellent customer support,Positive,Service Complaint,1,"19 March, 2023",Mar-2023,,0,43,4%
+CUST1888,1000,Oneplus,54,39,46-55,Male,Chittagong,4,3,Satisfied,Great performance under heavy use,Positive,General,1,"13 July, 2023",Jul-2023,,0,43,4%
+CUST1889,1000,Apple,28,39,26-35,Other,Chittagong,2,3,Dissatisfied,Battery drains quickly,Negative,Battery Problem,-1,"12 October, 2023",Oct-2023,,1,43,4%
+CUST1890,1000,Oppo,53,39,46-55,Female,Khulna,5,3,Very Satisfied,Excellent customer support,Positive,Service Complaint,1,"10 June, 2024",Jun-2024,,0,42,4%
+CUST1891,1000,Samsung,30,39,26-35,Female,Dhaka,4,3,Satisfied,Excellent customer support,Positive,Service Complaint,1,"7 June, 2024",Jun-2024,,0,42,4%
+CUST1892,1000,Vivo,20,39,18-25,Male,Barisal,3,3,Neutral,Customer service is slow,Negative,Slow System,-1,"4 September, 2024",Sep-2024,,0,42,4%
+CUST1893,1000,Xiaomi,50,39,46-55,Female,Sylhet,2,3,Dissatisfied,Very durable,Positive,General,1,"5 June, 2023",Jun-2023,,1,42,4%
+CUST1894,1000,Oneplus,23,39,18-25,Male,Barisal,2,3,Dissatisfied,Affordable and reliable,Positive,General,1,"6 December, 2023",Dec-2023,,1,41,4%
+CUST1895,1000,Oneplus,27,39,26-35,Male,Khulna,5,3,Very Satisfied,Customer service is slow,Negative,Slow System,-1,"5 May, 2023",May-2023,,0,40,4%
+CUST1896,1000,Vivo,22,39,18-25,Female,Rajshahi,1,3,Very Dissatisfied,Breaks easily,Negative,General,-1,"7 October, 2023",Oct-2023,,1,40,4%
+CUST1897,1000,Samsung,40,39,36-45,Male,Rajshahi,3,3,Neutral,Very durable,Positive,General,1,"13 September, 2024",Sep-2024,,0,39,4%
+CUST1898,1000,Oppo,27,39,26-35,Female,Khulna,5,3,Very Satisfied,Affordable and reliable,Positive,General,1,"19 October, 2024",Oct-2024,,0,39,4%
+CUST1899,1000,Oneplus,19,39,18-25,Other,Sylhet,3,3,Neutral,Breaks easily,Negative,General,-1,"28 December, 2024",Dec-2024,,0,39,4%
+CUST1900,1000,Samsung,30,39,26-35,Other,Rangpur,1,3,Very Dissatisfied,Amazing camera quality,Positive,General,1,"4 November, 2024",Nov-2024,,1,39,4%
+CUST1901,1000,Vivo,57,39,47-60,Male,Khulna,1,3,Very Dissatisfied,Battery drains quickly,Negative,Battery Problem,-1,"8 May, 2023",May-2023,,1,38,4%
+CUST1902,1000,Apple,19,39,18-25,Female,Sylhet,5,3,Very Satisfied,Excellent battery life,Positive,Battery Problem,1,"10 November, 2023",Nov-2023,,0,37,4%
+CUST1903,1000,Oppo,37,39,36-45,Female,Chittagong,1,3,Very Dissatisfied,Too expensive for features,Negative,Pricing Issue,-1,"28 November, 2023",Nov-2023,,1,37,4%
+CUST1904,1000,Xiaomi,18,39,18-25,Other,Khulna,4,3,Satisfied,Poor camera resolution,Negative,General,-1,"30 May, 2023",May-2023,,0,36,4%
+CUST1905,1000,Oneplus,54,39,46-55,Other,Sylhet,2,3,Dissatisfied,Excellent battery life,Positive,Battery Problem,1,"29 March, 2024",Mar-2024,,1,36,4%
+CUST1906,1000,Samsung,26,39,26-35,Female,Khulna,5,3,Very Satisfied,Excellent customer support,Positive,Service Complaint,1,"5 February, 2023",Feb-2023,,0,35,4%
+CUST1907,1000,Apple,34,39,26-35,Male,Khulna,3,3,Neutral,Great performance under heavy use,Positive,General,1,"15 November, 2024",Nov-2024,,0,35,4%
+CUST1908,1000,Xiaomi,26,39,26-35,Other,Rangpur,4,3,Satisfied,Lags frequently,Negative,Slow System,-1,"24 February, 2024",Feb-2024,,0,35,4%
+CUST1909,1000,Samsung,28,39,26-35,Male,Rangpur,5,3,Very Satisfied,Amazing camera quality,Positive,General,1,"22 January, 2023",Jan-2023,,0,35,4%
+CUST1910,1000,Samsung,32,39,26-35,Male,Sylhet,1,3,Very Dissatisfied,Customer service is slow,Negative,Slow System,-1,"25 July, 2023",Jul-2023,,1,35,4%
+CUST1911,1000,Xiaomi,41,39,36-45,Other,Sylhet,1,3,Very Dissatisfied,Lags frequently,Negative,Slow System,-1,"30 September, 2024",Sep-2024,,1,34,3%
+CUST1912,1000,Apple,55,39,46-55,Male,Dhaka,1,3,Very Dissatisfied,Excellent battery life,Positive,Battery Problem,1,"22 December, 2023",Dec-2023,,1,33,3%
+CUST1913,1000,Vivo,52,39,46-55,Male,Khulna,1,3,Very Dissatisfied,Customer service is slow,Negative,Slow System,-1,"15 March, 2024",Mar-2024,,1,32,3%
+CUST1914,1000,Apple,47,39,46-55,Female,Rajshahi,3,3,Neutral,Excellent battery life,Positive,Battery Problem,1,"29 December, 2024",Dec-2024,,0,31,3%
+CUST1915,1000,Oppo,48,39,46-55,Male,Khulna,4,3,Satisfied,Great performance under heavy use,Positive,General,1,"6 April, 2023",Apr-2023,,0,31,3%
+CUST1916,1000,Oneplus,22,39,18-25,Female,Khulna,2,3,Dissatisfied,Great performance under heavy use,Positive,General,1,"13 June, 2023",Jun-2023,,1,31,3%
+CUST1917,1000,Xiaomi,31,39,26-35,Other,Sylhet,3,3,Neutral,Breaks easily,Negative,General,-1,"28 May, 2023",May-2023,,0,30,3%
+CUST1918,1000,Vivo,28,39,26-35,Other,Khulna,3,3,Neutral,Excellent battery life,Positive,Battery Problem,1,"13 June, 2024",Jun-2024,,0,30,3%
+CUST1919,1000,Xiaomi,26,39,26-35,Female,Barisal,2,3,Dissatisfied,Design feels outdated,Negative,General,-1,"21 October, 2023",Oct-2023,,1,30,3%
+CUST1920,1000,Xiaomi,51,39,46-55,Other,Khulna,2,3,Dissatisfied,Stylish design,Neutral,General,0,"14 July, 2023",Jul-2023,,1,29,3%
+CUST1921,1000,Apple,29,39,26-35,Male,Barisal,1,3,Very Dissatisfied,Great performance under heavy use,Positive,General,1,"24 October, 2024",Oct-2024,,1,28,3%
+CUST1922,1000,Oneplus,52,39,46-55,Male,Rangpur,3,3,Neutral,Stylish design,Neutral,General,0,"24 April, 2024",Apr-2024,,0,27,3%
+CUST1923,1000,Oppo,52,39,46-55,Male,Rajshahi,5,3,Very Satisfied,Battery drains quickly,Negative,Battery Problem,-1,"3 May, 2023",May-2023,,0,27,3%
+CUST1924,1000,Samsung,18,39,18-25,Other,Sylhet,2,3,Dissatisfied,Lags frequently,Negative,Slow System,-1,"4 February, 2024",Feb-2024,,1,27,3%
+CUST1925,1000,Samsung,57,39,47-60,Male,Khulna,2,3,Dissatisfied,Amazing camera quality,Positive,General,1,"29 November, 2024",Nov-2024,,1,26,3%
+CUST1926,1000,Xiaomi,39,39,36-45,Other,Barisal,4,3,Satisfied,Design feels outdated,Negative,General,-1,"27 March, 2024",Mar-2024,,0,25,3%
+CUST1927,1000,Oneplus,46,39,46-55,Male,Barisal,5,3,Very Satisfied,Great performance under heavy use,Positive,General,1,"22 October, 2024",Oct-2024,,0,25,3%
+CUST1928,1000,Vivo,25,39,18-25,Female,Rangpur,5,3,Very Satisfied,Battery drains quickly,Negative,Battery Problem,-1,"14 April, 2023",Apr-2023,,0,25,3%
+CUST1929,1000,Apple,28,39,26-35,Other,Barisal,2,3,Dissatisfied,Too expensive for features,Negative,Pricing Issue,-1,"6 April, 2024",Apr-2024,,1,25,3%
+CUST1930,1000,Oneplus,58,39,47-60,Other,Chittagong,1,3,Very Dissatisfied,Affordable and reliable,Positive,General,1,"18 December, 2024",Dec-2024,,1,24,2%
+CUST1931,1000,Oneplus,54,39,46-55,Male,Dhaka,4,3,Satisfied,Customer service is slow,Negative,Slow System,-1,"10 December, 2024",Dec-2024,,0,23,2%
+CUST1932,1000,Apple,31,39,26-35,Other,Rajshahi,5,3,Very Satisfied,Excellent customer support,Positive,Service Complaint,1,"31 January, 2024",Jan-2024,,0,23,2%
+CUST1933,1000,Xiaomi,47,39,46-55,Other,Rangpur,2,3,Dissatisfied,Stylish design,Neutral,General,0,"3 December, 2023",Dec-2023,,1,23,2%
+CUST1934,1000,Oneplus,52,39,46-55,Female,Rangpur,5,3,Very Satisfied,Design feels outdated,Negative,General,-1,"21 August, 2024",Aug-2024,,0,22,2%
+CUST1935,1000,Samsung,38,39,36-45,Female,Khulna,4,3,Satisfied,Design feels outdated,Negative,General,-1,"22 May, 2023",May-2023,,0,22,2%
+CUST1936,1000,Apple,54,39,46-55,Male,Chittagong,4,3,Satisfied,Too expensive for features,Negative,Pricing Issue,-1,"13 November, 2023",Nov-2023,,0,22,2%
+CUST1937,1000,Vivo,22,39,18-25,Female,Khulna,3,3,Neutral,Too expensive for features,Negative,Pricing Issue,-1,"11 December, 2024",Dec-2024,,0,22,2%
+CUST1938,1000,Oppo,36,39,36-45,Male,Khulna,2,3,Dissatisfied,Amazing camera quality,Positive,General,1,"11 July, 2024",Jul-2024,,1,22,2%
+CUST1939,1000,Xiaomi,31,39,26-35,Male,Sylhet,4,3,Satisfied,Customer service is slow,Negative,Slow System,-1,"10 June, 2024",Jun-2024,,0,21,2%
+CUST1940,1000,Apple,43,39,36-45,Male,Sylhet,3,3,Neutral,Breaks easily,Negative,General,-1,"9 July, 2024",Jul-2024,,0,21,2%
+CUST1941,1000,Oppo,21,39,18-25,Other,Sylhet,3,3,Neutral,Stylish design,Neutral,General,0,"5 February, 2024",Feb-2024,,0,21,2%
+CUST1942,1000,Oppo,42,39,36-45,Female,Chittagong,5,3,Very Satisfied,Affordable and reliable,Positive,General,1,"11 November, 2024",Nov-2024,,0,21,2%
+CUST1943,1000,Vivo,59,39,47-60,Male,Khulna,5,3,Very Satisfied,Amazing camera quality,Positive,General,1,"6 November, 2023",Nov-2023,,0,21,2%
+CUST1944,1000,Oneplus,42,39,36-45,Female,Dhaka,3,3,Neutral,Design feels outdated,Negative,General,-1,"9 May, 2024",May-2024,,0,21,2%
+CUST1945,1000,Vivo,35,39,26-35,Male,Rajshahi,5,3,Very Satisfied,Excellent battery life,Positive,Battery Problem,1,"9 July, 2024",Jul-2024,,0,21,2%
+CUST1946,1000,Oneplus,57,39,47-60,Female,Sylhet,4,3,Satisfied,Affordable and reliable,Positive,General,1,"1 September, 2024",Sep-2024,,0,21,2%
+CUST1947,1000,Oneplus,25,39,18-25,Female,Sylhet,1,3,Very Dissatisfied,Design feels outdated,Negative,General,-1,"19 April, 2023",Apr-2023,,1,21,2%
+CUST1948,1000,Apple,56,39,47-60,Male,Rangpur,4,3,Satisfied,Lags frequently,Negative,Slow System,-1,"7 January, 2024",Jan-2024,,0,20,2%
+CUST1949,1000,Apple,57,39,47-60,Other,Khulna,3,3,Neutral,Very durable,Positive,General,1,"7 September, 2024",Sep-2024,,0,20,2%
+CUST1950,1000,Xiaomi,31,39,26-35,Female,Khulna,3,3,Neutral,Very durable,Positive,General,1,"25 July, 2023",Jul-2023,,0,20,2%
+CUST1951,1000,Oneplus,49,39,46-55,Other,Chittagong,4,3,Satisfied,Too expensive for features,Negative,Pricing Issue,-1,"12 February, 2023",Feb-2023,,0,20,2%
+CUST1952,1000,Oppo,55,39,46-55,Other,Chittagong,5,3,Very Satisfied,Great performance under heavy use,Positive,General,1,"2 September, 2023",Sep-2023,,0,20,2%
+CUST1953,1000,Samsung,50,39,46-55,Male,Sylhet,5,3,Very Satisfied,Amazing camera quality,Positive,General,1,"14 October, 2023",Oct-2023,,0,20,2%
+CUST1954,1000,Xiaomi,40,39,36-45,Male,Khulna,3,3,Neutral,Design feels outdated,Negative,General,-1,"21 December, 2023",Dec-2023,,0,20,2%
+CUST1955,1000,Apple,32,39,26-35,Male,Dhaka,2,3,Dissatisfied,Too expensive for features,Negative,Pricing Issue,-1,"20 April, 2024",Apr-2024,,1,20,2%
+CUST1956,1000,Vivo,50,39,46-55,Female,Rajshahi,5,3,Very Satisfied,Breaks easily,Negative,General,-1,"24 March, 2023",Mar-2023,,0,19,2%
+CUST1957,1000,Xiaomi,42,39,36-45,Male,Khulna,4,3,Satisfied,Lags frequently,Negative,Slow System,-1,"20 April, 2023",Apr-2023,,0,19,2%
+CUST1958,1000,Xiaomi,34,39,26-35,Male,Rangpur,5,3,Very Satisfied,Great performance under heavy use,Positive,General,1,"9 July, 2023",Jul-2023,,0,19,2%
+CUST1959,1000,Xiaomi,50,39,46-55,Female,Khulna,4,3,Satisfied,Amazing camera quality,Positive,General,1,"8 September, 2023",Sep-2023,,0,19,2%
+CUST1960,1000,Xiaomi,19,39,18-25,Female,Barisal,3,3,Neutral,Too expensive for features,Negative,Pricing Issue,-1,"24 December, 2024",Dec-2024,,0,19,2%
+CUST1961,1000,Samsung,31,39,26-35,Male,Chittagong,5,3,Very Satisfied,Customer service is slow,Negative,Slow System,-1,"18 October, 2023",Oct-2023,,0,19,2%
+CUST1962,1000,Vivo,57,39,47-60,Male,Rangpur,4,3,Satisfied,Affordable and reliable,Positive,General,1,"6 October, 2024",Oct-2024,,0,19,2%
+CUST1963,1000,Vivo,57,39,47-60,Male,Rajshahi,3,3,Neutral,Breaks easily,Negative,General,-1,"20 July, 2023",Jul-2023,,0,19,2%
+CUST1964,1000,Vivo,56,39,47-60,Male,Sylhet,2,3,Dissatisfied,Lags frequently,Negative,Slow System,-1,"22 November, 2023",Nov-2023,,1,19,2%
+CUST1965,1000,Oneplus,23,39,18-25,Other,Rangpur,4,3,Satisfied,Design feels outdated,Negative,General,-1,"25 May, 2024",May-2024,,0,18,2%
+CUST1966,1000,Oppo,23,39,18-25,Other,Khulna,2,3,Dissatisfied,Customer service is slow,Negative,Slow System,-1,"13 February, 2024",Feb-2024,,1,18,2%
+CUST1967,1000,Vivo,20,39,18-25,Male,Sylhet,2,3,Dissatisfied,Amazing camera quality,Positive,General,1,"29 August, 2024",Aug-2024,,1,17,2%
+CUST1968,1000,Xiaomi,24,39,18-25,Other,Khulna,1,3,Very Dissatisfied,Customer service is slow,Negative,Slow System,-1,"22 May, 2024",May-2024,,1,16,2%
+CUST1969,1000,Xiaomi,25,39,18-25,Female,Sylhet,5,3,Very Satisfied,Design feels outdated,Negative,General,-1,"31 December, 2024",Dec-2024,,0,15,2%
+CUST1970,1000,Vivo,59,39,47-60,Other,Rajshahi,4,3,Satisfied,Customer service is slow,Negative,Slow System,-1,"23 August, 2024",Aug-2024,,0,15,2%
+CUST1971,1000,Vivo,32,39,26-35,Other,Chittagong,2,3,Dissatisfied,Excellent battery life,Positive,Battery Problem,1,"13 March, 2023",Mar-2023,,1,15,2%
+CUST1972,1000,Xiaomi,46,39,46-55,Male,Rajshahi,1,3,Very Dissatisfied,Excellent customer support,Positive,Service Complaint,1,"4 September, 2023",Sep-2023,,1,14,1%
+CUST1973,1000,Oneplus,50,39,46-55,Other,Barisal,3,3,Neutral,Poor camera resolution,Negative,General,-1,"2 October, 2024",Oct-2024,,0,13,1%
+CUST1974,1000,Apple,47,39,46-55,Other,Dhaka,4,3,Satisfied,Very durable,Positive,General,1,"24 December, 2024",Dec-2024,,0,13,1%
+CUST1975,1000,Apple,56,39,47-60,Other,Chittagong,2,3,Dissatisfied,Lags frequently,Negative,Slow System,-1,"30 August, 2024",Aug-2024,,1,13,1%
+CUST1976,1000,Vivo,44,39,36-45,Other,Rajshahi,5,3,Very Satisfied,Excellent customer support,Positive,Service Complaint,1,"9 August, 2024",Aug-2024,,0,12,1%
+CUST1977,1000,Samsung,53,39,46-55,Female,Barisal,1,3,Very Dissatisfied,Amazing camera quality,Positive,General,1,"19 July, 2024",Jul-2024,,1,12,1%
+CUST1978,1000,Vivo,46,39,46-55,Male,Dhaka,2,3,Dissatisfied,Poor camera resolution,Negative,General,-1,"10 December, 2023",Dec-2023,,1,11,1%
+CUST1979,1000,Vivo,55,39,46-55,Male,Barisal,5,3,Very Satisfied,Lags frequently,Negative,Slow System,-1,"23 February, 2023",Feb-2023,,0,10,1%
+CUST1980,1000,Apple,50,39,46-55,Female,Khulna,2,3,Dissatisfied,Excellent customer support,Positive,Service Complaint,1,"30 December, 2024",Dec-2024,,1,10,1%
+CUST1981,1000,Xiaomi,54,39,46-55,Other,Khulna,4,3,Satisfied,Excellent battery life,Positive,Battery Problem,1,"11 June, 2024",Jun-2024,,0,9,1%
+CUST1982,1000,Vivo,44,39,36-45,Female,Sylhet,4,3,Satisfied,Breaks easily,Negative,General,-1,"2 September, 2024",Sep-2024,,0,9,1%
+CUST1983,1000,Xiaomi,50,39,46-55,Other,Chittagong,4,3,Satisfied,Very durable,Positive,General,1,"15 June, 2024",Jun-2024,,0,9,1%
+CUST1984,1000,Xiaomi,21,39,18-25,Female,Khulna,1,3,Very Dissatisfied,Breaks easily,Negative,General,-1,"11 July, 2024",Jul-2024,,1,9,1%
+CUST1985,1000,Samsung,39,39,36-45,Male,Rangpur,4,3,Satisfied,Battery drains quickly,Negative,Battery Problem,-1,"12 July, 2023",Jul-2023,,0,8,1%
+CUST1986,1000,Xiaomi,19,39,18-25,Male,Barisal,5,3,Very Satisfied,Amazing camera quality,Positive,General,1,"27 February, 2023",Feb-2023,,0,8,1%
+CUST1987,1000,Apple,27,39,26-35,Male,Chittagong,2,3,Dissatisfied,Very durable,Positive,General,1,"12 March, 2024",Mar-2024,,1,8,1%
+CUST1988,1000,Oneplus,22,39,18-25,Other,Rangpur,3,3,Neutral,Excellent customer support,Positive,Service Complaint,1,"21 April, 2023",Apr-2023,,0,7,1%
+CUST1989,1000,Oneplus,27,39,26-35,Other,Khulna,5,3,Very Satisfied,Lags frequently,Negative,Slow System,-1,"9 May, 2023",May-2023,,0,7,1%
+CUST1990,1000,Oppo,50,39,46-55,Female,Sylhet,5,3,Very Satisfied,Breaks easily,Negative,General,-1,"6 December, 2024",Dec-2024,,0,7,1%
+CUST1991,1000,Vivo,55,39,46-55,Female,Rajshahi,4,3,Satisfied,Battery drains quickly,Negative,Battery Problem,-1,"22 November, 2023",Nov-2023,,0,7,1%
+CUST1992,1000,Apple,30,39,26-35,Male,Sylhet,1,3,Very Dissatisfied,Too expensive for features,Negative,Pricing Issue,-1,"8 January, 2023",Jan-2023,,1,7,1%
+CUST1993,1000,Xiaomi,48,39,46-55,Other,Rangpur,2,3,Dissatisfied,Stylish design,Neutral,General,0,"29 January, 2023",Jan-2023,,1,6,1%
+CUST1994,1000,Oneplus,53,39,46-55,Female,Dhaka,1,3,Very Dissatisfied,Very durable,Positive,General,1,"22 April, 2023",Apr-2023,,1,5,1%
+CUST1995,1000,Apple,41,39,36-45,Other,Khulna,2,3,Dissatisfied,Stylish design,Neutral,General,0,"3 November, 2024",Nov-2024,,1,4,0%
+CUST1996,1000,Oneplus,32,39,26-35,Other,Rangpur,2,3,Dissatisfied,Too expensive for features,Negative,Pricing Issue,-1,"11 May, 2023",May-2023,,1,3,0%
+CUST1997,1000,Xiaomi,46,39,46-55,Male,Dhaka,1,3,Very Dissatisfied,Poor camera resolution,Negative,General,-1,"7 July, 2023",Jul-2023,,1,2,0%
+CUST1998,1000,Oneplus,25,39,18-25,Male,Dhaka,5,3,Very Satisfied,Lags frequently,Negative,Slow System,-1,"5 November, 2024",Nov-2024,,0,1,0%
+CUST1999,1000,Vivo,22,39,18-25,Other,Barisal,2,3,Dissatisfied,Affordable and reliable,Positive,General,1,"9 December, 2024",Dec-2024,,1,1,0%
