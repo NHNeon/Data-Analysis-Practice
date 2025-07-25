@@ -51,13 +51,3 @@ Customer return reasons, approval status, and refundable quantity.
 
 ---
 
-## 📊 Sample Queries
-
-### 🔹 Top-Selling Products
-```sql
-SELECT p.name, SUM(od.quantity) AS total_units_sold
-FROM order_details od
-JOIN products p ON p.product_id = od.product_id
-GROUP BY p.name
-ORDER BY total_units_sold DESC
-LIMIT 10;
