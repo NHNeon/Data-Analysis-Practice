@@ -1,3 +1,4 @@
+ Dashboard: ![Dashboard](https://github.com/user-attachments/assets/e68bc6bf-3889-4b1a-82bc-fe606eacdac9)
 # 🏥 Hospital Business Analysis Dashboard
 
 ## 🎯 Project Objective
@@ -72,4 +73,4 @@ The dataset includes **1,000 synthetic patient records** covering key hospital o
 - Segmented patients for targeted service design
 - Enabled insurance impact analysis for financial planning
 
- Dashboard: ![Dashboard](https://github.com/user-attachments/assets/e68bc6bf-3889-4b1a-82bc-fe606eacdac9)
+
