@@ -1,3 +1,5 @@
+  Dashboard: ![Dashboard](https://github.com/user-attachments/assets/ecfbfe85-b8c4-4b5c-9062-7e8823d4cbb7)
+
 PRAN Malaysia Marketing Campaign Analysis Dashboard (Demo)
 🧭 Overview
 
@@ -79,4 +81,4 @@ By visualizing marketing data in a digestible and interactive format, this dashb
     Campaign ROI modeling
 
     Regional business intelligence
-    Dashboard: ![Dashboard](https://github.com/user-attachments/assets/ecfbfe85-b8c4-4b5c-9062-7e8823d4cbb7)
+  
