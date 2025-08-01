@@ -1,3 +1,6 @@
+
+Dashboard: ![Dashboard](https://github.com/user-attachments/assets/02df46d4-d8b5-436b-b1f0-8bfd22f4a83e)
+
  Malaysian Hypermarket Data Analysis(Demo)
 
 A full-stack data analytics project focused on understanding **consumer buying trends**, **inventory flow**, and **customer loyalty** for a fictional hypermarket chain operating in Malaysia. The goal is to build predictive insights using Excel for ETL and Power BI for interactive visualization and forecasting.
@@ -93,7 +96,6 @@ Custom Excel formulas were used for:
 
 ---
 
-Dashboard: ![Dashboard](https://github.com/user-attachments/assets/02df46d4-d8b5-436b-b1f0-8bfd22f4a83e)
 
 
 
