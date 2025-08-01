@@ -1,3 +1,5 @@
+Dashboard: ![Dashboard](https://github.com/user-attachments/assets/1d54ea38-d6b0-4e10-914f-4f81c5242850)
+
 Smart Cost-Revenue Insights for Ocean Resort Amid Business Travel Decline
 📊 Project Overview
 
@@ -24,4 +26,4 @@ Built using Excel for transformation and Power BI for visualization, the solutio
     DAX – Custom KPI logic, Relationship-based filtering
 
     Power Query – Calendar table, Data transformation
-    Dashboard: ![Dashboard](https://github.com/user-attachments/assets/1d54ea38-d6b0-4e10-914f-4f81c5242850)
+    
