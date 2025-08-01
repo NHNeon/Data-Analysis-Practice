@@ -1,3 +1,4 @@
+Dashboard: ![Dashboard](https://github.com/user-attachments/assets/96d6e803-1455-4f45-b220-67b1ac0cddac)
 Impact of CSR on Customer Loyalty and Sales Performance
 
 🧾 Project Title:
@@ -48,4 +49,4 @@ The goal is to enable business decision-makers to:
 - Heatmap: Region vs Project Type showing Loyalty Index Intensity
 - KPI Cards: Total Sales, Avg Loyalty Index, Avg Satisfaction, Repeat Purchase %
 
-Dashboard: ![Dashboard](https://github.com/user-attachments/assets/96d6e803-1455-4f45-b220-67b1ac0cddac)
+
