@@ -1,3 +1,5 @@
+![Dashboard 2](https://github.com/user-attachments/assets/dde7fe77-8b98-414d-832c-3cede68b990c)
+
 This dashboard analyzes Manufacturing Optimization
 
 .# 📦 Data-Driven Manufacturing Optimization
@@ -86,7 +88,7 @@ This project simulates a comprehensive end-to-end data analysis scenario in a ma
 
 ---
 
-![Dashboard 2](https://github.com/user-attachments/assets/dde7fe77-8b98-414d-832c-3cede68b990c)
+
 
 
 
